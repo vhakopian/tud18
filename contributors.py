@@ -1,76 +1,81 @@
-from github import Github
+from git import *
 
-def get_dico(user, password):
-    g = Github(user, password)
-    repo_name = "pygame/pygame"
-    repo = g.get_repo(repo_name)
-    commits  = repo.get_commits()
+def get_dico(repo_path):
+    repo = Repo(repo_path)
+
+    commits  = repo.iter_commits()
     dico = {}
     c=0
-    for commit in commits:
+    for commit in repo.iter_commits('master'):
+        print(commit.committed_date)
         c+=1
         contributor_name = commit.author.name
-        for file in commit.files:
-            file_name = file.filename
+        print(contributor_name)
+        for item in commit.diff(None):
+            file_name = item.a_path
+            print(file_name)
             if dico.has_key(file_name):
                 if dico[file_name].has_key(contributor_name):
                     dico[file_name][contributor_name] += 1
                 else: dico[file_name][contributor_name] = 1
-            else:  
+            else:
                 dico[file_name] = {contributor_name: 1}
+        if c == 10:
+            break
+
         print(c)
+    print(dico)
     return(dico)
 
 
 def metrics(dico):
-    
+
     output= {}
-    
+
     for file in dico:
-        
+
         total=0
         major=0
         minor=0
         ownership=0
-        
+
         total_contributions=0
-        
+
         for user in dico[file]:
             total_contributions += dico[file][user]
-            
+
         for user in dico[file]:
-            prop = dico[file][user]/total_contributions
+            prop = dico[file][user]/float(total_contributions)
             if prop>=0.05:
-                major+=1    
+                major+=1
             else:
                 minor+=1
             if prop > ownership:
-                ownership = prop 
-                
-        total = major + minor
-        
-        dico_file = {'total' : total, 'major':major, 'minor':minor, 'ownership':ownership}
-    
-        output[file]= dico_file
-        
-    return(output)
-    
-    
+                ownership = prop
 
-def write_results(dict): 
-   
+        total = major + minor
+
+        dico_file = {'total' : total, 'major':major, 'minor':minor, 'ownership':ownership}
+
+        output[file]= dico_file
+
+    return(output)
+
+
+
+def write_results(dict):
+
     file  = open("results.tsv", "w")
     file.write("filename\tminor\tmajor\ttotal\townership\n")
     for filename in dict:
         d = dict[filename]
         file.write(filename + "\t" + str(d['minor'])+"\t"+str(d['major'])+"\t"+str(d['total'])+"\t"+str(d['ownership'])+"\n")
-    
+
     file.close()
 
 def main():
-    username = "*****"
-    password = "*****"
-    dico = get_dico(username, password)
+    path = "/Users/danielmendonca/git/pygame"
+    dico = get_dico(path)
     m = metrics(dico)
     write_results(m)
 
