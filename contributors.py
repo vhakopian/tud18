@@ -1,4 +1,8 @@
 from git import *
+import datetime
+
+
+EMPTY_TREE_SHA   = "4b825dc642cb6eb9a060e54bf8d69288fbee4904"
 
 def get_dico(repo_path):
     repo = Repo(repo_path)
@@ -8,10 +12,14 @@ def get_dico(repo_path):
     c=0
     for commit in repo.iter_commits('master'):
         print(commit.committed_date)
+        year = int(datetime.datetime.fromtimestamp(commit.committed_date).strftime('%Y'))
+        if(year >2016):
+            continue
         c+=1
         contributor_name = commit.author.name
+        parent = commit.parents[0] if commit.parents else EMPTY_TREE_SHA
         print(contributor_name)
-        for item in commit.diff(None):
+        for item in commit.diff(parent):
             file_name = item.a_path
             print(file_name)
             if dico.has_key(file_name):
@@ -20,10 +28,10 @@ def get_dico(repo_path):
                 else: dico[file_name][contributor_name] = 1
             else:
                 dico[file_name] = {contributor_name: 1}
-        if c == 10:
+        if c == 100:
             break
 
-        print(c)
+    #    print(c)
     print(dico)
     return(dico)
 
