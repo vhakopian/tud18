@@ -38,6 +38,7 @@ def get_dico(repo_path):
             else :
                 dico_sizechurn[file_name] = {"churn" : churn, "size" : 0}
      
+    deletedFiles = [] 
   
     for filename in dico_sizechurn:
         
@@ -49,7 +50,13 @@ def get_dico(repo_path):
             
             
         except :
+            #the file named filename doesn't exist in the last release of 2016
+            deletedFiles.append(filename)
             pass 
+            
+    for file in deletedFiles:
+            del dico[file]
+            del dico_sizechurn[file]
             
     return(dico, dico_sizechurn)
 

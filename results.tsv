@@ -187,7 +187,6 @@ scss/_type.scss	0	1	1	1.0	150	18
 scss/_utilities.scss	0	2	2	0.8571428571428571	11	18
 scss/bootstrap.scss	0	4	4	0.7857142857142857	54	24
 scss/mixins/_background-variant.scss	0	1	1	1.0	12	3
-scss/mixins/{_pulls.scss => _float.scss}	0	1	1	1.0	0	12
 scss/mixins/_grid-framework.scss	0	5	5	0.7894736842105263	69	249
 scss/mixins/_grid.scss	0	5	5	0.7777777777777778	107	233
 scss/mixins/_hover.scss	0	4	4	0.5	60	63
@@ -195,7 +194,6 @@ scss/mixins/_image.scss	0	1	1	1.0	36	30
 scss/mixins/_screen-reader.scss	0	4	4	0.625	32	16
 scss/utilities/_borders.scss	0	1	1	1.0	30	90
 scss/utilities/_float.scss	0	1	1	1.0	13	39
-scss/utilities/_pulls.scss	0	1	1	1.0	0	39
 scss/utilities/_text.scss	0	2	2	0.8333333333333334	59	24
 docs/_data/browser-bugs.yml	2	3	5	0.6842105263157895	451	1234
 docs/_data/browser-features.yml	0	3	3	0.5384615384615384	149	556
@@ -236,7 +234,6 @@ docs/_includes/page-headers.html	0	2	2	0.5	46	10
 docs/assets/scss/_ads.scss	0	1	1	1.0	50	187
 docs/assets/scss/_nav.scss	0	2	2	0.8571428571428571	40	22
 docs/assets/scss/flex-grid.scss	0	2	2	0.8571428571428571	33	160
-docs/components/utilities.md	0	4	4	0.5	0	881
 docs/utilities/close-icon.md	0	2	2	0.5	13	26
 docs/utilities/image-replacement.md	0	2	2	0.5	18	36
 docs/utilities/invisible-content.md	0	2	2	0.5	23	46
@@ -265,20 +262,7 @@ docs/_layouts/docs.html	0	1	1	1.0	36	8
 docs/assets/scss/_anchor.scss	0	1	1	1.0	20	4
 js/tests/unit/tab.js	0	1	1	1.0	228	16
 js/tests/unit/modal.js	0	3	3	0.5	406	73
-_visibility.scss	0	1	1	1.0	0	5
 .gitignore	0	3	3	0.3333333333333333	52	12
-dist/js/npm.js	0	3	3	0.5	0	48
-dist/js/umd/alert.js	0	3	3	0.5	0	844
-dist/js/umd/button.js	0	3	3	0.6666666666666666	0	760
-dist/js/umd/carousel.js	0	3	3	0.4	0	2004
-dist/js/umd/collapse.js	0	3	3	0.5	0	1532
-dist/js/umd/dropdown.js	0	3	3	0.4	0	1266
-dist/js/umd/modal.js	0	3	3	0.625	0	2230
-dist/js/umd/popover.js	0	3	3	0.5	0	880
-dist/js/umd/scrollspy.js	0	3	3	0.4	0	1358
-dist/js/umd/tab.js	0	3	3	0.5	0	1128
-dist/js/umd/tooltip.js	0	3	3	0.5	0	2552
-dist/js/umd/util.js	0	3	3	0.4	0	704
 docs/.htmlhintrc	0	3	3	0.3333333333333333	15	45
 docs/_plugins/bugify.rb	0	3	3	0.5	26	15
 docs/_plugins/highlight_alt.rb	0	3	3	0.5	85	18
@@ -288,26 +272,11 @@ docs/assets/img/devices.png	0	3	3	0.3333333333333333	25	0
 docs/assets/img/sass.png	0	3	3	0.3333333333333333	95	0
 docs/assets/scss/_clipboard-js.scss	0	3	3	0.5	38	8
 docs/assets/scss/_responsive-tests.scss	0	2	2	0.6666666666666666	95	3
-docs/dist/js/npm.js	0	3	3	0.5	0	48
-docs/dist/js/umd/alert.js	0	3	3	0.5	0	844
-docs/dist/js/umd/button.js	0	3	3	0.6666666666666666	0	760
-docs/dist/js/umd/carousel.js	0	3	3	0.4	0	2004
-docs/dist/js/umd/collapse.js	0	3	3	0.5	0	1532
-docs/dist/js/umd/dropdown.js	0	3	3	0.4	0	1266
-docs/dist/js/umd/modal.js	0	3	3	0.625	0	2230
-docs/dist/js/umd/popover.js	0	3	3	0.5	0	880
-docs/dist/js/umd/scrollspy.js	0	3	3	0.4	0	1358
-docs/dist/js/umd/tab.js	0	3	3	0.5	0	1128
-docs/dist/js/umd/tooltip.js	0	3	3	0.5	0	2552
-docs/dist/js/umd/util.js	0	3	3	0.4	0	704
 docs/examples/jumbotron/index.html	0	4	4	0.5	85	20
 docs/examples/starter-template/index.html	0	4	4	0.5	58	20
-grunt/autoprefixer-settings.js	0	3	3	0.3333333333333333	0	93
-grunt/bs-commonjs-generator.js	0	3	3	0.5	0	121
 grunt/configBridge.json	0	3	3	0.3333333333333333	10	24
 grunt/gcp-key.json.enc	0	3	3	0.3333333333333333	17	0
 grunt/upload-preview.sh	0	3	3	0.3333333333333333	28	84
-js/.eslintrc	0	3	3	0.6666666666666666	0	372
 js/.eslintrc.json	0	3	3	0.75	206	1126
 js/.jscsrc	0	3	3	0.5	42	8
 js/tests/unit/scrollspy.js	0	4	4	0.375	418	254
@@ -318,13 +287,9 @@ LICENSE	0	2	2	0.6666666666666666	22	3
 docs/assets/js/ie-emulation-modes-warning.js	0	2	2	0.6666666666666666	52	3
 grunt/change-version.js	0	2	2	0.6666666666666666	106	3
 scss/mixins/_breakpoints.scss	0	1	1	1.0	86	20
-js/{.eslintrc => .eslintrc.json}	0	2	2	0.6666666666666666	0	14
 scss/mixins/_cards.scss	0	1	1	1.0	44	30
-docs/components/button-dropdown.md	0	1	1	1.0	0	752
-scss/_functions.scss	0	1	1	1.0	0	17
 docs/_includes/callout-warning-color-assistive-technologies.md	0	1	1	1.0	5	10
 docs/_includes/footer.html	0	1	1	1.0	58	16
-docs/components/label.md	0	1	1	1.0	0	92
 docs/examples/dashboard/dashboard.css	0	1	1	1.0	102	6
 grunt/sauce_browsers.yml	0	1	1	1.0	84	88
 js/tests/index.html	0	1	1	1.0	168	10
@@ -334,12 +299,9 @@ js/tests/visual/popover.html	0	1	1	1.0	47	8
 js/tests/visual/scrollspy.html	0	1	1	1.0	90	4
 js/tests/visual/tab.html	0	1	1	1.0	162	8
 js/tests/visual/tooltip.html	0	1	1	1.0	42	8
-scss/.csscomb.json	0	1	1	1.0	0	608
 scss/_buttons.scss	0	1	1	1.0	176	7
 scss/_carousel.scss	0	1	1	1.0	253	100
 scss/_code.scss	0	1	1	1.0	57	22
-scss/_labels.scss	0	1	1	1.0	0	158
 scss/_nav.scss	0	2	2	0.6666666666666666	157	6
 scss/_tags.scss	0	1	1	1.0	77	154
-scss/mixins/{_label.scss => _tag.scss}	0	1	1	1.0	0	8
 scss/utilities/_display.scss	0	2	2	0.6666666666666666	13	39
