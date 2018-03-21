@@ -10,7 +10,10 @@ def is_bug_fix(commit):
 
 def get_bug_dict(repo):
     bug_dict = {}
-    for commit in repo.iter_commits('v4-dev'):
+    c = 0
+    print(c)
+
+        print(c)
         if( not one_year(commit)):
             continue
         if( not is_bug_fix(commit)):
@@ -22,17 +25,25 @@ def get_bug_dict(repo):
 def valid_bugs(bug_dict, commit,repo) :
     parent = commit.parents[0] if commit.parents else EMPTY_TREE_SHA
     for item in commit.diff(parent):
+        print(item.a_path)
         breaker = False
         for commit_blamed, lines in repo.blame(parent,item.a_path):
+        #    print("commit sha:" + str(commit_blamed))
+        #    print("file affected:" + item.a_path)
+            nline = 0
+            if(not six_months(commit_blamed)):
+                continue
             for line in lines:
+                nline +=1
+        #        print("verifying line:" + str(nline))
                 if(was_deleted(commit,line,commit_blamed,item.a_path,repo)):
-                    if(six_months(commit_blamed)):
-                        if bug_dict.has_key(item.a_path):
-                            bug_dict[item.a_path] += 1
-                        else:
-                            bug_dict[item.a_path] = 1
-                        breaker = True
-                        break
+                    if item.a_path in bug_dict:
+                        bug_dict[item.a_path] += 1
+                    else:
+                        bug_dict[item.a_path] = 1
+                    breaker = True
+            #        print("aa")
+                    break
             if breaker:
                 break
 
@@ -46,6 +57,10 @@ def was_deleted(commit,searched_line,searched_line_commit,file_path,repo):
 
 def main():
     path = "/Users/danielmendonca/git/bootstrap"
-    dico = get_dico(path)
-    bug_dict = get_bug_dict(dico)
+    repo = Repo(path)
+    bug_dict = get_bug_dict(repo)
     print(bug_dict)
+    print("hello" )
+
+if __name__ == "__main__":
+    main()
