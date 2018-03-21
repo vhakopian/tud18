@@ -1,4 +1,5 @@
 from git import *
+from date import *
 import datetime
 
 
@@ -27,15 +28,15 @@ def get_dico(repo_path):
             file_name = str(file)
             churn = changes[file]['deletions']+changes[file]['insertions']
             
-            if dico.has_key(file_name):
-                if dico[file_name].has_key(contributor_name):
+            if file_name in dico:
+                if contributor_name in dico[file_name]:
                     dico[file_name][contributor_name] += 1
                 else:
                     dico[file_name][contributor_name] = 1
             else:
                 dico[file_name] = {contributor_name: 1}
             
-            if dico_sizechurn.has_key(file_name):
+            if file_name in dico_sizechurn:
                 dico_sizechurn[file_name]["churn"] += churn
             else :
                 dico_sizechurn[file_name] = {"churn" : churn, "size" : 0}
