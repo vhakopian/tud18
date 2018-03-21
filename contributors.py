@@ -11,16 +11,13 @@ def get_dico(repo_path):
     commits  = repo.iter_commits()
     dico = {}
     dico_sizechurn = {}
-    c=0
     
     for commit in repo.iter_commits('v4-dev'):
         
-        year = int(datetime.datetime.fromtimestamp(commit.committed_date).strftime('%Y'))
-        if(year >2016):
-            continue
-        c+=1
-        contributor_name = commit.author.name
+        if not (between_beginning_2016_RL(commit)): continue
+            
         
+        contributor_name = commit.author.name
         changes = commit.stats.files
         
         for file in changes:
@@ -40,17 +37,16 @@ def get_dico(repo_path):
                 dico_sizechurn[file_name]["churn"] += churn
             else :
                 dico_sizechurn[file_name] = {"churn" : churn, "size" : 0}
-        print(c)
      
   
     for filename in dico_sizechurn:
+        
         try:
             size = 0
-            for commit, lines in repo.blame('HEAD', filename):
+            for commit, lines in repo.blame('b5890e0608ad2262cde4a38e90afa19f1cb5d852', filename):
                 size += len(lines)
             dico_sizechurn[filename]["size"]=size
             
-            print(size)
             
         except :
             pass 

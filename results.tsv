@@ -1,2085 +1,345 @@
-filename	minor	major	total	ownership
-docs/javascript/modal.md	0	1	1	1.0
-less/tables.less	28	2	30	0.724770642202
-less/mixins/border-radius.less	0	2	2	0.714285714286
-js/jquery/chili/js.js	0	1	1	1.0
-docs/assets/img/examples/bootstrap-example-starter.png	0	2	2	0.75
-examples/starter-template.html	0	2	2	0.666666666667
-docs/build/node_modules/hogan.js/web/index.html.mustache	0	3	3	0.4
-lib/code.less	0	1	1	1.0
-_gh_pages/examples/justified-nav.html	0	1	1	1.0
-getting-started.html	29	2	31	0.610315186246
-docs/assets/img/examples/slide-02.jpg	0	4	4	0.666666666667
-docs/examples/narrow-jumbotron/index.html	4	6	10	0.545454545455
-docs/assets/img/examples/bootstrap-example-hero.jpg	0	3	3	0.5
-documentation/assets/img/examples/bootstrap-example-marketing.png	0	1	1	1.0
-docs/assets/js/google-code-prettify/lang-vb.js	0	2	2	0.666666666667
-docs/examples/navbar-top/index.html	3	5	8	0.5
-docs/examples/fluid.html	8	2	10	0.651162790698
-docs/assets/js/vendor/jszip.js	0	2	2	0.6875
-less/code.less	16	2	18	0.711538461538
-docs/dist/css/bootstrap-grid.min.css.map	0	3	3	0.870967741935
-docs/_includes/components/panels.html	0	6	6	0.625
-documentation/assets/fonts/glyphiconshalflings-regular.woff	0	1	1	1.0
-docs/examples/navbar-top/navbar-top.css	0	1	1	1.0
-scss/utilities/_align.scss	0	3	3	0.666666666667
-docs/layout/responsive-utilities.md	3	3	6	0.62962962963
-_gh_pages/assets/js/bootstrap-alert.js	0	1	1	1.0
-docs/assets/js/jquery/jquery.tipsy.js	0	2	2	0.75
-fonts/glyphiconshalflings-regular.otf	0	2	2	0.888888888889
-docs/_jade/customizer-variables.jade	0	4	4	0.4375
-scss/utilities/_pulls.scss	0	3	3	0.6
-docs/build/node_modules/hogan.js/test/spec/specs/interpolation.yml	0	3	3	0.4
-docs/javascript/tabs.md	0	1	1	1.0
-documentation/assets/img/examples/bootstrap-example-starter.png	0	1	1	1.0
-documentation/assets/js/bootstrap-popover.js	0	1	1	1.0
-docs/assets/js/_vendor/blob.js	0	4	4	0.4
-Makefile	17	3	20	0.460732984293
-_gh_pages/assets/img/examples/slide-03.jpg	0	1	1	1.0
-scss/mixins/_center-block.scss	0	1	1	1.0
-assets/fonts/glyphiconshalflings-regular.woff	0	1	1	1.0
-docs/assets/js/ie-emulation-modes-warning.js	0	6	6	0.4
-docs/assets/img/examples/slide-01.jpg	0	4	4	0.666666666667
-js/bootstrap-collapsible.js	0	1	1	1.0
-docs/assets/img/example-sites/example-twitter-translation-center.jpg	0	1	1	1.0
-less/.csscomb.json	3	2	5	0.782608695652
-examples/screenshots/theme.jpg	0	2	2	0.928571428571
-docs/_site/assets/css/pygments-manni.css	0	2	2	0.5
-less/labels-badges.less	2	3	5	0.730769230769
-scss/mixins/_lists.scss	0	2	2	0.5
-examples/dashboard/dashboard.css	0	1	1	1.0
-CONTRIBUTING.md	33	2	35	0.525773195876
-docs/_site/examples/starter-template.html	0	2	2	0.5
-js/tests/index.html	13	5	18	0.352941176471
-docs/assets/img/glyphicons-halflings.png	0	5	5	0.5
-docs/assets/js/vendor/uglify.min.js	2	3	5	0.5
-docs/dist/css/bootstrap-reboot.css.map	2	1	3	0.911111111111
-docs/dist/css/bootstrap-reboot.min.css	0	3	3	0.84
-grunt/npm-shrinkwrap.json	5	3	8	0.444444444444
-docs/assets/img/responsive-illustrations.png	0	4	4	0.545454545455
-docs/utilities/display-property.md	0	4	4	0.6
-docs/assets/img/expo-vogue.jpg	0	3	3	0.5
-docs/assets/img/components.png	0	3	3	0.692307692308
-examples/assets/js/bootstrap-dropdown.js	0	2	2	0.833333333333
-_gh_pages/assets/img/examples/bootstrap-example-justified-nav.png	0	1	1	1.0
-docs/_site/assets/js/bootstrap-affix.js	0	2	2	0.5
-scss/mixins/_buttons.scss	7	2	9	0.581395348837
-lib/progress-bars.less	0	4	4	0.7
-img/glyphicons-halflings-white.png	0	4	4	0.5
-documentation/assets/fonts/glyphiconshalflings-regular.ttf	0	1	1	1.0
-examples/screenshots/starter.png	0	1	1	1.0
-docs/_includes/getting-started/whats-included.html	0	7	7	0.473684210526
-docs/components/scrollspy.md	9	4	13	0.431818181818
-docs/_site/assets/js/bootstrap-typeahead.js	0	2	2	0.5
-_gh_pages/assets/js/google-code-prettify/prettify.css	0	1	1	1.0
-docs/_site/assets/img/examples/bootstrap-example-navbar-static-top.png	0	2	2	0.5
-less/_alert.less	0	1	1	1.0
-docs/_site/assets/img/examples/bootstrap-example-navbar-fixed-top.png	0	2	2	0.5
-docs/dist/fonts/glyphicons-halflings-regular.svg	0	2	2	0.833333333333
-jumbotron-narrow/jumbotron-narrow.css	0	2	2	0.666666666667
-scss/_list-group.scss	7	2	9	0.653846153846
-assets/img/examples/bootstrap-example-signin.png	0	1	1	1.0
-examples/non-responsive/index.html	5	3	8	0.632653061224
-less/mixins/vendor-prefixes.less	0	6	6	0.65
-docs/assets/img/icon-css3.png	0	3	3	0.555555555556
-signin/index.html	0	3	3	0.555555555556
-examples/signin/index.html	5	3	8	0.709090909091
-js/button.js	16	4	20	0.491935483871
-templates/default.html	0	2	2	0.5
-scss/_scaffolding.scss	0	2	2	0.625
-docs/assets/img/examples/bootstrap-example-navbar-static-top.png	0	3	3	0.666666666667
-docs/dist/js/umd/tab.js	0	6	6	0.578947368421
-docs/dist/css/bootstrap-theme.min.css.map	0	3	3	0.5
-js/dist/modal.js	2	6	8	0.566037735849
-docs/CNAME	0	2	2	0.666666666667
-docs/content/buttons.md	0	1	1	1.0
-dist/js/umd/modal.js	1	7	8	0.4
-docs/_includes/js/modal.html	7	5	12	0.483333333333
-less/test.js	0	1	1	1.0
-docs/build/node_modules/hogan.js/tools/release.js	0	3	3	0.4
-js/src/collapse.js	5	5	10	0.463414634146
-docs/_site/examples/navbar-fixed-top.html	0	2	2	0.5
-docs/_site/assets/js/README.md	0	2	2	0.5
-components.html	31	2	33	0.655913978495
-jumbotron-narrow/example.css	0	2	2	0.5
-lib/labels.less	0	1	1	1.0
-less/panels.less	20	2	22	0.744680851064
-docs/build/node_modules/hogan.js/web/images/small-hogan-icon.png	0	4	4	0.375
-bootstrap/fonts/glyphiconshalflings-regular.ttf	0	1	1	1.0
-docs/examples/navbar-fixed-top.html	0	7	7	0.6
-docs/getting-started/options.md	1	4	5	0.714285714286
-grunt/shrinkwrap.js	4	3	7	0.423076923077
-scss/mixins/_nav-divider.scss	0	1	1	1.0
-assets/ico/apple-touch-icon-114-precomposed.png	0	4	4	0.823529411765
-scss/_bootstrap.scss	0	1	1	1.0
-bootstrap/fonts/glyphiconshalflings-regular.woff	0	1	1	1.0
-docs/_site/assets/ico/favicon.png	0	2	2	0.5
-docs/assets/img/bootstrap-docs-readme.png	0	4	4	0.636363636364
-docs/_layouts/home.html	2	4	6	0.71875
-docs/assets/js/affix.js	0	2	2	0.666666666667
-assets/img/example-sites/example-8020select.jpg	0	1	1	1.0
-documentation/assets/img/bs-docs-bootstrap-features.png	0	1	1	1.0
-docs/assets/js/src/customizer.js	6	4	10	0.372881355932
-docs/assets/scss/_skiplink.scss	0	3	3	0.4
-docs/assets/js/_src/application.js	3	3	6	0.424242424242
-_gh_pages/assets/img/examples/slide-02.jpg	0	1	1	1.0
-docs/assets/img/examples/bootstrap-example-fluid.jpg	0	3	3	0.5
-docs/assets/img/expo-riot.jpg	0	3	3	0.5
-dist/js/umd/button.js	3	5	8	0.518518518519
-assets/img/examples/bootstrap-example-jumbotron-narrow.png	0	1	1	1.0
-docs/templates/pages/base-css.mustache	22	3	25	0.724683544304
-bootstrap/img/glyphicons-halflings-white.png	0	2	2	0.5
-less/carousel.less	25	2	27	0.646706586826
-lib/scaffolding.less	4	2	6	0.578512396694
-docs/components/index.md	0	1	1	1.0
-docs/jade/customizer-variables.jade	0	3	3	0.777777777778
-docs/assets/img/example-sites/totalwireframe.png	0	3	3	0.5
-offcanvas/index.html	0	5	5	0.5
-lib/alerts.less	0	2	2	0.875
-img/glyphicons-halflings-sprite-white.png	0	3	3	0.5
-_gh_pages/assets/img/examples/bootstrap-example-carousel.png	0	1	1	1.0
-navbar/index.html	0	4	4	0.461538461538
-_layouts/home.html	5	2	7	0.780487804878
-docs/assets/js/src/ie8-responsive-file-warning.js	0	3	3	0.5
-_gh_pages/getting-started/index.html	0	1	1	1.0
-docs/assets/img/example-diagram-02.png	0	3	3	0.5
-docs/dist/css/bootstrap-theme.rtl.min.css	0	2	2	0.666666666667
-docs/assets/js/bootstrap-alerts.js	0	2	2	0.5
-assets/js/bootstrap-popover.js	0	1	1	1.0
-docs/examples/screenshots/equal-height-columns.jpg	0	2	2	0.833333333333
-documentation/assets/img/bootstrap-mdo-sfmoma-02.jpg	0	1	1	1.0
-sticky-footer/sticky-footer.css	0	2	2	0.666666666667
-examples/offcanvas/index.html	7	2	9	0.673076923077
-docs/assets/js/alert.js	0	2	2	0.75
-docs/components/popovers.md	14	3	17	0.456140350877
-assets/img/example-sites/example-fleetio.jpg	0	1	1	1.0
-_gh_pages/assets/js/bootstrap-carousel.js	0	1	1	1.0
-docs/assets/js/filesaver.js	0	3	3	0.727272727273
-docs/assets/flash/zero-clipboard.swf	0	2	2	0.5
-docs/getting-started/quick-start.md	0	2	2	0.857142857143
-js/tests/unit/bootstrap-popover.js	4	5	9	0.4
-js/tests/unit/bootstrap-phantom.js	0	4	4	0.375
-docs/assets/ico/bootstrap-apple-72x72.png	0	3	3	0.5
-documentation/js/tests/unit/bootstrap-carousel.js	0	1	1	1.0
-js/bootstrap-modal.js	13	3	16	0.5
-docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.common.js	0	3	3	0.4
-examples/tooltips/viewport.html	0	3	3	0.571428571429
-lib/thumbnails.less	0	2	2	0.583333333333
-js/bootstrap-popover.js	10	4	14	0.438596491228
-documentation/assets/img/example-sites/example-jumpstart-ui.jpg	0	1	1	1.0
-docs/_includes/css/helpers.md	0	1	1	1.0
-docs/extend/index.md	0	1	1	1.0
-docs/assets/img/example-sites/example-synco.jpg	0	1	1	1.0
-_gh_pages/assets/ico/apple-touch-icon-114-precomposed.png	0	1	1	1.0
-docs/getting-started/browsers-devices.md	9	4	13	0.337837837838
-docs/dist/css/bootstrap-flex.css	2	1	3	0.959459459459
-bower.json	23	2	25	0.554140127389
-docs/dist/css/bootstrap-theme.min.css	7	2	9	0.724637681159
-documentation/js/bootstrap-alert.js	0	1	1	1.0
-grunt/change-version.js	0	4	4	0.583333333333
-documentation/assets/img/examples/browser-icon-safari.png	0	1	1	1.0
-docs/assets/img/example-sites/example-jshint.jpg	0	1	1	1.0
-examples/screenshots/offcanvas.png	0	1	1	1.0
-documentation/js/tests/vendor/qunit.js	0	1	1	1.0
-examples/assets/js/bootstrap-modal.js	0	2	2	0.875
-docs/components/grid.md	0	1	1	1.0
-docs/_site/assets/img/examples/bootstrap-example-starter.png	0	2	2	0.5
-assets/img/map.png	0	1	1	1.0
-documentation/assets/ico/favicon.png	0	1	1	1.0
-docs/build/node_modules/hogan.js/.git_ignore	0	3	3	0.4
-docs/assets/img/example-sites/example-tonx.jpg	0	1	1	1.0
-docs/assets/js/html5shiv.js	0	3	3	0.666666666667
-examples/screenshots/justified-nav.png	0	1	1	1.0
-examples/jumbotron/index.html	10	2	12	0.701298701299
-docs/components/popover.html	0	2	2	0.666666666667
-fonts/glyphicons-halflings-regular.ttf	1	3	4	0.68
-examples/screenshots/signin.png	0	1	1	1.0
-docs/assets/js/vendor/jekyll-search.js	0	3	3	0.4
-js/tests/unit/bootstrap-dropdown.js	4	3	7	0.380952380952
-docs/assets/js/tooltip.js	0	2	2	0.8
-less/responsive-utility-classes.less	0	1	1	1.0
-readme.markdown	0	1	1	1.0
-assets/img/example-sites/example-easel.jpg	0	1	1	1.0
-assets/js/html5shiv.js	0	3	3	0.769230769231
-js/tests/unit/button.js	14	6	20	0.393617021277
-docs/assets/js/bootstrap-scrollspy.js	5	3	8	0.391304347826
-docs/components/modal.md	12	3	15	0.564516129032
-_gh_pages/assets/js/jquery.js	0	1	1	1.0
-docs/browser-bugs.html	3	3	6	0.59375
-docs/assets/js/bootstrap-transition.js	5	3	8	0.385964912281
-_gh_pages/assets/img/example-sites/example-codecademy.jpg	0	1	1	1.0
-docs/assets/img/example-sites/breakingnews.png	0	2	2	0.8
-customize.html	15	2	17	0.719298245614
-docs/getting-started/javascript.md	0	4	4	0.777777777778
-docs/assets/js/vendor/jquery.min.js	2	4	6	0.416666666667
-js/externs/bootstrap.js	0	3	3	0.6
-less/pager.less	14	2	16	0.671232876712
-fonts/glyphiconshalflings-regular.svg	0	2	2	0.888888888889
-docs/utilities/invisible-content.md	0	3	3	0.571428571429
-bootstrap-1.3.0.css	0	2	2	0.640625
-assets/js/bootstrap-collapse.js	0	1	1	1.0
-js/dist/tab.js.map	3	5	8	0.512195121951
-_gh_pages/assets/img/examples/bootstrap-example-marketing.png	0	1	1	1.0
-fonts/glyphicons-halflings-regular.eot	1	3	4	0.68
-docs/_layouts/simple.html	0	3	3	0.714285714286
-bootstrap-1.2.0.min.css	0	2	2	0.653846153846
-docs/components/responsive-utilities.md	0	1	1	1.0
-docs/assets/css/docs.min.css.map	8	2	10	0.772321428571
-docs/assets/img/example-sites/adoptahydrant.png	0	2	2	0.8
-examples/offcanvas/offcanvas.js	0	1	1	1.0
-docs/_plugins/markdown-block.rb	0	4	4	0.25
-assets/img/example-sites/example-karma.jpg	0	1	1	1.0
-dist/css/bootstrap.min.css.map	5	3	8	0.796226415094
-docs/extend.html	7	1	8	0.852941176471
-js/dist/popover.js.map	5	4	9	0.488372093023
-docs/assets/img/glyphicons-halflings-white.png	0	4	4	0.583333333333
-docs/_site/examples/signin.html	0	2	2	0.5
-docs/examples/blog/index.html	10	3	13	0.464285714286
-dist/js/umd/popover.js	2	7	9	0.333333333333
-docs/_includes/css/responsive-utilities.html	0	4	4	0.555555555556
-docs/assets/less/syntax.less	0	1	1	1.0
-docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.amd.js	0	3	3	0.4
-less/mixins/size.less	0	2	2	0.833333333333
-documentation/assets/img/bootstrap-mdo-sfmoma-03.jpg	0	1	1	1.0
-documentation/assets/img/examples/bootstrap-example-fluid.png	0	1	1	1.0
-grunt/.jshintrc	3	4	7	0.413793103448
-lib/twipsy.less	0	2	2	0.636363636364
-less/_dropdown.less	0	1	1	1.0
-docs/javascript/popovers.md	0	2	2	0.769230769231
-js/dist/popover.js	4	5	9	0.487804878049
-docs/examples/screenshots/dashboard.jpg	0	2	2	0.833333333333
-less/_type.less	0	1	1	1.0
-documentation/js/tests/unit/bootstrap-phantom.js	0	1	1	1.0
-docs/migration.html	5	2	7	0.5
-docs/assets/ico/apple-touch-icon-precomposed.png	0	1	1	1.0
-docs/examples/theme/index.html	11	4	15	0.411214953271
-docs/examples/jumbotron-narrow/jumbotron-narrow.css	0	2	2	0.9
-.gitignore	15	4	19	0.478723404255
-docs/build/node_modules/hogan.js/web/1.0.0/hogan.min.js	0	3	3	0.4
-examples/cover/index.html	0	3	3	0.875
-about.html	0	5	5	0.685714285714
-docs/assets/js/google-code-prettify/prettify.css	2	2	4	0.739130434783
-less/subnav.less	0	1	1	1.0
-docs/_includes/getting-started/translations.html	0	2	2	0.833333333333
-docs/_includes/js/alerts.html	4	4	8	0.40625
-less/mixins/progress-bar.less	0	5	5	0.75
-docs/assets/img/icon-github.png	0	3	3	0.555555555556
-docs/dist/svg/chevron-right.svg	0	2	2	0.666666666667
-docs/_includes/components/glyphicons.html	5	2	7	0.433333333333
-_gh_pages/assets/img/examples/browser-icon-chrome.png	0	1	1	1.0
-docs/build/node_modules/hogan.js/test/templates/list.mustache	0	3	3	0.4
-_gh_pages/assets/js/bootstrap-tab.js	0	1	1	1.0
-documentation/js/bootstrap-transition.js	0	1	1	1.0
-less/tests/forms-responsive.html	0	3	3	0.8
-js/tests/unit/bootstrap-twipsy.js	0	4	4	0.444444444444
-scss/utilities/_screenreaders.scss	0	1	1	1.0
-documentation/js/bootstrap-carousel.js	0	1	1	1.0
-lib/modals.less	0	2	2	0.769230769231
-docs/components/button.html	0	2	2	0.666666666667
-dist/js/umd/carousel.js	2	6	8	0.384615384615
-documentation/assets/img/example-sites/example-breakingnews.jpg	0	1	1	1.0
-docs/assets/js/vendor/tether.min.js	0	7	7	0.5
-less/_close.less	0	1	1	1.0
-docs/assets/img/grid-20px.png	0	2	2	0.75
-documentation/assets/img/example-sites/example-gosquared.jpg	0	1	1	1.0
-scss/_variables.scss	40	2	42	0.586666666667
-docs/assets/img/example-sites/example-desk.jpg	0	1	1	1.0
-navbar/navbar.css	0	2	2	0.666666666667
-carousel.html	7	2	9	0.65306122449
-_visibility.scss	0	2	2	0.5
-docs/getting-started/disable-responsive.md	0	1	1	1.0
-docs/_includes/getting-started/template.html	0	3	3	0.588235294118
-docs/examples/starter-template/starter-template.css	0	1	1	1.0
-assets/img/examples/browser-icon-firefox.png	0	1	1	1.0
-docs/components/collapse.md	6	3	9	0.68085106383
-less/modals.less	21	2	23	0.689873417722
-assets/img/examples/bootstrap-example-justified-nav.png	0	1	1	1.0
-docs/components/typography.md	0	2	2	0.916666666667
-scss/mixins/_hide-text.scss	0	1	1	1.0
-docs/assets/scss/_responsive-tests.scss	0	3	3	0.785714285714
-docs/assets/js/jquery/chili/php.js	0	2	2	0.666666666667
-docs/examples/starter-template/index.html	10	3	13	0.45
-test-infra/npm-shrinkwrap.canonical.json	5	4	9	0.383333333333
-docs/assets/scss/_zeroclipboard.scss	0	2	2	0.8
-js/bootstrap-dropdown.js	12	3	15	0.422764227642
-docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.js	0	3	3	0.4
-docs/build/node_modules/hogan.js/test/spec/specs/partials.yml	0	3	3	0.4
-examples/screenshots/sticky-footer.png	0	1	1	1.0
-docs/assets/img/bootstrap-mdo-sfmoma-02.jpg	0	3	3	0.6
-examples/assets/js/google-code-prettify/prettify.js	0	2	2	0.6
-docs/assets/ico/favicon.png	0	1	1	1.0
-_gh_pages/assets/js/holder/holder.js	0	1	1	1.0
-documentation/assets/js/html5shiv.js	0	1	1	1.0
-documentation/fonts/glyphiconshalflings-regular.svg	0	1	1	1.0
-less/mixins/opacity.less	0	2	2	0.75
-lib/reset.less	1	3	4	0.636363636364
-documentation/assets/img/example-sites/example-adoptahydrant.jpg	0	1	1	1.0
-docs/_site/examples/sticky-footer-navbar.html	0	2	2	0.5
-docs-assets/js/respond.min.js	0	2	2	0.5
-_includes/ads.html	0	2	2	0.857142857143
-less/_progress.less	0	1	1	1.0
-docs/assets/scss/_masthead.scss	3	3	6	0.695652173913
-_gh_pages/assets/img/example-sites/example-divshot.jpg	0	1	1	1.0
-less/_grid.less	0	1	1	1.0
-docs/assets/js/less.js	0	2	2	0.833333333333
-documentation/assets/img/example-sites/example-easel.jpg	0	1	1	1.0
-scss/mixins/_tab-focus.scss	0	3	3	0.625
-grid/grid.css	0	2	2	0.666666666667
-less/_responsive-embed.less	0	1	1	1.0
-docs/javascript/transitions.md	0	1	1	1.0
-validation-status.json	0	2	2	0.8
-less/scaffolding.less	14	3	17	0.7109375
-dist/css/bootstrap-theme.min.css	10	3	13	0.702127659574
-assets/js/respond.min.js	0	2	2	0.9
-DOCS-LICENSE	0	2	2	0.75
-_gh_pages/assets/img/bootstrap-mdo-sfmoma-03.jpg	0	1	1	1.0
-examples/sticky-footer/sticky-footer.css	0	2	2	0.941176470588
-less/mixins/reset-text.less	0	3	3	0.4
-js/src/popover.js	10	4	14	0.428571428571
-scss/_tables.scss	5	2	7	0.775510204082
-docs/dist/js/umd/tooltip.js	2	5	7	0.37037037037
-js/tests/unit/modal.js	16	5	21	0.367521367521
-dist/js/umd/util.js	2	6	8	0.4
-docs/components/button-group.md	5	3	8	0.705882352941
-docs/assets/css/src/pygments-manni.css	0	4	4	0.5
-_gh_pages/assets/js/application.js	0	1	1	1.0
-documentation/examples/carousel.html	0	1	1	1.0
-docs/templates/pages/extend.mustache	6	2	8	0.727272727273
-js/bootstrap-tab.js	10	3	13	0.359375
-js/tests/unit/tab.js	18	4	22	0.411764705882
-less/buttons.less	34	2	36	0.716783216783
-dist/js/umd/collapse.js	2	6	8	0.416666666667
-docs/examples/screenshots/album.jpg	0	3	3	0.5
-docs/examples/offcanvas/offcanvas.js	0	5	5	0.733333333333
-less/badges.less	18	1	19	0.717948717949
-jumbotron/jumbotron.css	0	2	2	0.666666666667
-docs/examples/screenshots/sticky-footer.jpg	0	2	2	0.833333333333
-js/popover.js	20	3	23	0.48951048951
-docs/less.html	9	2	11	0.688235294118
-justified-nav/justified-nav.css	0	2	2	0.666666666667
-docs/examples/navbar/all-navbars.html	0	1	1	1.0
-docs/build/node_modules/hogan.js/test/spec/specs/~lambdas.yml	0	3	3	0.4
-docs/build/node_modules/hogan.js/Makefile	0	3	3	0.4
-docs/_site/examples/jumbotron-narrow.html	0	2	2	0.5
-scss/mixins/_pulls.scss	0	3	3	0.4
-docs/assets/img/bs-docs-bootstrap-features.png	0	4	4	0.75
-scss/_labels.scss	3	4	7	0.567567567568
-less/_labels.less	0	1	1	1.0
-assets/img/example-sites/example-twitter-translation-center.jpg	0	1	1	1.0
-docs/migration.md	25	2	27	0.480662983425
-js/tests/vendor/qunit.js	9	3	12	0.395348837209
-docs/assets/img/examples/bootstrap-example-navbar.png	0	3	3	0.666666666667
-docs/examples/screenshots/sign-in.jpg	0	2	2	0.833333333333
-_gh_pages/assets/img/example-sites/example-delicious.jpg	0	1	1	1.0
-docs/components/jumbotron.md	4	2	6	0.76
-docs/dist/css/bootstrap-grid.min.css	0	3	3	0.878787878788
-scss/_tags.scss	0	3	3	0.571428571429
-_gh_pages/assets/fonts/glyphiconshalflings-regular.eot	0	1	1	1.0
-docs/assets/js/less.min.js	0	2	2	0.666666666667
-docs/_includes/social.html	0	2	2	0.75
-less/baseline.less	0	2	2	0.5
-assets/js/bootstrap-affix.js	0	1	1	1.0
-less/.csslintrc	0	2	2	0.714285714286
-docs/examples/sticky-footer/sticky-footer.css	0	3	3	0.789473684211
-scss/mixins/_alert.scss	0	1	1	1.0
-docs/examples.html	2	2	4	0.68
-carousel/index.html	0	5	5	0.538461538462
-less/_modal.less	0	1	1	1.0
-docs/examples/screenshots/navbar-static.jpg	0	2	2	0.833333333333
-docs/_jade/customizer-nav.jade	0	7	7	0.357142857143
-docs/assets/img/glyphicons/glyphicons_042_group.png	0	3	3	0.555555555556
-scss/bootstrap-flex.scss	0	2	2	0.833333333333
-scss/mixins/_cards.scss	0	6	6	0.666666666667
-docs/_site/assets/img/examples/slide-01.jpg	0	2	2	0.5
-documentation/getting-started/index.html	0	1	1	1.0
-docs/_site/assets/ico/apple-touch-icon-144-precomposed.png	0	2	2	0.5
-js/tests/unit/bootstrap-scrollspy.js	0	5	5	0.363636363636
-_gh_pages/assets/img/grid-baseline-20px.png	0	1	1	1.0
-docs/components/label.md	0	2	2	0.923076923077
-docs/assets/js/google-code-prettify/lang-scala.js	0	2	2	0.666666666667
-docs/_layouts/customize.html	0	2	2	0.8
-docs/assets/img/glyphicons/glyphicons_163_iphone.png	0	3	3	0.555555555556
-docs/_includes/nav-components.html	2	3	5	0.823529411765
-docs/dist/css/bootstrap.css	14	2	16	0.836614173228
-_gh_pages/assets/fonts/glyphiconshalflings-regular.ttf	0	1	1	1.0
-docs/assets/img/example-sites/example-divshot.jpg	0	1	1	1.0
-dist/css/bootstrap-reboot.min.css	0	3	3	0.84
-documentation/css/index.html	0	1	1	1.0
-_gh_pages/index.html	0	1	1	1.0
-docs/assets/less/docs.less	0	1	1	1.0
-dist/css/bootstrap.rtl.css	0	2	2	0.75
-grunt/postcss.js	0	4	4	0.583333333333
-js/min/bootstrap-modal.min.js	0	1	1	1.0
-docs/build/node_modules/hogan.js/test/spec/specs/comments.yml	0	3	3	0.4
-dist/css/bootstrap-flex.min.css	2	1	3	0.958904109589
-docs/assets/img/glyphicons/glyphicons_082_roundabout.png	0	3	3	0.571428571429
-docs/examples/screenshots/cover.jpg	0	2	2	0.833333333333
-scss/utilities/_display.scss	0	4	4	0.615384615385
-docs/components/tag.md	0	4	4	0.6875
-js/tests/unit/bootstrap-buttons.js	0	3	3	0.5
-js/tests/unit/.jshintrc	0	4	4	0.4
-docs/assets/scss/_booticon.scss	0	1	1	1.0
-examples/screenshots/sticky-footer-navbar.jpg	0	2	2	0.833333333333
-scss/mixins/_image.scss	3	4	7	0.615384615385
-js/tests/visual/button.html	7	4	11	0.387096774194
-js/src/scrollspy.js	6	5	11	0.395833333333
-docs/build/node_modules/hogan.js/test/spec/specs/comments.json	0	3	3	0.4
-docs/build/node_modules/hogan.js/package.json	0	3	3	0.4
-examples/screenshots/non-responsive.jpg	0	2	2	0.857142857143
-docs/assets/img/example-sites/kippt.png	0	4	4	0.5
-js/jquery/chili/html.js	0	1	1	1.0
-dist/js/bootstrap.min.js	18	7	25	0.481641468683
-docs/_site/assets/js/bootstrap-popover.js	0	2	2	0.5
-js/tests/unit/bootstrap-tooltip.js	8	7	15	0.271186440678
-docs/customize.html	17	2	19	0.688888888889
-docs/_includes/css/grid.html	5	3	8	0.6
-bootstrap-1.1.0.css	0	2	2	0.545454545455
-docs-assets/js/raw-files.js	8	3	11	0.666666666667
-docs/assets/js/README.md	0	7	7	0.470588235294
-lib/variables.less	0	3	3	0.633333333333
-js/src/util.js	5	4	9	0.421052631579
-docs/_includes/nav-home.html	7	2	9	0.763636363636
-scss/utilities/_visibility.scss	0	4	4	0.666666666667
-documentation/assets/img/example-sites/example-8020select.jpg	0	1	1	1.0
-_includes/footer.html	4	4	8	0.75
-assets/fonts/glyphiconshalflings-regular.eot	0	1	1	1.0
-docs/assets/js/vendor/ZeroClipboard.min.js	0	7	7	0.25
-js/hover.js	0	3	3	0.5
-screenshots/navbar-static-top.png	0	1	1	1.0
-package.json	43	3	46	0.33836858006
-docs/components/type.md	0	1	1	1.0
-less/_mixins.less	0	2	2	0.75
-examples/signin.html	0	1	1	1.0
-docs/welcome.html	0	1	1	1.0
-docs/assets/js/ie10-viewport-bug-workaround.js	1	5	6	0.5
-examples/screenshots/jumbotron.jpg	3	1	4	0.857142857143
-js/bootstrap-scrollspy.js	8	3	11	0.494949494949
-docs/_includes/components/input-groups.html	0	4	4	0.366666666667
-dist/fonts/glyphiconshalflings-regular.otf	0	1	1	1.0
-lib/baseline.less	0	2	2	0.666666666667
-fluid.html	6	1	7	0.806451612903
-LICENSE.md	0	1	1	1.0
-docs/_includes/getting-started/third-party-support.html	0	3	3	0.333333333333
-_gh_pages/assets/css/bootstrap.css	0	1	1	1.0
-marketing-narrow.html	0	2	2	0.923076923077
-docs/_includes/getting-started/examples.html	5	3	8	0.47619047619
-docs/assets/img/example-sites/example-8020select.jpg	0	1	1	1.0
-documentation/js/bootstrap-tooltip.js	0	1	1	1.0
-less/tests/css-tests.html	5	2	7	0.8
-examples/screenshots/grid.jpg	0	2	2	0.833333333333
-dist/fonts/glyphiconshalflings-regular.woff	0	1	1	1.0
-examples/navbar-static-top/index.html	8	2	10	0.645161290323
-scss/_tooltip.scss	6	2	8	0.560975609756
-img/glyphicons-halflings.png	0	5	5	0.428571428571
-docs/build/index.js	0	3	3	0.529411764706
-docs/assets/img/examples/bootstrap-example-carousel.png	0	2	2	0.818181818182
-less/mixins/labels.less	0	5	5	0.583333333333
-documentation/assets/ico/apple-touch-icon-114-precomposed.png	0	1	1	1.0
-less/mixins/grid.less	0	7	7	0.611111111111
-less/_print.less	0	1	1	1.0
-_gh_pages/assets/img/examples/slide-01.jpg	0	1	1	1.0
-less/labels.less	10	3	13	0.671428571429
-docs/_site/assets/img/grid-baseline-20px.png	0	2	2	0.5
-docs/_includes/js/overview.html	0	6	6	0.578947368421
-sticky-footer-navbar/index.html	0	3	3	0.5
-docs/assets/js/_src/customizer.js	4	4	8	0.352941176471
-less/glphyicons.less	0	2	2	0.75
-docs-assets/js/holder.js	0	4	4	0.666666666667
-scss/mixins/_table-row.scss	0	2	2	0.6
-dist/css/bootstrap.responsive	0	1	1	1.0
-js/.jscsrc	10	4	14	0.295774647887
-docs-assets/css/docs.css	6	1	7	0.876923076923
-scss/mixins/_resize.scss	0	1	1	1.0
-documentation/js/tests/unit/bootstrap-modal.js	0	1	1	1.0
-docs/assets/img/less-logo-large.png	0	4	4	0.5
-docs/_site/assets/img/examples/bootstrap-example-marketing.png	0	2	2	0.5
-docs-assets/img/devices.png	0	1	1	1.0
-documentation/assets/img/bs-docs-responsive-illustrations.png	0	1	1	1.0
-documentation/js/bootstrap-collapse.js	0	1	1	1.0
-fonts/glyphicons-halflings-regular.svg	1	3	4	0.62962962963
-docs/assets/scss/_social-buttons.scss	0	2	2	0.75
-docs/getting-started/flexbox.md	5	3	8	0.541666666667
-docs/components/pagination.html	0	2	2	0.666666666667
-_gh_pages/assets/js/README.md	0	1	1	1.0
-docs/about/license.md	0	2	2	0.833333333333
-js/tests/unit/collapse.js	17	5	22	0.380530973451
-docs/examples/theme/theme.css	0	2	2	0.923076923077
-docs/_data/browser-bugs.yml	6	2	8	0.759090909091
-js/jquery/chili/css.js	0	1	1	1.0
-jumbotron.html	0	4	4	0.578947368421
-less/_utilities-responsive.less	0	2	2	0.666666666667
-lib/wells.less	0	1	1	1.0
-documentation/examples/signin.html	0	1	1	1.0
-docs/_site/css.html	0	2	2	0.5
-docs/_site/assets/img/examples/bootstrap-example-sticky-footer.png	0	2	2	0.5
-scss/mixins/_reset-text.scss	0	4	4	0.75
-js/tests/visual/modal.html	11	4	15	0.375
-docs/examples/navbar-static-top/index.html	7	4	11	0.4
-docs/examples/overview.md	0	1	1	1.0
-less/mixins/reset-filter.less	0	2	2	0.6
-lib/pager.less	0	1	1	1.0
-docs/_site/examples/navbar.html	0	2	2	0.5
-docs/examples/blog/blog.css	4	2	6	0.758620689655
-assets/img/example-sites/example-gathercontent.jpg	0	1	1	1.0
-documentation/js/bootstrap-button.js	0	1	1	1.0
-docs/assets/scss/_featurettes.scss	0	7	7	0.588235294118
-docs/assets/scss/_content.scss	0	2	2	0.916666666667
-docs/utilities/responsive-helpers.md	0	3	3	0.727272727273
-docs/_site/assets/img/examples/bootstrap-example-justified-nav.png	0	2	2	0.5
-docs/_site/assets/fonts/glyphiconshalflings-regular.eot	0	2	2	0.5
-dist/fonts/glyphiconshalflings-regular.svg	0	1	1	1.0
-docs/examples/offcanvas/offcanvas.css	0	5	5	0.777777777778
-jumbotron/index.html	0	3	3	0.454545454545
-docs/_plugins/callout.rb	0	5	5	0.363636363636
-examples/sticky-footer-navbar/index.html	7	2	9	0.660714285714
-starter-template/README.md	0	1	1	1.0
-js/affix.js	24	4	28	0.451127819549
-_gh_pages/assets/js/bootstrap-modal.js	0	1	1	1.0
-examples/navbar-fixed-top/index.html	8	2	10	0.645161290323
-assets/ico/apple-touch-icon-57-precomposed.png	0	4	4	0.823529411765
-docs/assets/img/example-sites/example-athey-creek.jpg	0	1	1	1.0
-docs/examples/carousel/carousel.css	4	3	7	0.684210526316
-less/_buttons.less	0	1	1	1.0
-assets/img/examples/bootstrap-example-starter.png	0	1	1	1.0
-scss/utilities/_flex.scss	1	4	5	0.741935483871
-docs/components/helpers.md	0	2	2	0.941176470588
-examples/starter-template/starter-template.css	0	1	1	1.0
-docs/build/node_modules/hogan.js/web/builds/1.0.3/hogan.min.js	0	3	3	0.4
-docs/build/node_modules/hogan.js/wrappers/amd.js.mustache	0	3	3	0.4
-js/tests/unit/phantom.js	9	4	13	0.488888888889
-assets/js/jszip.js	0	4	4	0.5
-js/dist/carousel.js.map	4	4	8	0.521739130435
-docs/assets/scss/_syntax.scss	0	3	3	0.769230769231
-js/.eslintrc	3	6	9	0.304347826087
-docs/assets/scss/_anchor.scss	0	2	2	0.9
-js/jquery/chili/recipes.js	0	1	1	1.0
-examples/navbar-fixed-top/navbar-fixed-top.css	0	1	1	1.0
-lib/hero-unit.less	0	3	3	0.5
-docs/sitemap.xml	0	7	7	0.55
-assets/img/examples/slide-01.jpg	0	1	1	1.0
-documentation/assets/js/bootstrap-button.js	0	1	1	1.0
-docs/_includes/nav-getting-started.html	2	3	5	0.75
-docs/dist/js/umd/carousel.js	0	6	6	0.526315789474
-examples/carousel/carousel.css	0	2	2	0.846153846154
-docs/about/team.md	0	3	3	0.842105263158
-examples/screenshots/grid.png	0	1	1	1.0
-js/tab.js	19	4	23	0.48031496063
-bootstrap.min.css	9	2	11	0.760252365931
-scss/mixins/_float.scss	0	2	2	0.777777777778
-_gh_pages/assets/img/example-sites/example-gathercontent.jpg	0	1	1	1.0
-docs/assets/scss/_nav.scss	1	3	4	0.791666666667
-docs/assets/js/vendor/jquery-slim.min.js	0	1	1	1.0
-docs-assets/ico/favicon.ico	0	1	1	1.0
-examples/sticky-footer/index.html	5	2	7	0.717391304348
-docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.mustache.js	0	3	3	0.4
-docs/build/node_modules/hogan.js/web/stylesheets/skeleton.css	0	3	3	0.4
-docs/_includes/css/helpers.html	2	4	6	0.391304347826
-documentation/js/tests/index.html	0	1	1	1.0
-docs/components.html	46	2	48	0.726384364821
-assets/img/examples/bootstrap-example-fluid.png	0	1	1	1.0
-less/mixins.less	84	3	87	0.667224080268
-docs/assets/css/bootstrap-responsive.css	14	2	16	0.708920187793
-scss/_popover.scss	7	2	9	0.553191489362
-less/responsive-utilities.less	15	2	17	0.686274509804
-scss/mixins/_breakpoints.scss	5	4	9	0.291666666667
-docs/dist/js/umd/modal.js	0	6	6	0.48275862069
-bootstrap-responsive.min.css	0	4	4	0.529411764706
-docs/templates/pages/examples.mustache	0	3	3	0.571428571429
-docs/components/progress-bar.html	0	2	2	0.666666666667
-index.js	0	1	1	1.0
-_gh_pages/assets/img/examples/bootstrap-example-starter.png	0	1	1	1.0
-lib/popovers.less	0	2	2	0.7
-docs/assets/img/example-sites/example-soundready.jpg	0	1	1	1.0
-documentation/assets/js/bootstrap-carousel.js	0	1	1	1.0
-docs/_data/nav.yml	7	1	8	0.857142857143
-dist/js/umd/scrollspy.js	2	6	8	0.444444444444
-docs/_includes/css/overview.html	0	3	3	0.4
-examples/blog/blog.css	0	1	1	1.0
-assets/img/bs-docs-twitter-github.png	0	1	1	1.0
-scss/mixins/_screen-reader.scss	0	5	5	0.642857142857
-js/tests/unit/bootstrap-affix.js	0	5	5	0.363636363636
-js/collapse.js	18	5	23	0.465909090909
-jumbotron/example.css	0	2	2	0.5
-docs/dist/css/bootstrap-flex.css.map	2	1	3	0.961038961039
-docs/components/reboot.md	0	2	2	0.933333333333
-docs/assets/img/example-sites/example-fleetio.jpg	0	1	1	1.0
-navbar-static-top.html	0	4	4	0.428571428571
-scss/_progress.scss	7	3	10	0.470588235294
-docs/build/node_modules/hogan.js/wrappers/common.js.mustache	0	3	3	0.4
-justified-nav/example.css	0	2	2	0.5
-scss/_custom.scss	0	2	2	0.8
-scss/_mixins.scss	12	3	15	0.5
-js/tests/vendor/jquery.min.js	2	4	6	0.470588235294
-docs/dist/fonts/glyphicons-halflings-regular.eot	0	1	1	1.0
-signin/example.css	0	2	2	0.5
-docs/_site/assets/img/examples/slide-03.jpg	0	2	2	0.5
-docs/javascript/tooltips.md	0	1	1	1.0
-test-infra/README.md	4	3	7	0.375
-less/hero-unit.less	0	3	3	0.692307692308
-scss/bootstrap.scss	5	3	8	0.654545454545
-js/bootstrap-carousel.js	12	3	15	0.381818181818
-docs/examples/navbar-top-fixed/navbar-top-fixed.css	0	3	3	0.666666666667
-offcanvas/offcanvas.css	0	3	3	0.6
-less/responsive-768px-979px.less	0	3	3	0.7
-js/bootstrap-affix.js	2	5	7	0.485714285714
-docs/assets/js/vendor/anchor.js	0	5	5	0.5
-assets/img/example-sites/example-adoptahydrant.jpg	0	1	1	1.0
-docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.common.js	0	3	3	0.4
-docs/assets/js/_vendor/filesaver.js	0	4	4	0.4
-jumbotron-narrow/index.html	0	2	2	0.571428571429
-docs/assets/img/example-sites/gathercontent.png	0	2	2	0.8
-docs/assets/js/jquery/chili/recipes.js	0	2	2	0.666666666667
-docs/examples/sticky-footer/index.html	10	3	13	0.506849315068
-docs/_plugins/bridge.rb	0	5	5	0.25
-bootstrap-responsive.css	0	1	1	1.0
-docs-assets/js/html5shiv.js	0	2	2	0.666666666667
-dist/css/bootstrap-reboot.min.css.map	0	3	3	0.888888888889
-js/tests/server.js	0	7	7	0.4
-documentation/js/bootstrap-modal.js	0	1	1	1.0
-dist/js/umd/alert.js	3	5	8	0.434782608696
-documentation/assets/img/examples/slide-02.jpg	0	1	1	1.0
-docs/build/node_modules/hogan.js/web/builds/1.0.5/template-1.0.5.min.js	0	3	3	0.4
-docs/assets/js/uglify.js	0	2	2	0.833333333333
-docs/assets/scss/_callouts.scss	0	1	1	1.0
-js/src/dropdown.js	6	4	10	0.46511627907
-js/jquery/chili/jquery.chili-2.2.js	0	1	1	1.0
-less/mixins/panels.less	0	3	3	0.6
-js/less-1.0.41.min.js	0	1	1	1.0
-less/mixins/forms.less	0	5	5	0.642857142857
-_includes/nav-customize.html	0	4	4	0.692307692308
-documentation/assets/js/bootstrap.js	0	1	1	1.0
-docs/getting-started/community.md	0	1	1	1.0
-docs/examples/narrow-jumbotron/narrow-jumbotron.css	0	1	1	1.0
-_gh_pages/components/index.html	0	1	1	1.0
-docs/build/node_modules/hogan.js/lib/compiler.js	0	3	3	0.4
-docs/assets/img/example-sites/example-scriptogram.jpg	0	1	1	1.0
-docs/getting-started/introduction.md	11	3	14	0.387755102041
-docs/customizer-variables.jade	0	2	2	0.714285714286
-js/tests/visual/alert.html	9	3	12	0.40625
-scss/_custom-forms.scss	15	2	17	0.636363636364
-docs/assets/js/google-code-prettify/lang-sql.js	0	2	2	0.666666666667
-docs/_site/assets/js/bootstrap.min.js	0	2	2	0.5
-docs/dist/fonts/glyphicons-halflings-regular.woff2	0	1	1	1.0
-js/tests/unit/bootstrap-modal.js	3	4	7	0.384615384615
-docs/examples/justified-nav/index.html	8	4	12	0.486842105263
-documentation/assets/img/examples/bootstrap-example-justified-nav.png	0	1	1	1.0
-js/bootstrap-alert.js	7	3	10	0.396825396825
-docs/templates/layout.mustache	4	2	6	0.767857142857
-assets/js/bootstrap-modal.js	0	1	1	1.0
-less/_nav.less	0	1	1	1.0
-less/mixins/text-overflow.less	0	2	2	0.6
-documentation/examples/fluid.html	0	1	1	1.0
-scss/mixins/_visibility.scss	0	2	2	0.666666666667
-docs/javascript/buttons.md	0	1	1	1.0
-_gh_pages/assets/js/bootstrap-transition.js	0	1	1	1.0
-docs/examples/jumbotron.html	1	5	6	0.638888888889
-_includes/nav-css.html	3	1	4	0.948275862069
-assets/js/holder/holder.js	0	1	1	1.0
-examples/jumbotron-narrow/jumbotron-narrow.css	0	1	1	1.0
-js/src/alert.js	3	6	9	0.411764705882
-documentation/assets/img/example-sites/example-fleetio.jpg	0	1	1	1.0
-docs/assets/ico/favicon.ico	0	3	3	0.846153846154
-lib/navbar.less	2	2	4	0.695652173913
-lib/mixins.less	5	2	7	0.677966101695
-_gh_pages/assets/fonts/glyphiconshalflings-regular.woff	0	1	1	1.0
-dist/fonts/glyphicons-halflings-regular.svg	0	2	2	0.733333333333
-_gh_pages/assets/img/bootstrap-mdo-sfmoma-01.jpg	0	1	1	1.0
-documentation/assets/img/example-sites/example-desk.jpg	0	1	1	1.0
-_gh_pages/assets/img/example-sites/example-desk.jpg	0	1	1	1.0
-docs/_includes/js/tabs.html	6	3	9	0.478260869565
-grunt/sauce_browsers.yml	5	2	7	0.618181818182
-dist/css/bootstrap.rtl.min.css	0	2	2	0.75
-documentation/assets/js/google-code-prettify/prettify.js	0	1	1	1.0
-docs/assets/scss/docs.scss	7	3	10	0.728395061728
-lib/bootstrap.less	3	2	5	0.626865671642
-docs/assets/js/src/application.js	14	3	17	0.525773195876
-docs/build/node_modules/hogan.js/test/index.js	0	3	3	0.4
-documentation/assets/ico/favicon.ico	0	1	1	1.0
-_includes/social-buttons.html	0	4	4	0.631578947368
-bootstrap/css/bootstrap-glyphicons.css	0	1	1	1.0
-examples/screenshots/justified-nav.jpg	0	2	2	0.833333333333
-docs/components/badges.md	0	1	1	1.0
-js/dist/alert.js.map	3	4	7	0.536585365854
-fonts/glyphiconshalflings-regular.woff	0	2	2	0.888888888889
-scss/mixins/_navbar-align.scss	0	1	1	1.0
-docs/assets/js/bootstrap-popover.js	4	3	7	0.5
-examples/assets/js/bootstrap-twipsy.js	0	2	2	0.857142857143
-less/mixins/buttons.less	2	3	5	0.727272727273
-_gh_pages/assets/img/example-sites/example-synco.jpg	0	1	1	1.0
-docs/assets/brand/bootstrap-solid.svg	0	2	2	0.818181818182
-less/thumbnails.less	10	2	12	0.741176470588
-docs/_data/glyphicons.yml	0	3	3	0.6875
-js/modal.js	18	5	23	0.433962264151
-docs/assets/js/bootstrap-dropdown.js	6	3	9	0.448717948718
-assets/css/pygments-manni.css	0	1	1	1.0
-assets/img/bootstrap-mdo-sfmoma-03.jpg	0	1	1	1.0
-docs/assets/js/jquery/hashgrid.js	0	2	2	0.5
-js/dist/util.js	2	6	8	0.5
-docs/dist/css/bootstrap-grid.css.map	0	3	3	0.891891891892
-js/util.js	0	3	3	0.6
-js/dist/carousel.js	4	4	8	0.53488372093
-docs/_layouts/page.html	0	1	1	1.0
-docs/assets/img/example-sites/fleetio.png	0	4	4	0.375
-docs/_includes/components/jumbotron.html	0	2	2	0.571428571429
-examples/screenshots/marketing.png	0	1	1	1.0
-js/tests/.eslintrc.json	0	3	3	0.4
-docs/_site/assets/js/bootstrap-alert.js	0	2	2	0.5
-documentation/assets/img/example-sites/example-tonx.jpg	0	1	1	1.0
-docs/_site/assets/img/bs-docs-masthead-pattern.png	0	2	2	0.5
-docs/browser-bugs.md	2	5	7	0.5
-documentation/assets/ico/apple-touch-icon-72-precomposed.png	0	1	1	1.0
-documentation/assets/img/examples/bootstrap-example-signin.png	0	1	1	1.0
-docs/assets/.DS_Store	0	2	2	0.5
-browserstack.json	5	2	7	0.583333333333
-offcanvas.html	0	3	3	0.5
-docs/dist/css/bootstrap-rtl.min.css	4	2	6	0.827586206897
-docs/components/modal.html	0	2	2	0.666666666667
-documentation/js/tests/unit/bootstrap-button.js	0	1	1	1.0
-js/tests/unit/bootstrap-typeahead.js	7	3	10	0.333333333333
-docs/assets/img/example-diagram-03.png	0	3	3	0.5
-index.html	3	3	6	0.821428571429
-docs/assets/img/browsers.png	0	3	3	0.583333333333
-less/print.less	8	3	11	0.560975609756
-docs/assets/js/respond/respond.min.js	0	4	4	0.5
-js/tests/visual/affix-with-sticky-footer.html	0	4	4	0.5
-less/_animation.less	0	1	1	1.0
-dist/css/bootstrap-rtl.css	8	1	9	0.819672131148
-test-infra/gemfiles/core.gemfile.lock	0	5	5	0.285714285714
-docs/assets/js/uglify.min.js	0	3	3	0.333333333333
-docs/javascript.html	55	2	57	0.569252077562
-docs/_includes/nav-about.html	0	3	3	0.7
-_gh_pages/assets/js/bootstrap-popover.js	0	1	1	1.0
-docs/assets/img/example-sites/example-gosquared.jpg	0	1	1	1.0
-less/popovers.less	13	3	16	0.693333333333
-_gh_pages/examples/carousel.html	0	1	1	1.0
-documentation/assets/img/example-sites/example-twitter-translation-center.jpg	0	1	1	1.0
-docs/assets/js/bootstrap-twipsy.js	0	2	2	0.5
-documentation/js/bootstrap-tab.js	0	1	1	1.0
-less/navs.less	24	2	26	0.730769230769
-scss/bootstrap-grid.scss	0	5	5	0.736842105263
-docs/assets/img/glyphicons/glyphicons_214_resize_small.png	0	3	3	0.555555555556
-docs/assets/img/devices.png	0	4	4	0.5625
-js/min/bootstrap-alerts.min.js	0	1	1	1.0
-bootstrap/fonts/glyphiconshalflings-regular.otf	0	1	1	1.0
-docs/dist/fonts/glyphicons-halflings-regular.ttf	0	1	1	1.0
-examples/fluid-reverse.html	0	3	3	0.647058823529
-examples/signin/signin.css	0	1	1	1.0
-docs/examples/jumbotron/jumbotron.css	0	3	3	0.777777777778
-docs/build/node_modules/hogan.js/bin/hulk	0	3	3	0.4
-docs/_site/assets/img/examples/bootstrap-example-sticky-footer-navbar.png	0	2	2	0.5
-docs/examples/navbars/index.html	0	2	2	0.941176470588
-docs/templates/pages/scaffolding.mustache	11	2	13	0.761904761905
-docs/assets/js/holder.js	0	3	3	0.714285714286
-docs/assets/ico/apple-touch-icon-57-precomposed.png	0	2	2	0.833333333333
-docs/_site/assets/js/html5shiv.js	0	2	2	0.5
-_layouts/post.html	0	1	1	1.0
-docs/_includes/components/pagination.html	0	3	3	0.363636363636
-_gh_pages/assets/img/example-sites/example-easel.jpg	0	1	1	1.0
-examples/screenshots/carousel.png	0	1	1	1.0
-_gh_pages/assets/js/google-code-prettify/prettify.js	0	1	1	1.0
-_gh_pages/assets/img/example-sites/example-metrotwit.jpg	0	1	1	1.0
-_gh_pages/assets/img/example-sites/example-jetstrap.jpg	0	1	1	1.0
-_gh_pages/assets/img/example-sites/example-jshint.jpg	0	1	1	1.0
-docs/dist/svg/chevron-left.svg	0	2	2	0.666666666667
-examples/carousel/index.html	9	2	11	0.611111111111
-docs/utilities/sizing-and-positioning.md	0	3	3	0.8125
-docs/build/node_modules/hogan.js/web/favicon.ico	0	3	3	0.4
-documentation/assets/fonts/glyphiconshalflings-regular.otf	0	1	1	1.0
-docs/build/node_modules/hogan.js/web/1.0.0/hogan.js	0	3	3	0.4
-fonts/glyphiconshalflings-regular.ttf	0	2	2	0.888888888889
-docs/assets/ico/apple-touch-icon-72-precomposed.png	0	2	2	0.75
-docs/assets/ico/apple-touch-icon-144-precomposed.png	0	3	3	0.769230769231
-documentation/assets/img/examples/bootstrap-example-jumbotron-narrow.png	0	1	1	1.0
-docs/_site/assets/js/bootstrap-button.js	0	2	2	0.5
-DOCUMENTATION-LICENSE	0	2	2	0.666666666667
-docs/examples/offcanvas.html	0	4	4	0.5
-docs/_site/index.html	0	2	2	0.5
-scss/utilities/_clearfix.scss	0	1	1	1.0
-dist/css/bootstrap-flex.css.map	2	1	3	0.9625
-examples/starter-template/index.html	7	2	9	0.625
-docs/build/node_modules/hogan.js/test/spec/specs/sections.json	0	3	3	0.4
-docs/_site/assets/js/bootstrap-collapse.js	0	2	2	0.5
-docs/javascript/overview.md	0	2	2	0.9
-docs-assets/css/pygments-manni.css	0	2	2	0.666666666667
-lib/docs.less	0	1	1	1.0
-docs/_site/assets/js/bootstrap-dropdown.js	0	2	2	0.5
-docs/templates/pages/components.mustache	22	2	24	0.812056737589
-documentation/assets/img/bootstrap-docs-readme.png	0	1	1	1.0
-docs/assets/js/jszip.js	0	3	3	0.7
-docs/getting-started/accessibility.md	3	4	7	0.677419354839
-docs/dist/css/bootstrap-flex.min.css.map	2	1	3	0.955223880597
-js/dist/util.js.map	2	6	8	0.473684210526
-docs/assets/js/bootstrap-tab.js	5	3	8	0.4
-js/tests/visual/tooltip.html	8	3	11	0.387096774194
-less/nav-tab.less	0	1	1	1.0
-docs/examples/index.md	6	2	8	0.636363636364
-assets/js/customizer.js	2	2	4	0.6
-docs/dist/css/bootstrap-theme.css	4	2	6	0.783783783784
-assets/js/jquery.bbq.min.js	0	2	2	0.714285714286
-scss/_input-group.scss	10	2	12	0.709677419355
-docs/content/images.md	15	2	17	0.528301886792
-less/dropdowns.less	29	2	31	0.705069124424
-grunt/bs-glyphicons-data-generator.js	3	4	7	0.457142857143
-docs/assets/js/bootstrap-alert.js	5	3	8	0.4
-less/glyphicons.less	12	2	14	0.626666666667
-test-infra/node_modules_cache.py	0	2	2	0.75
-assets/img/bootstrap-mdo-sfmoma-02.jpg	0	1	1	1.0
-js/tests/vendor/tether.min.js	0	8	8	0.5
-docs/assets/js/jquery/chili/css.js	0	2	2	0.666666666667
-assets/ico/favicon.png	0	4	4	0.8
-examples/screenshots/navbar-static-top.png	0	1	1	1.0
-.editorconfig	6	3	9	0.423076923077
-examples/assets/js/bootstrap-popover.js	0	2	2	0.75
-documentation/javascript/index.html	0	1	1	1.0
-docs/components/navs.md	9	3	12	0.584905660377
-scss/mixins/_hover.scss	0	4	4	0.4375
-less/tooltip.less	8	5	13	0.590909090909
-docs/_site/assets/img/examples/bootstrap-example-jumbotron-narrow.png	0	2	2	0.5
-_gh_pages/assets/img/example-sites/example-adoptahydrant.jpg	0	1	1	1.0
-js/dist/button.js	2	5	7	0.571428571429
-img/grid-20px.png	0	1	1	1.0
-docs/_includes/css/buttons.html	3	4	7	0.36
-docs/_site/assets/img/examples/browser-icon-safari.png	0	2	2	0.5
-docs/examples/screenshots/blog.jpg	0	2	2	0.833333333333
-docs/assets/js/bootstrap-tooltip.js	6	3	9	0.443181818182
-js/tests/visual/affix.html	0	8	8	0.315789473684
-docs/assets/js/google-code-prettify/lang-proto.js	0	2	2	0.666666666667
-less/_pagination.less	0	1	1	1.0
-docs/_includes/components/wells.html	0	3	3	0.625
-docs/components/button-group.html	0	2	2	0.666666666667
-docs/dist/css/bootstrap-reboot.min.css.map	0	3	3	0.882352941176
-docs/utilities/spacing.md	0	4	4	0.733333333333
-js/tests/visual/tab.html	8	6	14	0.333333333333
-less/media.less	6	3	9	0.645161290323
-_gh_pages/customize/index.html	0	1	1	1.0
-js/bootstrap-buttons.js	0	2	2	0.923076923077
-screenshots/grid.png	0	1	1	1.0
-lib/type.less	3	2	5	0.710144927536
-_gh_pages/assets/img/examples/browser-icon-firefox.png	0	1	1	1.0
-docs/examples/tooltip-viewport/index.html	8	3	11	0.418604651163
-less/mixins/alerts.less	0	2	2	0.714285714286
-docs/scaffolding.html	16	2	18	0.732283464567
-scss/_modal.scss	11	2	13	0.573529411765
-js/dist/scrollspy.js	5	4	9	0.5
-docs/grunt/bs-raw-files-generator.js	0	2	2	0.5625
-docs/assets/js/bootstrap-button.js	5	3	8	0.411764705882
-offcanvas/example.css	0	2	2	0.5
-docs/assets/scss/_browser-bugs.scss	0	1	1	1.0
-_gh_pages/assets/css/old_docs.css	0	1	1	1.0
-screenshots/sticky-footer-navbar.png	0	1	1	1.0
-documentation/js/tests/unit/bootstrap-transition.js	0	1	1	1.0
-docs/getting-started/support.md	0	2	2	0.625
-docs/assets/img/example-sites/example-jumpstart-ui.jpg	0	1	1	1.0
-docs/examples.md	0	1	1	1.0
-test-infra/requirements.txt	1	3	4	0.75
-docs/_layouts/example.html	0	5	5	0.545454545455
-_gh_pages/examples/sticky-footer.html	0	1	1	1.0
-examples/screenshots/navbar-fixed.jpg	0	2	2	0.833333333333
-docs/examples/carousel/blank.gif	0	2	2	0.5
-documentation/assets/img/example-sites/example-gathercontent.jpg	0	1	1	1.0
-grunt/bs-sass-compile/libsass.js	1	5	6	0.52380952381
-docs/_layouts/default.html	8	3	11	0.75
-less/mixins/hide-text.less	0	4	4	0.5
-less/grid.less	11	2	13	0.761904761905
-_gh_pages/assets/js/bootstrap-dropdown.js	0	1	1	1.0
-docs/examples/navbars/navbar.css	0	2	2	0.666666666667
-docs/apple-touch-icon-precomposed.png	0	2	2	0.625
-documentation/assets/img/bs-docs-masthead-pattern.png	0	1	1	1.0
-docs/_site/assets/img/bs-docs-twitter-github.png	0	2	2	0.5
-examples/non-responsive/non-responsive.css	0	3	3	0.882352941176
-less/tests/grid.html	0	1	1	1.0
-scss/mixins/_grid.scss	10	3	13	0.683333333333
-grunt/upload-preview.sh	0	3	3	0.4
-docs/_includes/docs-nav.html	2	2	4	0.875
-lib/accordion.less	0	2	2	0.555555555556
-docs/build/node_modules/hogan.js/test/index.html	0	3	3	0.4
-docs/build/node_modules/hogan.js/.gitmodules	0	3	3	0.4
-bootstrap/js/bootstrap.min.js	0	2	2	0.6
-docs/upgrading.html	6	2	8	0.666666666667
-less/_navbar.less	0	1	1	1.0
-docs/getting-started/examples.md	0	1	1	1.0
-js/tests/vendor/qunit.css	8	4	12	0.4
-docs/assets/img/glyphicons/glyphicons_155_show_thumbnails.png	0	3	3	0.555555555556
-docs/examples/screenshots/grid.jpg	0	2	2	0.888888888889
-js/bootstrap-typeahead.js	15	3	18	0.368421052632
-_gh_pages/assets/img/example-sites/example-breakingnews.jpg	0	1	1	1.0
-docs/examples/jumbotron-narrow.html	3	2	5	0.772727272727
-less/reset.less	8	2	10	0.645833333333
-js/bootstrap-accordion.js	0	2	2	0.6
-bootstrap-1.1.1.css	0	3	3	0.714285714286
-docs/assets/js/_vendor/ZeroClipboard.min.js	0	2	2	0.5
-less/_tables.less	0	1	1	1.0
-docs/assets/img/bootstrap-mdo-sfmoma-03.jpg	0	3	3	0.6
-docs/_data/sass-team.yml	0	2	2	0.888888888889
-docs/dist/css/bootstrap-theme.css.map	7	2	9	0.777777777778
-docs/assets/css/docs.css	16	2	18	0.828859060403
-scss/_images.scss	10	2	12	0.52380952381
-docs/build/node_modules/hogan.js/test/spec/specs/interpolation.json	0	3	3	0.4
-docs/_includes/components/media.html	0	7	7	0.473684210526
-docs/_includes/getting-started/browser-device-support.html	7	2	9	0.43137254902
-docs/assets/js/bootstrap-carousel.js	6	3	9	0.413793103448
-examples/screenshots/dashboard.jpg	0	1	1	1.0
-assets/js/bootstrap-typeahead.js	0	1	1	1.0
-docs/_includes/getting-started/accessibility.html	0	5	5	0.588235294118
-docs/utilities/image-replacement.md	0	3	3	0.571428571429
-lib/adaptive.less	0	2	2	0.5
-docs/layout/containers.md	0	1	1	1.0
-docs/assets/fonts/glyphiconshalflings-regular.svg	0	2	2	0.888888888889
-bootstrap-1.1.1.min.css	0	3	3	0.69696969697
-less/wells.less	5	2	7	0.735294117647
-dist/js/bootstrap.min.js.gz	0	2	2	0.5
-docs/_includes/components/responsive-embed.html	0	3	3	0.555555555556
-documentation/assets/img/example-sites/example-metrotwit.jpg	0	1	1	1.0
-dist/css/bootstrap-grid.min.css.map	0	3	3	0.870967741935
-scss/_navbar.scss	11	2	13	0.788732394366
-examples/jumbotron.html	0	1	1	1.0
-docs/_includes/css/images.html	0	5	5	0.5
-examples/justified-nav/justified-nav.css	0	3	3	0.882352941176
-docs/_includes/css/type.html	4	3	7	0.375
-docs/_includes/getting-started/tools.html	0	2	2	0.625
-docs/assets/js/customize.js	0	4	4	0.5
-docs/assets/img/bs-docs-masthead-pattern.png	0	4	4	0.666666666667
-less/navbar-redux.less	0	1	1	1.0
-documentation/assets/img/example-sites/example-synco.jpg	0	1	1	1.0
-docs/_data/translations.yml	18	3	21	0.392857142857
-docs/examples/non-responsive/non-responsive.css	2	3	5	0.666666666667
-Gruntfile.js	37	3	40	0.3625
-docs/_data/browser-features.yml	0	4	4	0.461538461538
-scss/mixins/_forms.scss	7	3	10	0.659574468085
-docs/build/node_modules/hogan.js/tools/web_templates.js	0	3	3	0.4
-docs/_includes/components/badges.html	0	3	3	0.473684210526
-docs/components/icon.html	0	2	2	0.666666666667
-docs/LICENSE	0	2	2	0.75
-docs/assets/img/twitter-logo-no-bird.png	0	2	2	0.666666666667
-dist/js/npm.js	0	6	6	0.32
-sauce_browsers.yml	0	3	3	0.5
-docs/grunt/bs-lessdoc-parser.js	0	2	2	0.636363636364
-docs/examples/screenshots/justified-nav.jpg	0	2	2	0.888888888889
-less/accordion.less	4	3	7	0.617647058824
-scss/_reboot.scss	13	2	15	0.619047619048
-docs/assets/scss/_page-header.scss	0	4	4	0.789473684211
-docs/assets/js/_vendor/less.min.js	0	3	3	0.5
-docs/examples/marketing-narrow.html	0	4	4	0.823529411765
-docs/assets/img/examples/bootstrap-example-marketing.png	0	2	2	0.75
-docs/assets/img/github-16px.png	0	2	2	0.5
-_gh_pages/assets/img/bs-docs-twitter-github.png	0	1	1	1.0
-docs/utilities/colors.md	0	3	3	0.75
-docs/assets/js/bootstrap-affix.js	2	5	7	0.5
-assets/img/examples/slide-02.jpg	0	1	1	1.0
-bootstrap/css/bootstrap-responsive.css	0	1	1	1.0
-assets/img/dropdown-arrow.gif	0	2	2	0.666666666667
-screenshots/jumbotron-narrow.png	0	1	1	1.0
-docs/assets/img/expo-newsweek.jpg	0	3	3	0.5
-docs/examples/dashboard/index.html	15	3	18	0.47619047619
-less/theme.less	12	1	13	0.75641025641
-_gh_pages/assets/img/example-sites/example-kippt.jpg	0	1	1	1.0
-docs/_includes/js/tooltips.html	12	2	14	0.536231884058
-js/tests/unit/bootstrap-tooltip.css	0	2	2	0.666666666667
-docs/build/node_modules/hogan.js/test/spec/Changes	0	3	3	0.4
-js/tests/unit/bootstrap-carousel.js	3	5	8	0.333333333333
-docs/assets/js/vendor/less.min.js	1	3	4	0.62962962963
-.DS_Store	0	2	2	0.571428571429
-bootstrap.css	10	2	12	0.740053050398
-docs/components/page-header.md	0	1	1	1.0
-scss/utilities/_background.scss	0	5	5	0.461538461538
-scss/mixins/_reset-filter.scss	0	4	4	0.571428571429
-assets/js/bootstrap-dropdown.js	0	1	1	1.0
-less/jumbotron.less	13	1	14	0.794871794872
-docs/assets/js/jquery.tablesorter.js	0	1	1	1.0
-assets/img/examples/browser-icon-chrome.png	0	1	1	1.0
-assets/js/holder.js	0	1	1	1.0
-js/bootstrap-collapse.js	9	3	12	0.393258426966
-docs/assets/js/google-code-prettify/lang-lua.js	0	2	2	0.666666666667
-less/responsive-embed.less	0	3	3	0.714285714286
-docs/_site/assets/fonts/glyphiconshalflings-regular.otf	0	2	2	0.5
-grunt/autoprefixer-settings.js	0	4	4	0.5
-docs/assets/img/example-sites/example-metrotwit.jpg	0	1	1	1.0
-_includes/glyphicons.html	0	1	1	1.0
-documentation/js/bootstrap-scrollspy.js	0	1	1	1.0
-documentation/assets/css/bootstrap.css	0	1	1	1.0
-docs/assets/scss/_layout.scss	1	1	2	0.95652173913
-docs/utilities/borders.md	0	4	4	0.692307692308
-less/_forms.less	0	1	1	1.0
-docs/_includes/css/code.md	0	1	1	1.0
-js/min/bootstrap-tabs.min.js	0	1	1	1.0
-docs/assets/brand/bootstrap-social-logo.png	0	2	2	0.75
-scss/utilities/_spacing.scss	1	4	5	0.65625
-scss/mixins/_text-truncate.scss	0	1	1	1.0
-examples/dashboard/index.html	0	3	3	0.882352941176
-docs/assets/js/bootstrap-tabs.js	0	2	2	0.6
-docs/_includes/components/labels.html	0	3	3	0.5
-less/mixins/pagination.less	0	3	3	0.666666666667
-docs/_includes/ads.html	0	2	2	0.8
-docs/templates/pages/gallery.mustache	0	1	1	1.0
-carousel/carousel.css	0	4	4	0.625
-docs/examples/navbar-static-top.html	0	7	7	0.6
-docs/assets/scss/_sidebar.scss	2	1	3	0.909090909091
-docs/assets/css/pygments-manni.css	0	2	2	0.933333333333
-img/glyphicons-halflings-sprite.png	0	3	3	0.5
-Gemfile.lock	6	4	10	0.406779661017
-offcanvas/example.js	0	2	2	0.5
-scss/mixins/_text-hide.scss	0	4	4	0.5
-docs/utilities/flexbox.md	0	2	2	0.9375
-validation-report.json	0	2	2	0.666666666667
-less/navbar.less	44	2	46	0.767441860465
-scss/_utilities-spacing.scss	0	4	4	0.428571428571
-docs/_site/assets/fonts/glyphiconshalflings-regular.ttf	0	2	2	0.5
-docs/_site/examples/carousel.html	0	2	2	0.5
-scss/_utilities-background.scss	0	3	3	0.333333333333
-scss/.csscomb.json	0	2	2	0.875
-docs/assets/img/examples/bootstrap-example-navbar-fixed-top.png	0	3	3	0.666666666667
-docs/components/code.md	0	1	1	1.0
-scss/_normalize.scss	1	5	6	0.606060606061
-test-infra/shrinkwrap.js	0	2	2	0.666666666667
-starter-template/example.css	0	1	1	1.0
-docs/_data/showcase.yml	3	2	5	0.772727272727
-docs/_includes/customizer-variables.html	9	2	11	0.691489361702
-js/tests/unit/bootstrap-alerts.js	0	2	2	0.5
-docs/components/responsive-embed.md	0	1	1	1.0
-docs/_includes/home-nav.html	0	1	1	1.0
-grunt/bs-lessdoc-parser.js	2	4	6	0.433333333333
-docs/components/media.md	0	1	1	1.0
-docs/assets/img/example-sites/example-karma.jpg	0	1	1	1.0
-documentation/assets/img/example-sites/example-athey-creek.jpg	0	1	1	1.0
-documentation/js/tests/unit/bootstrap-typeahead.js	0	1	1	1.0
-grunt/gcp-key.json.enc	0	3	3	0.4
-less/responsive-1200px-min.less	0	3	3	0.764705882353
-assets/img/example-sites/example-kippt.jpg	0	1	1	1.0
-docs/examples/screenshots/carousel.jpg	0	2	2	0.888888888889
-docs/build/node_modules/hogan.js/web/builds/1.0.3/hogan.js	0	3	3	0.4
-.csslintrc	0	2	2	0.909090909091
-CHANGELOG.md	3	6	9	0.483870967742
-docs/_site/assets/js/respond/respond.min.js	0	2	2	0.5
-assets/img/examples/browser-icon-safari.png	0	1	1	1.0
-docs/apple-touch-icon.png	0	2	2	0.666666666667
-less/pagination.less	21	2	23	0.631578947368
-docs/dist/css/bootstrap-grid.css	0	3	3	0.866666666667
-docs/content/reboot.md	11	3	14	0.435483870968
-scss/_button-group.scss	3	2	5	0.730769230769
-lib/dropdowns.less	2	2	4	0.625
-documentation/assets/fonts/glyphiconshalflings-regular.svg	0	1	1	1.0
-docs/examples/jumbotron/index.html	13	3	16	0.452991452991
-docs/examples/grid.html	0	5	5	0.666666666667
-docs/examples/equal-height-columns/equal-height-columns.css	0	4	4	0.571428571429
-js/bootstrap-button.js	7	3	10	0.377049180328
-docs/search.json	0	3	3	0.5
-.travis.yml	19	3	22	0.369158878505
-docs/assets/img/examples/browser-icon-safari.png	0	4	4	0.727272727273
-scss/mixins/_media-queries.scss	0	3	3	0.375
-documentation/js/bootstrap-dropdown.js	0	1	1	1.0
-less/normalize.less	3	2	5	0.68
-docs/assets/css/src/anchor.css	0	3	3	0.666666666667
-docs/components/alerts.md	5	3	8	0.702702702703
-docs/_includes/getting-started/grunt.html	0	4	4	0.454545454545
-docs/examples/screenshots/offcanvas.jpg	0	2	2	0.833333333333
-docs/_includes/js/affix.html	7	2	9	0.4
-docs/grunt/bs-glyphicons-data-generator.js	0	2	2	0.571428571429
-docs/build/node_modules/hogan.js/test/spec/specs/~lambdas.json	0	3	3	0.4
-examples/carousel.html	0	1	1	1.0
-docs/_includes/css/type.md	0	1	1	1.0
-documentation/assets/img/examples/bootstrap-example-sticky-footer.png	0	1	1	1.0
-examples/cover/cover.css	0	2	2	0.933333333333
-docs/_includes/getting-started/rtl.html	0	1	1	1.0
-scss/_pagination.scss	5	2	7	0.7
-docs/css.html	19	2	21	0.745387453875
-docs/build/node_modules/hogan.js/test/mustache.js	0	3	3	0.4
-sticky-footer-navbar/sticky-footer-navbar.css	0	2	2	0.666666666667
-scss/mixins/_list-group.scss	0	5	5	0.583333333333
-grid/example.css	0	2	2	0.5
-docs/_includes/css/code.html	0	5	5	0.5
-navbar-fixed-top/index.html	0	4	4	0.461538461538
-docs/assets/js/google-code-prettify/lang-yaml.js	0	2	2	0.666666666667
-bootstrap/fonts/glyphiconshalflings-regular.svg	0	1	1	1.0
-docs/_includes/components/button-dropdowns.html	1	3	4	0.428571428571
-docs/_site/assets/img/bs-docs-bootstrap-features.png	0	2	2	0.5
-documentation/assets/img/example-sites/example-delicious.jpg	0	1	1	1.0
-docs/about/index.md	0	1	1	1.0
-_gh_pages/assets/img/example-sites/example-athey-creek.jpg	0	1	1	1.0
-docs/javascript/collapse.md	0	1	1	1.0
-dist/js/umd/tooltip.js	2	8	10	0.277777777778
-docs/examples/screenshots/non-responsive.jpg	0	2	2	0.888888888889
-docs/assets/img/icon-html5.png	0	3	3	0.571428571429
-lib/theme.less	0	2	2	0.857142857143
-docs/assets/fonts/glyphiconshalflings-regular.eot	0	2	2	0.888888888889
-docs/components/card.md	16	1	17	0.673267326733
-documentation/assets/css/old_docs.css	0	1	1	1.0
-examples/screenshots/jumbotron-narrow.jpg	0	2	2	0.833333333333
-css.html	41	2	43	0.638121546961
-_gh_pages/assets/img/example-sites/example-gosquared.jpg	0	1	1	1.0
-examples/jumbotron-narrow/index.html	5	3	8	0.69387755102
-assets/js/bootstrap-carousel.js	0	1	1	1.0
-docs/_includes/getting-started/disabling-responsiveness.html	0	3	3	0.6
-docs/examples/jumbotron-narrow/index.html	6	3	9	0.470588235294
-docs/_includes/css/overview.md	0	1	1	1.0
-js/dist/collapse.js	3	5	8	0.567567567568
-assets/js/bootstrap.js	0	1	1	1.0
-.csscomb.json	0	2	2	0.95
-docs/layout/overview.md	10	3	13	0.581395348837
-docs/_includes/nav/main.html	0	7	7	0.285714285714
-docs/_site/assets/img/bs-docs-responsive-illustrations.png	0	2	2	0.5
-documentation/assets/js/bootstrap.min.js	0	1	1	1.0
-js/dist/scrollspy.js.map	4	5	9	0.489795918367
-docs/_includes/masthead.html	0	1	1	1.0
-scss/_forms.scss	16	2	18	0.709302325581
-js/min/bootstrap-dropdown.min.js	0	1	1	1.0
-docs/_includes/nav-customize.html	2	3	5	0.740740740741
-_includes/nav-components.html	5	1	6	0.869565217391
-test-infra/uncached-npm-install.sh	0	6	6	0.45
-docs/examples/screenshots/starter-template.jpg	0	2	2	0.833333333333
-assets/img/bootstrap-mdo-sfmoma-01.jpg	0	1	1	1.0
-docs/layout/media-queries.md	0	4	4	0.6
-docs/_site/customize.html	0	2	2	0.5
-docs/content/typography.md	13	2	15	0.647887323944
-bootstrap/css/bootstrap.min.css	0	3	3	0.8
-docs/_data/breakpoints.yml	0	2	2	0.666666666667
-js/jquery/hashgrid.js	0	1	1	1.0
-scss/mixins/_gradients.scss	0	5	5	0.533333333333
-assets/js/bootstrap.min.js	0	1	1	1.0
-docs-assets/js/less.js	0	3	3	0.866666666667
-documentation/js/tests/unit/bootstrap-affix.js	0	1	1	1.0
-baseline-1.0.0.css	0	2	2	0.666666666667
-examples/hero.html	4	2	6	0.444444444444
-_gh_pages/assets/js/bootstrap.js	0	1	1	1.0
-assets/img/examples/bootstrap-example-marketing.png	0	1	1	1.0
-docs/docs.html	15	1	16	0.808695652174
-nuget/bootstrap.sass.nuspec	2	4	6	0.52380952381
-docs/robots.txt	0	3	3	0.727272727273
-_gh_pages/assets/img/example-sites/example-8020select.jpg	0	1	1	1.0
-docs/assets/js/raw-files.min.js	9	3	12	0.611486486486
-_gh_pages/assets/img/example-sites/example-tonx.jpg	0	1	1	1.0
-docs/build/node_modules/hogan.js/README.md	0	3	3	0.4
-scss/_functions.scss	0	1	1	1.0
-docs-assets/js/filesaver.js	0	4	4	0.785714285714
-lib/grid.less	0	1	1	1.0
-docs-assets/js/jquery.js	0	2	2	0.666666666667
-docs/_site/assets/js/bootstrap-modal.js	0	2	2	0.5
-bootstrap-1.1.0.min.css	0	2	2	0.526315789474
-js/tests/unit/bootstrap-alert.js	0	5	5	0.357142857143
-docs/assets/css/_src/pygments-manni.css	0	3	3	0.5
-js/alert.js	14	4	18	0.514563106796
-docs/assets/img/grid-18px-masked.png	0	3	3	0.625
-docs/_site/assets/img/examples/slide-02.jpg	0	2	2	0.5
-docs-assets/img/components.png	0	1	1	1.0
-scss/_utilities-responsive.scss	0	5	5	0.473684210526
-lib/buttons.less	3	3	6	0.653846153846
-js/src/modal.js	16	3	19	0.359375
-js/tests/unit/popover.js	19	4	23	0.315789473684
-docs/dist/css/bootstrap.rtl.min.css	0	2	2	0.75
-examples/jumbotron/jumbotron.css	0	2	2	0.916666666667
-assets/img/example-sites/example-jshint.jpg	0	1	1	1.0
-less/_variables.less	0	1	1	1.0
-examples/navbar/index.html	8	2	10	0.645161290323
-less/variables.less	59	2	61	0.74182444062
-test-infra/gemfiles/core.gemfile	0	5	5	0.285714285714
-docs/components/button-dropdown.md	3	2	5	0.791666666667
-docs/_includes/nav/components.html	7	2	9	0.576923076923
-_gh_pages/assets/img/bs-docs-masthead-pattern.png	0	1	1	1.0
-examples/screenshots/sticky-footer.jpg	0	2	2	0.833333333333
-docs/index.html	52	2	54	0.671140939597
-CNAME	0	2	2	0.8
-docs/examples/signin/index.html	8	4	12	0.421052631579
-docs/examples/navbar-fixed-top/index.html	7	4	11	0.4
-dist/js/umd/tab.js	2	6	8	0.423076923077
-less/_list-group.less	0	1	1	1.0
-docs/_site/assets/js/bootstrap.js	0	2	2	0.5
-bootstrap-1.0.0.css	0	2	2	0.504424778761
-docs/_includes/css/rtl.html	0	2	2	0.75
-docs/assets/js/popover.js	0	2	2	0.75
-less/utilities.less	7	3	10	0.716981132075
-dist/js/bootstrap.js	20	7	27	0.471057884232
-dist/img/glyphicons-halflings.png	0	1	1	1.0
-less/_breadcrumb.less	0	1	1	1.0
-docs/templates/pages/javascript.mustache	23	2	25	0.610108303249
-js/bootstrap-tooltip.js	16	5	21	0.297709923664
-docs/_includes/components/dropdowns.html	4	4	8	0.447368421053
-_includes/old-bs-docs.html	0	2	2	0.833333333333
-docs/components/dropdowns.md	10	2	12	0.74
-docs/assets/img/bootstrap-mdo-sfmoma-01.jpg	0	3	3	0.6
-lib/patterns.less	12	2	14	0.546816479401
-docs/_includes/css/sass.html	0	2	2	0.8
-docs/components/dropdown.html	0	2	2	0.666666666667
-examples/screenshots/sticky-footer-navbar.png	0	1	1	1.0
-less/breadcrumbs.less	13	2	15	0.725
-img/twitter-logo-no-bird.png	0	1	1	1.0
-docs/dist/js/umd/scrollspy.js	2	4	6	0.571428571429
-assets/js/bootstrap-tooltip.js	0	1	1	1.0
-docs/components/alert.html	0	2	2	0.666666666667
-docs/getting-started/translations.md	0	1	1	1.0
-scss/_animation.scss	3	3	6	0.666666666667
-sticky-footer-navbar.html	5	2	7	0.730769230769
-docs-assets/js/uglify.js	0	2	2	0.666666666667
-examples/theme/index.html	9	2	11	0.641791044776
-documentation/components/index.html	0	1	1	1.0
-less/mixins/image.less	0	3	3	0.714285714286
-docs/assets/css/docs-flexbox.min.css	1	2	3	0.875
-docs/_site/assets/css/docs.css	0	2	2	0.5
-docs/layout/flexbox.md	0	1	1	1.0
-documentation/assets/img/grid-baseline-20px.png	0	1	1	1.0
-docs/_site/examples/justified-nav.html	0	2	2	0.5
-docs/assets/js/vendor/autoprefixer.js	0	4	4	0.428571428571
-documentation/fonts/glyphiconshalflings-regular.ttf	0	1	1	1.0
-docs/assets/css/_src/docs.css	5	2	7	0.75
-docs/examples/starter-template.html	9	2	11	0.68
-sticky-footer/index.html	0	2	2	0.571428571429
-less/layouts.less	0	3	3	0.5
-docs/assets/js/google-code-prettify/lang-css.js	0	2	2	0.666666666667
-examples/screenshots/navbar.jpg	0	2	2	0.833333333333
-less/_card.less	0	1	1	1.0
-signin.html	0	2	2	0.9375
-scss/_close.scss	0	4	4	0.733333333333
-docs/getting-started/compiling.md	0	2	2	0.785714285714
-_gh_pages/assets/css/docs.css	0	1	1	1.0
-assets/js/bootstrap-alert.js	0	1	1	1.0
-docs/assets/img/examples/bootstrap-example-justified-nav.png	0	2	2	0.75
-docs/assets/img/glyphicons-halflings-sprite.png	0	3	3	0.5
-assets/img/example-sites/example-delicious.jpg	0	1	1	1.0
-docs/.DS_Store	0	2	2	0.5
-docs/_includes/css/images.md	0	1	1	1.0
-docs/about/translations.md	0	2	2	0.818181818182
-assets/js/raw-files.js	2	1	3	0.92
-docs/_includes/old-bs-docs.html	0	3	3	0.666666666667
-_gh_pages/assets/img/bs-docs-responsive-illustrations.png	0	1	1	1.0
-_gh_pages/assets/ico/favicon.ico	0	1	1	1.0
-component.json	0	5	5	0.529411764706
-_includes/nav-main.html	4	3	7	0.757575757576
-docs/layout/flexbox-grid.md	4	3	7	0.763157894737
-_config.yml	18	3	21	0.65811965812
-docs/build/node_modules/hogan.js/test/spec/TESTING.md	0	3	3	0.4
-docs/_includes/js/buttons.html	5	2	7	0.642857142857
-docs/_site/assets/img/examples/browser-icon-firefox.png	0	2	2	0.5
-_gh_pages/assets/img/example-sites/example-twitter-translation-center.jpg	0	1	1	1.0
-docs/build/node_modules/hogan.js/test/spec/README.md	0	3	3	0.4
-scss/utilities/_float.scss	0	3	3	0.642857142857
-nuget/MyGet.ps1	0	5	5	0.4
-js/.babelrc	0	3	3	0.571428571429
-navbar-static-top/navbar-static-top.css	0	2	2	0.666666666667
-navbar-static-top/index.html	0	5	5	0.5
-bootstrap-1.3.0.min.css	0	2	2	0.633333333333
-docs/components/buttons.md	10	3	13	0.52380952381
-docs/build/node_modules/hogan.js/test/spec/Rakefile	0	3	3	0.4
-docs/_site/assets/fonts/glyphiconshalflings-regular.woff	0	2	2	0.5
-.gitattributes	4	3	7	0.52
-documentation/js/tests/unit/bootstrap-popover.js	0	1	1	1.0
-documentation/assets/js/bootstrap-scrollspy.js	0	1	1	1.0
-docs/components/input-group.md	4	4	8	0.72972972973
-examples/screenshots/carousel.jpg	0	2	2	0.833333333333
-docs/_includes/nav/home.html	0	1	1	1.0
-docs/_includes/css/tables.html	3	3	6	0.52
-js/tests/visual/dropdown.html	12	5	17	0.384615384615
-docs/examples/carousel/index.html	19	4	23	0.467391304348
-docs/javascript/carousel.md	0	2	2	0.666666666667
-scss/_code.scss	3	2	5	0.6
-assets/img/tablesorter-indicators.png	0	2	2	0.666666666667
-fonts/glyphiconshalflings-regular.eot	0	2	2	0.888888888889
-examples/grid/grid.css	0	1	1	1.0
-_gh_pages/assets/ico/favicon.png	0	1	1	1.0
-offcanvas/offcanvas.js	0	2	2	0.666666666667
-docs/dist/js/umd/collapse.js	0	6	6	0.555555555556
-docs/utilities/close-icon.md	0	3	3	0.571428571429
-screenshots/marketing.png	0	1	1	1.0
-docs/examples/sticky-footer-navbar/index.html	15	4	19	0.462585034014
-scss/_transitions.scss	0	2	2	0.75
-documentation/assets/img/example-sites/example-codecademy.jpg	0	1	1	1.0
-_gh_pages/assets/js/respond/respond.min.js	0	1	1	1.0
-docs/_site/assets/js/bootstrap-transition.js	0	2	2	0.5
-docs/assets/js/google-code-prettify/lang-tex.js	0	2	2	0.666666666667
-less/responsive.less	8	2	10	0.613636363636
-_gh_pages/assets/img/example-sites/example-soundready.jpg	0	1	1	1.0
-docs/dist/svg/menu.svg	0	2	2	0.666666666667
-_reset-text.scss	0	1	1	1.0
-docs/examples/tooltip-viewport/tooltip-viewport.css	0	2	2	0.75
-docs/dist/js/umd/button.js	3	3	6	0.636363636364
-docs/_site/assets/fonts/glyphiconshalflings-regular.svg	0	2	2	0.5
-less/forms.less	52	2	54	0.763302752294
-docs/layout/index.md	0	1	1	1.0
-docs/build/node_modules/hogan.js/web/builds/1.0.0/hogan.js	0	3	3	0.4
-scss/mixins/_responsive-visibility.scss	0	4	4	0.375
-docs/assets/img/glyphicons/glyphicons_079_podium.png	0	3	3	0.555555555556
-js/scrollspy.js	24	4	28	0.445859872611
-fonts/glyphicons-halflings-regular.woff	1	3	4	0.68
-docs/assets/img/example-sites/example-jetstrap.jpg	0	1	1	1.0
-docs/assets/img/examples/browser-icon-chrome.png	0	4	4	0.666666666667
-docs/components/images.md	0	3	3	0.785714285714
-scss/utilities/_center-block.scss	0	2	2	0.6
-documentation/assets/js/bootstrap-tooltip.js	0	1	1	1.0
-dist/css/bootstrap-reboot.css	0	3	3	0.846153846154
-documentation/assets/img/example-sites/example-jetstrap.jpg	0	1	1	1.0
-documentation/js/tests/unit/bootstrap-tab.js	0	1	1	1.0
-docs/examples/signin.html	2	2	4	0.826086956522
-js/dist/tab.js	3	5	8	0.567567567568
-dist/fonts/glyphicons-halflings-regular.woff2	0	1	1	1.0
-docs/assets/js/less-1.0.41.min.js	0	1	1	1.0
-_gh_pages/assets/img/bs-docs-bootstrap-features.png	0	1	1	1.0
-docs/dist/fonts/glyphicons-halflings-regular.woff	0	1	1	1.0
-assets/js/less.js	0	2	2	0.666666666667
-scss/mixins/_size.scss	0	3	3	0.6
-docs/assets/js/bootstrap-typeahead.js	4	3	7	0.4375
-screenshots/justified-nav.png	0	1	1	1.0
-docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.mustache.js	0	3	3	0.4
-documentation/assets/css/docs.css	0	1	1	1.0
-docs/javascript/affix.md	0	2	2	0.714285714286
-scss/_card.scss	13	2	15	0.695238095238
-scss/mixins/_label.scss	0	2	2	0.5
-_includes/nav-about.html	0	1	1	1.0
-less/_input-group.less	0	1	1	1.0
-docs/assets/img/example-sites/bartop.png	0	3	3	0.428571428571
-examples/assets/css/bootstrap-js.css	0	2	2	0.6
-docs/examples/screenshots/navbar-fixed.jpg	0	2	2	0.888888888889
-docs-assets/ico/favicon.png	0	2	2	0.8
-js/global.js	0	1	1	1.0
-less/progress-bars.less	21	2	23	0.703389830508
-_gh_pages/examples/fluid.html	0	1	1	1.0
-documentation/assets/js/bootstrap-collapse.js	0	1	1	1.0
-js/tests/unit/tooltip.js	34	5	39	0.281407035176
-docs/dist/js/npm.js	0	6	6	0.533333333333
-docs/_includes/nav-welcome.html	0	1	1	1.0
-lib/tooltip.less	0	3	3	0.6
-sticky-footer.html	4	1	5	0.809523809524
-docs/examples/cover/cover.css	5	2	7	0.68
-docs/examples/signin/signin.css	0	4	4	0.75
-docs/assets/css/src/docs.css	11	3	14	0.533333333333
-js/dist/collapse.js.map	3	5	8	0.55
-docs/assets/js/vendor/anchor.min.js	0	7	7	0.352941176471
-screenshots/sticky-footer.png	0	1	1	1.0
-docs/_site/getting-started.html	0	2	2	0.5
-_gh_pages/assets/img/example-sites/example-fleetio.jpg	0	1	1	1.0
-examples/screenshots/navbar.png	0	1	1	1.0
-scss/.scss-lint.yml	6	3	9	0.64
-less/_badge.less	0	1	1	1.0
-docs/_includes/nav-migration.html	0	1	1	1.0
-_gh_pages/assets/img/bootstrap-docs-readme.png	0	1	1	1.0
-docs/components/navbar.md	10	1	11	0.844262295082
-justified-nav/index.html	0	2	2	0.571428571429
-assets/img/examples/bootstrap-example-sticky-footer.png	0	1	1	1.0
-examples/screenshots/navbar-fixed-top.png	0	1	1	1.0
-docs/components/breadcrumb.md	0	4	4	0.625
-scss/mixins/_text-emphasis.scss	0	4	4	0.5
-docs/about/brand.md	0	3	3	0.85
-js/src/tooltip.js	15	5	20	0.34328358209
-js/tests/unit/bootstrap-transition.js	0	4	4	0.416666666667
-assets/img/example-sites/example-soundready.jpg	0	1	1	1.0
-docs/assets/fonts/glyphiconshalflings-regular.otf	0	2	2	0.888888888889
-js/dist/alert.js	2	5	7	0.567567567568
-js/.jshintrc	7	5	12	0.408450704225
-docs/assets/img/baseline-10px.png	0	2	2	0.5
-docs/assets/js/vendor/clipboard.min.js	0	6	6	0.375
-examples/justified-nav.html	0	1	1	1.0
-docs/_includes/css/less.html	7	3	10	0.285714285714
-js/bootstrap-tabs.js	3	2	5	0.7
-less/mixins/background-variant.less	0	4	4	0.727272727273
-docs/components/table.html	0	2	2	0.666666666667
-less/input-groups.less	12	1	13	0.764705882353
-docs/jade/customizer-nav.jade	0	3	3	0.777777777778
-docs/build/node_modules/hogan.js/web/builds/1.0.0/hogan.min.js	0	3	3	0.4
-docs/assets/img/grid-940px.png	0	2	2	0.5
-screenshots/signin.png	0	1	1	1.0
-docs/dist/svg/warning.svg	0	2	2	0.666666666667
-examples/javascript.html	0	2	2	0.666666666667
-scss/mixins/_tag.scss	0	2	2	0.75
-documentation/assets/js/holder/holder.js	0	1	1	1.0
-lib/sprites.less	0	2	2	0.714285714286
-.eslintignore	0	3	3	0.625
-docs/assets/css/old_docs.css	0	1	1	1.0
-screenshots/navbar-fixed-top.png	0	1	1	1.0
-docs/assets/js/vendor/FileSaver.js	0	3	3	0.5
-less/sprites.less	12	2	14	0.576271186441
-docs/getting-started/overview.md	0	2	2	0.875
-scss/mixins/_progress.scss	0	6	6	0.384615384615
-less/mixins/nav-divider.less	0	2	2	0.6
-starter-template/index.html	0	3	3	0.625
-less/close.less	8	2	10	0.6
-docs/_includes/css/grid.md	0	1	1	1.0
-js/src/carousel.js	6	5	11	0.458333333333
-lib/pagination.less	0	2	2	0.875
-less/mixins/text-emphasis.less	0	3	3	0.666666666667
-docs/getting-started/template.md	0	1	1	1.0
-screenshots/navbar.png	0	1	1	1.0
-js/README.md	4	2	6	0.606060606061
-dist/fonts/glyphicons-halflings-regular.eot	0	2	2	0.846153846154
-docs/getting-started/contents.md	1	3	4	0.838709677419
-docs/assets/js/button.js	0	2	2	0.666666666667
-less/counters.less	0	2	2	0.75
-documentation/assets/img/examples/browser-icon-chrome.png	0	1	1	1.0
-less/list-group.less	20	1	21	0.729411764706
-dist/css/bootstrap.min.css	52	1	53	0.792890262751
-docs/components/tooltips.md	16	2	18	0.460317460317
-documentation/assets/js/application.js	0	1	1	1.0
-_gh_pages/assets/img/example-sites/example-jumpstart-ui.jpg	0	1	1	1.0
-docs/_includes/getting-started/license.html	0	3	3	0.4
-docs/assets/js/_vendor/jszip.min.js	0	6	6	0.4
-documentation/assets/js/bootstrap-alert.js	0	1	1	1.0
-docs/build/node_modules/hogan.js/web/images/logo.png	0	4	4	0.375
-less/mixins/list-group.less	0	3	3	0.666666666667
-_includes/nav-getting-started.html	5	1	6	0.886363636364
-docs/build/node_modules/hogan.js/wrappers/mustache.js.mustache	0	3	3	0.4
-bootstrap-1.0.0.min.css	0	2	2	0.521739130435
-js/min/bootstrap-twipsy.min.js	0	1	1	1.0
-lib/breadcrumbs.less	0	3	3	0.4
-javascript.html	29	3	32	0.557093425606
-docs/_site/assets/js/application.js	0	2	2	0.5
-less/alerts.less	20	1	21	0.654320987654
-documentation/assets/js/bootstrap-tab.js	0	1	1	1.0
-starter-template/starter-template.css	0	2	2	0.666666666667
-docs/base-css.html	30	3	33	0.727272727273
-justified-nav.html	1	2	3	0.809523809524
-js/tests/unit/carousel.js	15	5	20	0.319587628866
-docs/assets/js/_vendor/zero-clipboard.min.js	0	2	2	0.5
-scss/_utilities.scss	6	2	8	0.594594594595
-docs/assets/img/example-sites/jshint.png	0	4	4	0.428571428571
-docs/assets/js/_vendor/uglify.min.js	0	5	5	0.285714285714
-less/tests/navbar-fixed-top.html	0	3	3	0.833333333333
-examples/bootstrap-js.html	0	1	1	1.0
-docs/assets/js/vendor/filesaver.js	0	4	4	0.666666666667
-docs/getting-started/download.md	13	2	15	0.621212121212
-js/dist/button.js.map	2	5	7	0.538461538462
-examples/grid/index.html	6	2	8	0.695652173913
-docs/javascript/dropdowns.md	0	1	1	1.0
-docs/assets/js/bootstrap.js	11	3	14	0.374407582938
-docs/dist/css/bootstrap-flex.min.css	2	1	3	0.959459459459
-docs/assets/scss/_component-examples.scss	11	1	12	0.774647887324
-docs/_includes/components/navbar.html	4	3	7	0.307692307692
-assets/img/example-sites/example-desk.jpg	0	1	1	1.0
-docs/assets/img/icon-twitter.png	0	3	3	0.555555555556
-scss/mixins/_badge.scss	0	2	2	0.6
-dist/css/bootstrap-reboot.css.map	2	1	3	0.913043478261
-_gh_pages/assets/img/examples/bootstrap-example-jumbotron-narrow.png	0	1	1	1.0
-lib/utilities.less	0	1	1	1.0
-assets/img/example-sites/example-divshot.jpg	0	1	1	1.0
-_gh_pages/examples/jumbotron-narrow.html	0	1	1	1.0
-docs/assets/scss/_homepage.scss	0	3	3	0.888888888889
-docs/components/utilities.md	15	3	18	0.426829268293
-examples/screenshots/offcanvas.jpg	0	2	2	0.833333333333
-docs/_includes/js/transitions.html	0	3	3	0.4
-examples/sticky-footer.html	0	1	1	1.0
-docs/assets/img/glyphicons/glyphicons_009_magic.png	0	3	3	0.555555555556
-scss/_nav.scss	5	2	7	0.729166666667
-scss/_media.scss	3	3	6	0.741935483871
-less/baseline.css	0	1	1	1.0
-docs/_includes/social-buttons.html	5	2	7	0.703703703704
-docs/templates/pages/download.mustache	5	2	7	0.694915254237
-sache.json	0	2	2	0.666666666667
-scss/_buttons.scss	8	2	10	0.647058823529
-docs/assets/js/carousel.js	0	2	2	0.8
-assets/js/bootstrap-scrollspy.js	0	1	1	1.0
-docs/_site/examples/grid.html	0	2	2	0.5
-docs/assets/img/bs-docs-responsive-illustrations.png	0	5	5	0.692307692308
-docs/components/form.html	0	2	2	0.666666666667
-examples/navbar/navbar.css	0	1	1	1.0
-docs/_includes/components/list-group.html	0	4	4	0.5
-docs/_site/examples/sticky-footer.html	0	2	2	0.5
-docs/_includes/js/popovers.html	14	2	16	0.616279069767
-img/blueprint-icon.png	0	1	1	1.0
-documentation/js/tests/unit/bootstrap-collapse.js	0	1	1	1.0
-docs/assets/img/expo-lyft.jpg	0	3	3	0.5
-less/_normalize.less	0	1	1	1.0
-documentation/assets/js/bootstrap-affix.js	0	1	1	1.0
-grunt/configBridge.json	7	3	10	0.333333333333
-dist/fonts/glyphicons-halflings-regular.woff	0	2	2	0.846153846154
-assets/img/example-sites/example-athey-creek.jpg	0	1	1	1.0
-docs/_site/javascript.html	0	2	2	0.5
-js/dist/dropdown.js.map	2	6	8	0.555555555556
-docs/assets/brand/bootstrap-punchout.svg	0	2	2	0.818181818182
-js/tests/visual/collapse.html	11	3	14	0.431818181818
-docs/templates/pages/upgrading.mustache	4	2	6	0.5
-docs/_includes/components/navs.html	2	3	5	0.452380952381
-docs/examples/screenshots/jumbotron-narrow.jpg	0	2	2	0.888888888889
-assets/img/grid-baseline-20px.png	0	1	1	1.0
-examples/sticky-footer-navbar/sticky-footer-navbar.css	0	2	2	0.941176470588
-docs/assets/img/example-sites/example-breakingnews.jpg	0	1	1	1.0
-docs/_data/core-team.yml	0	3	3	0.666666666667
-docs/build/node_modules/hogan.js/web/stylesheets/layout.css	0	3	3	0.4
-docs/assets/img/sass-less.png	0	5	5	0.692307692308
-scss/_jumbotron.scss	0	4	4	0.705882352941
-docs/_site/examples/navbar-static-top.html	0	2	2	0.5
-docs/components/carousel.md	5	3	8	0.7
-docs/_includes/getting-started/download.html	2	5	7	0.346153846154
-docs/assets/img/glyphicons/glyphicons_266_book_open.png	0	3	3	0.571428571429
-docs/_includes/components/button-groups.html	2	3	5	0.413793103448
-less/mixins/media-queries.less	0	2	2	0.75
-scss/mixins/_grid-framework.scss	9	3	12	0.632352941176
-package.js	5	5	10	0.484848484848
-less/mixins/nav-vertical-align.less	0	2	2	0.6
-forms.html	0	1	1	1.0
-bootstrap/css/bootstrap-responsive.min.css	0	1	1	1.0
-js/dropdown.js	26	3	29	0.461077844311
-docs/_includes/css/buttons.md	0	1	1	1.0
-docs/assets/brand/bootstrap-social.png	0	2	2	0.75
-docs/_site/assets/img/examples/bootstrap-example-navbar.png	0	2	2	0.5
-less/_button-group.less	0	1	1	1.0
-js/src/button.js	4	5	9	0.485714285714
-assets/js/bootstrap-button.js	0	1	1	1.0
-grunt/bs-commonjs-generator.js	3	6	9	0.342857142857
-docs/_includes/components/alerts.html	0	7	7	0.388888888889
-docs/assets/js/transition.js	0	2	2	0.75
-docs/assets/img/example-sites/soundready.png	0	3	3	0.571428571429
-dist/css/bootstrap-theme.css	11	2	13	0.763358778626
-less/mixins/gradients.less	0	2	2	0.777777777778
-docs/_includes/js/collapse.html	3	4	7	0.555555555556
-documentation/assets/img/bs-docs-twitter-github.png	0	1	1	1.0
-examples/jumbotron-narrow.html	0	1	1	1.0
-documentation/assets/js/google-code-prettify/prettify.css	0	1	1	1.0
-scss/bootstrap-reboot.scss	0	2	2	0.875
-examples/fluid.html	2	2	4	0.617647058824
-docs/assets/img/bs-docs-twitter-github.png	0	5	5	0.714285714286
-docs/build/node_modules/hogan.js/LICENSE	0	3	3	0.4
-docs/_includes/customize-nav.html	0	2	2	0.5
-docs/dist/js/umd/popover.js	2	4	6	0.434782608696
-docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.js	0	3	3	0.4
-js/dist/modal.js.map	2	6	8	0.535714285714
-test-infra/npm-shrinkwrap.json	8	3	11	0.438888888889
-docs/examples/dashboard/dashboard.css	5	2	7	0.75
-docs-assets/js/customizer.js	7	3	10	0.625
-marketing-alternate.html	0	2	2	0.833333333333
-docs/assets/img/glyphicons-halflings-sprite-white.png	0	3	3	0.5
-documentation/assets/js/bootstrap-modal.js	0	1	1	1.0
-docs/_site/assets/img/bootstrap-docs-readme.png	0	2	2	0.5
-scss/mixins/_transforms.scss	0	3	3	0.333333333333
-scss/_print.scss	7	3	10	0.529411764706
-documentation/js/tests/vendor/qunit.css	0	1	1	1.0
-documentation/fonts/glyphiconshalflings-regular.eot	0	1	1	1.0
-docs/.htmlhintrc	0	3	3	0.4
-docs/examples/narrow-jumbotron/jumbotron-narrow.css	0	1	1	1.0
-assets/js/google-code-prettify/prettify.js	0	1	1	1.0
-docs/build/node_modules/hogan.js/web/builds/1.0.5/template-1.0.5.js	0	3	3	0.4
-docs/build/node_modules/hogan.js/test/spec/specs/inverted.json	0	3	3	0.4
-_gh_pages/assets/js/bootstrap-tooltip.js	0	1	1	1.0
-js/jquery/chili/php.js	0	1	1	1.0
-documentation/assets/img/example-sites/example-karma.jpg	0	1	1	1.0
-docs/javascript/scrollspy.md	0	1	1	1.0
-docs/assets/img/examples/bootstrap-example-grid.png	0	4	4	0.5
-docs/build/node_modules/hogan.js/web/images/noise.png	0	4	4	0.375
-docs/getting-started/license.md	0	1	1	1.0
-screenshots/starter.png	0	1	1	1.0
-docs/_site/components.html	0	2	2	0.5
-docs/_site/assets/ico/apple-touch-icon-57-precomposed.png	0	2	2	0.5
-docs/assets/img/example-diagram-01.png	0	3	3	0.5
-docs/examples/sticky-footer-navbar.html	6	3	9	0.722222222222
-bootstrap/img/glyphicons-halflings.png	0	2	2	0.5
-documentation/assets/img/examples/browser-icon-firefox.png	0	1	1	1.0
-less/_pager.less	0	1	1	1.0
-docs/assets/js/jquery/chili/html.js	0	2	2	0.666666666667
-docs/dist/js/bootstrap.min.js	11	4	15	0.556862745098
-docs/assets/js/vendor/blob.js	0	4	4	0.642857142857
-grunt/tasks/css-flip.js	0	2	2	0.6
-docs/assets/img/examples/bootstrap-example-sticky-footer.png	0	2	2	0.846153846154
-documentation/assets/img/bootstrap-mdo-sfmoma-01.jpg	0	1	1	1.0
-less/patterns.less	0	2	2	0.625
-docs/_includes/components/thumbnails.html	0	3	3	0.6
-js/tests/unit/bootstrap-tab.js	0	7	7	0.352941176471
-img/baseline-10px.png	0	1	1	1.0
-grunt/bs-sass-compile/sass.js	0	5	5	0.555555555556
-docs/examples/screenshots/navbar.jpg	0	2	2	0.888888888889
-carousel/example.css	0	3	3	0.6
-js/carousel.js	19	4	23	0.449438202247
-docs/content/figures.md	9	3	12	0.51724137931
-less/tests/css-tests.css	0	4	4	0.7
-docs/assets/img/example-sites/example-easel.jpg	0	1	1	1.0
-scss/.scsslint.yml	0	3	3	0.6
-jumbotron-narrow.html	0	3	3	0.857142857143
-less/mixins/responsive-visibility.less	0	2	2	0.8
-docs/assets/img/example-sites/example-gathercontent.jpg	0	1	1	1.0
-docs-assets/ico/apple-touch-icon-144-precomposed.png	0	2	2	0.666666666667
-docs/_includes/navbar.html	0	2	2	0.818181818182
-lib/tabs-pills.less	0	3	3	0.833333333333
-img/dropdown-arrow.gif	0	1	1	1.0
-docs/build/node_modules/.bin/hulk	0	3	3	0.4
-docs/dist/css/bootstrap.min.css	20	2	22	0.823008849558
-docs/assets/js/google-code-prettify/lang-wiki.js	0	2	2	0.666666666667
-_layouts/_default.html	0	1	1	1.0
-js/transition.js	14	3	17	0.553398058252
-docs/_site/assets/css/bootstrap.css	0	2	2	0.5
-less/mixins/resize.less	0	3	3	0.6
-docs/assets/js/examples/bootstrap-offcanvas.js	0	2	2	0.5
-documentation/examples/sticky-footer.html	0	1	1	1.0
-scss/_pager.scss	0	5	5	0.5
-docs/examples/offcanvas/index.html	16	3	19	0.454545454545
-docs/_includes/nav/about.html	0	1	1	1.0
-.houndignore	0	3	3	0.333333333333
-documentation/assets/img/examples/slide-03.jpg	0	1	1	1.0
-docs/build/node_modules/hogan.js/lib/hogan.js	0	3	3	0.4
-assets/css/docs.css	3	2	5	0.874074074074
-docs/examples/navbar.html	4	3	7	0.619047619048
-docs/_includes/nav/javascript.html	1	3	4	0.56
-examples/container-app.html	2	3	5	0.533333333333
-docs/favicon.ico	0	2	2	0.6
-lib/layouts.less	0	1	1	1.0
-docs/_includes/components/progress-bars.html	4	4	8	0.444444444444
-docs/build/node_modules/hogan.js/wrappers/js.mustache	0	3	3	0.4
-assets/js/google-code-prettify/prettify.css	0	1	1	1.0
-less/mixins/clearfix.less	0	2	2	0.75
-docs/assets/css/pack.min.css	2	2	4	0.785714285714
-less/nav-pill.less	0	1	1	1.0
-js/tests/visual/scrollspy.html	10	5	15	0.384615384615
-documentation/assets/js/bootstrap-typeahead.js	0	1	1	1.0
-docs/assets/js/holder/holder.js	0	6	6	0.625
-docs/assets/css/docs-flexbox.min.css.map	1	2	3	0.892857142857
-docs/getting-started/best-practices.md	0	3	3	0.785714285714
-dist/css/bootstrap-flex.css	2	1	3	0.961538461538
-docs/assets/js/customizer.js	1	4	5	0.533333333333
-less/mixins/tab-focus.less	0	2	2	0.6
-js/tests/unit/scrollspy.js	21	5	26	0.384615384615
-js/tooltip.js	36	4	40	0.34
-navbar/example.css	0	2	2	0.5
-_gh_pages/assets/img/examples/browser-icon-safari.png	0	1	1	1.0
-docs/_site/assets/js/bootstrap-tab.js	0	2	2	0.5
-dist/css/bootstrap.css	54	2	56	0.792819745699
-docs/templates/pages/customize.mustache	5	2	7	0.792452830189
-docs/build/node_modules/hogan.js/lib/template.js	0	3	3	0.4
-js/jquery/chili/php-f.js	0	1	1	1.0
-docs/examples/screenshots/jumbotron.jpg	0	2	2	0.833333333333
-docs/assets/css/pygments_monokai.css	0	1	1	1.0
-docs/utilities/clearfix.md	0	3	3	0.8
-docs/assets/js/_vendor/holder.js	0	4	4	0.333333333333
-docs/assets/js/collapse.js	0	2	2	0.833333333333
-less/_popover.less	0	1	1	1.0
-_gh_pages/assets/js/bootstrap-affix.js	0	1	1	1.0
-docs/examples/grid/index.html	11	3	14	0.493333333333
-starter-template.html	5	2	7	0.794117647059
-lib/media-grids.less	0	2	2	0.666666666667
-less/tests/navbar-static-top.html	0	3	3	0.833333333333
-examples/assets/js/bootstrap-modals.js	0	1	1	1.0
-js/tests/visual/popover.html	7	3	10	0.392857142857
-docs/build/node_modules/hogan.js/test/spec/specs/delimiters.yml	0	3	3	0.4
-docs/assets/img/example-sites/8020select.png	0	2	2	0.8
-docs/assets/js/_vendor/zero-clipboard.js	0	2	2	0.5
-less/component-animations.less	5	3	8	0.627906976744
-grunt/bs-raw-files-generator.js	1	4	5	0.466666666667
-docs/layout/grid.md	14	2	16	0.673684210526
-docs/_site/assets/ico/favicon.ico	0	2	2	0.5
-docs/components/badge.md	0	3	3	0.75
-docs/_site/assets/img/examples/bootstrap-example-carousel.png	0	2	2	0.5
-docs/examples/marketing-alternate.html	0	2	2	0.875
-examples/assets/js/bootstrap-alerts.js	0	2	2	0.833333333333
-docs/assets/js/application-scrollspy.js	0	2	2	0.5
-documentation/js/tests/phantom.js	0	1	1	1.0
-docs/build/node_modules/hogan.js/test/spec/specs/inverted.yml	0	3	3	0.4
-js/dist/tooltip.js.map	4	5	9	0.525423728814
-documentation/js/bootstrap-typeahead.js	0	1	1	1.0
-scss/mixins/_border-radius.scss	0	3	3	0.5
-docs/assets/css/docs.min.css	15	2	17	0.789473684211
-docs/dist/js/umd/dropdown.js	1	5	6	0.5
-_gh_pages/assets/img/example-sites/example-karma.jpg	0	1	1	1.0
-docs/_includes/js/dropdowns.html	9	4	13	0.333333333333
-lib/tables.less	2	2	4	0.622950819672
-less/mixins/table-row.less	0	3	3	0.714285714286
-_layouts/default.html	4	3	7	0.766666666667
-docs/_site/assets/img/examples/bootstrap-example-fluid.png	0	2	2	0.5
-dist/fonts/glyphiconshalflings-regular.eot	0	1	1	1.0
-js/tests/visual/carousel.html	6	6	12	0.4
-docs/assets/ico/bootstrap-apple-114x114.png	0	3	3	0.5
-js/bootstrap-alerts.js	0	2	2	0.714285714286
-navbar-fixed-top/navbar-fixed-top.css	0	2	2	0.666666666667
-documentation/js/tests/unit/bootstrap-alert.js	0	1	1	1.0
-less/responsive-767px-max.less	7	2	9	0.796610169492
-docs/_includes/nav/migration.html	0	1	1	1.0
-dist/css/bootstrap-grid.min.css	0	3	3	0.878787878788
-js/tests/pid.txt	0	1	1	1.0
-dist/css/bootstrap.css.map	23	2	25	0.781839622642
-examples/assets/js/google-code-prettify/prettify.css	0	2	2	0.6
-docs/_includes/nav/css.html	0	7	7	0.526315789474
-docs/assets/js/bootstrap-modal.js	8	3	11	0.430379746835
-js/src/tab.js	6	7	13	0.394736842105
-templates/fluid.html	0	2	2	0.666666666667
-examples/theme/theme.css	0	2	2	0.75
-_gh_pages/assets/js/bootstrap-collapse.js	0	1	1	1.0
-assets/js/respond/respond.min.js	0	1	1	1.0
-sticky-footer/example.css	0	2	2	0.5
-docs/templates/pages/index.mustache	7	2	9	0.761904761905
-js/tests/phantom.js	0	7	7	0.375
-assets/css/bootstrap.css	0	1	1	1.0
-documentation/assets/js/jquery.js	0	1	1	1.0
-_gh_pages/css/index.html	0	1	1	1.0
-docs/_includes/nav-main.html	3	2	5	0.791666666667
-docs/examples/carousel.html	8	3	11	0.666666666667
-_gh_pages/javascript/index.html	0	1	1	1.0
-docs/examples/screenshots/theme.jpg	0	2	2	0.833333333333
-docs/_includes/components/breadcrumbs.html	0	3	3	0.5
-docs/assets/js/bootstrap.min.tmp.js	0	2	2	0.75
-documentation/assets/ico/apple-touch-icon-57-precomposed.png	0	1	1	1.0
-documentation/examples/jumbotron-narrow.html	0	1	1	1.0
-assets/img/grid-20px.png	0	2	2	0.666666666667
-examples/screenshots/jumbotron-narrow.png	0	1	1	1.0
-documentation/examples/starter-template.html	0	1	1	1.0
-lib/navs.less	0	4	4	0.533333333333
-docs/assets/js/tab.js	0	2	2	0.75
-_data/glyphicons.yml	0	2	2	0.857142857143
-docs/assets/img/example-sites/example-adoptahydrant.jpg	0	1	1	1.0
-js/tests/unit/bootstrap-collapse.js	0	5	5	0.5
-js/jquery/jquery.tipsy.js	0	1	1	1.0
-assets/img/examples/slide-03.jpg	0	1	1	1.0
-js/tests/unit/transition.js	0	5	5	0.736842105263
-docs/assets/js/modal.js	0	2	2	0.8
-documentation/examples/justified-nav.html	0	1	1	1.0
-js/tests/closure.html	0	3	3	0.6
-docs/dist/css/bootstrap-reboot.css	0	3	3	0.833333333333
-js/.jscs.json	1	3	4	0.757575757576
-docs/assets/img/bs-themes.png	0	5	5	0.363636363636
-docs/assets/js/raw-files.js	1	2	3	0.666666666667
-documentation/examples/jumbotron.html	0	1	1	1.0
-navbar-fixed-top.html	0	3	3	0.4
-docs/templates/pages/css.mustache	1	2	3	0.921568627451
-docs/assets/js/google-code-prettify/prettify.js	0	2	2	0.833333333333
-docs/build/node_modules/hogan.js/test/spec/specs/partials.json	0	3	3	0.4
-docs/assets/img/grid-18px.png	0	3	3	0.571428571429
-docs/build/node_modules/hogan.js/test/spec.js	0	3	3	0.4
-docs/components/new-navbar.md	0	1	1	1.0
-js/min/bootstrap-buttons.min.js	0	1	1	1.0
-signin/signin.css	0	2	2	0.666666666667
-docs/_site/assets/ico/apple-touch-icon-114-precomposed.png	0	2	2	0.5
-less/mixins/center-block.less	0	2	2	0.6
-docs/_includes/nav/customize.html	0	2	2	0.909090909091
-docs/assets/js/jquery/chili/js.js	0	2	2	0.666666666667
-_gh_pages/assets/fonts/glyphiconshalflings-regular.otf	0	1	1	1.0
-documentation/js/tests/unit/bootstrap-scrollspy.js	0	1	1	1.0
-docs/components/tables.html	0	1	1	1.0
-lib/button-groups.less	0	4	4	0.428571428571
-bootstrap/css/bootstrap.css	0	4	4	0.666666666667
-navbar-fixed-top/example.css	0	2	2	0.5
-documentation/examples/sticky-footer-navbar.html	0	1	1	1.0
-docs/getting-started/third-party-support.md	0	2	2	0.75
-docs-assets/js/ie8-responsive-file-warning.js	0	2	2	0.8
-js/dist/dropdown.js	2	6	8	0.575
-docs/_includes/js/carousel.html	11	2	13	0.479166666667
-docs/_includes/page-headers.html	0	7	7	0.470588235294
-js/bootstrap-transitions.js	0	2	2	0.5
-examples/offcanvas/offcanvas.css	3	2	5	0.827586206897
-less/_media.less	0	1	1	1.0
-documentation/assets/img/examples/bootstrap-example-carousel.png	0	1	1	1.0
-assets/img/example-sites/example-jetstrap.jpg	0	1	1	1.0
-.hound.yml	4	4	8	0.48
-less/_tooltip.less	0	1	1	1.0
-test-infra/s3_cache.py	2	3	5	0.48275862069
-assets/js/bootstrap-tab.js	0	1	1	1.0
-documentation/index.html	0	1	1	1.0
-js/.eslintrc.json	0	4	4	0.55
-docs/grid.html	0	2	2	0.666666666667
-docs/assets/css/bootstrap.css	50	2	52	0.839004149378
-navbar.html	0	4	4	0.555555555556
-less/_utilities.less	0	1	1	1.0
-docs/_layouts/docs.html	0	6	6	0.722222222222
-documentation/fonts/glyphiconshalflings-regular.woff	0	1	1	1.0
-docs-assets/js/jszip.js	0	4	4	0.75
-assets/img/examples/bootstrap-example-carousel.png	0	1	1	1.0
-docs/assets/img/examples/bootstrap-example-marketing-narrow.png	0	2	2	0.875
-docs/_site/examples/jumbotron.html	0	2	2	0.5
-examples/screenshots/blog.jpg	0	1	1	1.0
-docs/assets/fonts/glyphiconshalflings-regular.ttf	0	2	2	0.888888888889
-grid.html	0	3	3	0.818181818182
-fonts/glyphicons-halflings-regular.woff2	0	3	3	0.714285714286
-assets/js/README.md	0	1	1	1.0
-dist/img/glyphicons-halflings-white.png	0	1	1	1.0
-docs/_site/assets/img/examples/browser-icon-chrome.png	0	2	2	0.5
-docs/assets/js/google-code-prettify/lang-go.js	0	2	2	0.666666666667
-docs/examples/navbar-static-top/navbar-static-top.css	0	2	2	0.9
-docs/assets/js/bootstrap.min.js	13	3	16	0.410480349345
-docs/assets/js/google-code-prettify/lang-clj.js	0	2	2	0.666666666667
-scss/_carousel.scss	7	2	9	0.613333333333
-docs/assets/img/examples/bootstrap-example-signin.png	0	4	4	0.75
-docs/extend/icon-fonts.md	0	3	3	0.75
-test-infra/sauce_browsers.yml	0	2	2	0.625
-documentation/js/bootstrap-affix.js	0	1	1	1.0
-docs/assets/scss/_ads.scss	2	3	5	0.785714285714
-_gh_pages/assets/js/bootstrap-typeahead.js	0	1	1	1.0
-scss/_badge.scss	0	4	4	0.777777777778
-docs/_includes/getting-started/community.html	0	6	6	0.307692307692
-docs/_includes/components/page-header.html	0	2	2	0.5
-lib/print.less	0	2	2	0.666666666667
-docs/dist/js/umd/util.js	0	6	6	0.5
-documentation/assets/img/example-sites/example-kippt.jpg	0	1	1	1.0
-docs/components/pagination.md	4	3	7	0.625
-scss/.csslintrc	0	1	1	1.0
-docs/assets/js/google-code-prettify/lang-ml.js	0	2	2	0.666666666667
-documentation/js/tests/vendor/jquery.js	0	1	1	1.0
-docs/examples/navbar-top-fixed/index.html	3	5	8	0.5
-docs/_site/assets/js/bootstrap-carousel.js	0	2	2	0.5
-baseline-1.0.0.min.css	0	1	1	1.0
-docs/examples/sticky-footer-navbar/sticky-footer-navbar.css	0	3	3	0.789473684211
-docs/assets/js/google-code-prettify/lang-vhdl.js	0	2	2	0.666666666667
-assets/ico/apple-touch-icon-72-precomposed.png	0	3	3	0.846153846154
-_gh_pages/examples/starter-template.html	0	1	1	1.0
-less/_carousel.less	0	1	1	1.0
-docs/build/package.json	0	3	3	0.4
-docs/assets/img/less-small.png	0	3	3	0.571428571429
-docs/extend/approach.md	0	1	1	1.0
-docs/templates/pages/less.mustache	5	2	7	0.746835443038
-docs/examples/justified-nav.html	1	4	5	0.714285714286
-docs/dist/svg/cross.svg	0	2	2	0.666666666667
-examples/screenshots/starter-template.jpg	0	2	2	0.833333333333
-navbar-static-top/example.css	0	2	2	0.5
-docs/assets/img/example-sites/railwayjs.png	0	3	3	0.428571428571
-docs/_includes/footer.html	19	3	22	0.541666666667
-docs/css-tests.html	0	2	2	0.857142857143
-bootstrap-1.2.0.css	0	2	2	0.636363636364
-documentation/js/bootstrap-popover.js	0	1	1	1.0
-_gh_pages/examples/sticky-footer-navbar.html	0	1	1	1.0
-docs/assets/img/examples/bootstrap-example-fluid.png	0	4	4	0.625
-js/dist/tooltip.js	4	5	9	0.543859649123
-docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.amd.js	0	3	3	0.4
-docs/assets/js/customize.min.js	8	4	12	0.614525139665
-docs/assets/img/example-sites/example-codecademy.jpg	0	1	1	1.0
-docs/_plugins/highlight_alt.rb	0	6	6	0.45
-docs/assets/scss/_examples.scss	0	1	1	1.0
-less/_code.less	0	1	1	1.0
-dist/css/bootstrap-theme.rtl.min.css	0	2	2	0.666666666667
-docs/_includes/nav/docs.html	0	1	1	1.0
-docs/assets/img/examples/bootstrap-example-jumbotron-narrow.png	0	3	3	0.714285714286
-docs/assets/js/vendor/jekyll-search.min.js	0	6	6	0.428571428571
-docs/_plugins/bugify.rb	3	4	7	0.36
-assets/img/bs-docs-masthead-pattern.png	0	1	1	1.0
-docs/assets/img/examples/browser-icon-firefox.png	0	4	4	0.727272727273
-_gh_pages/assets/js/bootstrap.min.js	0	1	1	1.0
-docs/_site/assets/ico/apple-touch-icon-72-precomposed.png	0	2	2	0.5
-docs/_includes/colophon.html	0	5	5	0.65
-img/tablesorter-indicators.png	0	1	1	1.0
-docs-assets/js/application.js	1	3	4	0.736842105263
-dist/css/bootstrap-rtl.min.css	5	2	7	0.8
-img/baseline-20px.png	0	1	1	1.0
-scss/_breadcrumb.scss	4	3	7	0.625
-docs/assets/brand/bootstrap-outline.svg	0	2	2	0.818181818182
-less/docs.less	0	2	2	0.9
-less/_scaffolding.less	0	1	1	1.0
-docs/getting-started.html	19	2	21	0.717054263566
-docs/examples/grid/grid.css	0	2	2	0.857142857143
-dist/css/bootstrap.min.responsive	0	1	1	1.0
-scss/_grid.scss	6	4	10	0.65
-docs/_includes/getting-started/download.md	0	1	1	1.0
-docs/assets/js/google-code-prettify/lang-hs.js	0	2	2	0.666666666667
-scss/_dropdown.scss	12	2	14	0.535714285714
-docs/components/breadcrumb.html	0	2	2	0.666666666667
-assets/css/old_docs.css	0	1	1	1.0
-assets/fonts/glyphiconshalflings-regular.svg	0	1	1	1.0
-docs/content/forms.md	0	1	1	1.0
-less/bootstrap.less	10	2	12	0.807407407407
-_gh_pages/assets/ico/apple-touch-icon-57-precomposed.png	0	1	1	1.0
-_gh_pages/assets/img/examples/bootstrap-example-sticky-footer.png	0	1	1	1.0
-docs/assets/scss/_featured-sites.scss	0	6	6	0.444444444444
-docs/assets/img/examples/slide-03.jpg	0	4	4	0.666666666667
-documentation/assets/img/example-sites/example-soundready.jpg	0	1	1	1.0
-_gh_pages/assets/js/html5shiv.js	0	1	1	1.0
-docs/dist/svg/magnifying-glass.svg	0	2	2	0.666666666667
-docs/build/node_modules/hogan.js/web/images/stripes.png	0	4	4	0.375
-docs/assets/scss/_brand.scss	0	1	1	1.0
-js/tests/unit/dropdown.js	19	3	22	0.431818181818
-examples/navbar-static-top/navbar-static-top.css	0	1	1	1.0
-docs/components/nav.html	0	2	2	0.666666666667
-documentation/assets/js/respond/respond.min.js	0	1	1	1.0
-scss/mixins/_pagination.scss	0	2	2	0.538461538462
-docs/assets/js/vendor/holder.min.js	0	6	6	0.470588235294
-docs/assets/img/examples/bootstrap-example-starter.jpg	0	3	3	0.5
-docs/about/history.md	0	4	4	0.75
-docs/_site/assets/js/holder/holder.js	0	2	2	0.5
-docs/examples/cover/index.html	9	3	12	0.46
-scss/mixins/_clearfix.scss	0	5	5	0.666666666667
-docs/utilities/vertical-align.md	0	2	2	0.714285714286
-documentation/assets/img/example-sites/example-divshot.jpg	0	1	1	1.0
-sticky-footer-navbar/example.css	0	2	2	0.5
-docs/assets/img/examples/bootstrap-example-sticky-footer-navbar.png	0	3	3	0.666666666667
-docs/utilities/typography.md	0	4	4	0.636363636364
-docs/assets/img/example-sites/example-delicious.jpg	0	1	1	1.0
-docs/examples/tooltip-viewport/tooltip-viewport.js	0	2	2	0.666666666667
-docs/assets/scss/flex-grid.scss	0	3	3	0.8
-docs/assets/js/vendor/Blob.js	0	3	3	0.5
-grid/index.html	0	2	2	0.571428571429
-docs/assets/img/blueprint-icon.png	0	2	2	0.5
-docs/assets/scss/_footer.scss	0	1	1	1.0
-docs/examples/rtl/rtl.css	0	1	1	1.0
-examples/sticky-footer-navbar.html	0	1	1	1.0
-_layouts/customize.html	0	4	4	0.631578947368
-documentation/assets/js/bootstrap-dropdown.js	0	1	1	1.0
-assets/img/example-sites/example-tonx.jpg	0	1	1	1.0
-less/tests/navbar.html	0	4	4	0.785714285714
-_gh_pages/examples/jumbotron.html	0	1	1	1.0
-examples/justified-nav/index.html	7	2	9	0.693548387097
-scss/_responsive-embed.scss	0	5	5	0.6875
-docs/getting-started/build-tools.md	5	5	10	0.555555555556
-scss/_type.scss	11	2	13	0.627906976744
-docs/_includes/nav-docs.html	8	2	10	0.666666666667
-bootstrap/fonts/glyphiconshalflings-regular.eot	0	1	1	1.0
-docs/assets/img/bird.png	0	3	3	0.625
-scss/mixins/_text-overflow.scss	0	1	1	1.0
-docs/assets/js/google-code-prettify/lang-n.js	0	2	2	0.666666666667
-docs/content/tables.md	6	3	9	0.682926829268
-documentation/assets/img/example-sites/example-jshint.jpg	0	1	1	1.0
-assets/img/example-sites/example-gosquared.jpg	0	1	1	1.0
-docs/assets/scss/_clipboard-js.scss	0	4	4	0.4
-js/tests/unit/bootstrap-tabs.js	0	3	3	0.666666666667
-_gh_pages/assets/img/bootstrap-mdo-sfmoma-02.jpg	0	1	1	1.0
-docs/dist/svg/check.svg	0	2	2	0.666666666667
-screenshots/offcanvas.png	0	1	1	1.0
-docs/_site/assets/js/bootstrap-scrollspy.js	0	2	2	0.5
-docs/assets/js/vendor/holder.js	2	3	5	0.51724137931
-dist/css/bootstrap-theme.css.map	8	2	10	0.731707317073
-docs/LICENSE-DOCS	0	1	1	1.0
-docs/dist/css/bootstrap.min.css.map	6	2	8	0.821011673152
-docs/examples/navbar/navbar.css	0	1	1	1.0
-img/grid-940px.png	0	1	1	1.0
-docs/assets/js/jquery.js	0	6	6	0.421052631579
-lib/component-animations.less	0	1	1	1.0
-documentation/assets/ico/apple-touch-icon-144-precomposed.png	0	1	1	1.0
-docs/_includes/nav-javascript.html	0	6	6	0.736842105263
-docs/download.html	4	2	6	0.730434782609
-assets/js/uglify.js	0	2	2	0.666666666667
-_gh_pages/assets/img/examples/bootstrap-example-fluid.png	0	1	1	1.0
-lib/carousel.less	0	3	3	0.454545454545
-documentation/assets/img/examples/slide-01.jpg	0	1	1	1.0
-assets/img/example-sites/example-metrotwit.jpg	0	1	1	1.0
-docs-assets/js/customize.js	0	4	4	0.75
-docs/_includes/callout-warning-color-assistive-technologies.md	0	2	2	0.5
-_includes/nav-javascript.html	0	1	1	1.0
-less/responsive-navbar.less	7	2	9	0.666666666667
-_gh_pages/assets/fonts/glyphiconshalflings-regular.svg	0	1	1	1.0
-docs/templates/pages/getting-started.mustache	7	2	9	0.826666666667
-js/script-compiled.js	0	1	1	1.0
-docs/_includes/css/forms.html	6	3	9	0.402777777778
-docs/javascript/alerts.md	0	2	2	0.846153846154
-docs/assets/img/grid-baseline-20px.png	0	5	5	0.636363636364
-docs/dist/js/umd/alert.js	0	6	6	0.578947368421
-dist/js/umd/dropdown.js	2	6	8	0.407407407407
-_gh_pages/assets/img/examples/bootstrap-example-signin.png	0	1	1	1.0
-scss/_alert.scss	5	4	9	0.571428571429
-docs/assets/img/examples/bootstrap-example-offcanvas.png	0	4	4	0.428571428571
-js/tests/vendor/jquery.js	5	4	9	0.514285714286
-docs/examples/album/index.html	9	3	12	0.449275362319
-docs/dist/css/bootstrap.css.map	17	2	19	0.821862348178
-documentation/js/tests/server.js	0	1	1	1.0
-_gh_pages/examples/signin.html	0	1	1	1.0
-docs/dist/js/bootstrap.js	7	4	11	0.52380952381
-less/type.less	35	1	36	0.736263736264
-docs/assets/js/google-code-prettify/lang-apollo.js	0	2	2	0.666666666667
-_includes/header.html	6	2	8	0.719298245614
-docs/gallery.html	1	1	2	0.95652173913
-docs/assets/js/vendor/jszip.min.js	0	5	5	0.526315789474
-LICENSE	2	7	9	0.472222222222
-LICENSE-MIT	0	2	2	0.888888888889
-test-infra/S3Cachefile.json	4	4	8	0.409090909091
-docs/examples/non-responsive/index.html	8	4	12	0.416666666667
-docs/examples/screenshots/sticky-footer-navbar.jpg	0	2	2	0.888888888889
-docs/about.html	4	5	9	0.520833333333
-dist/css/bootstrap-grid.css	0	3	3	0.875
-assets/js/bootstrap-transition.js	0	1	1	1.0
-docs/_includes/js/scrollspy.html	6	3	9	0.382978723404
-docs/_includes/nav/getting-started.html	3	2	5	0.615384615385
-less/tests/buttons.html	0	2	2	0.909090909091
-docs/examples/navbar-fixed-top/navbar-fixed-top.css	0	1	1	1.0
-docs/build/node_modules/hogan.js/test/spec/specs/sections.yml	0	3	3	0.4
-docs/assets/js/jquery/chili/php-f.js	0	2	2	0.666666666667
-docs/_site/assets/js/bootstrap-tooltip.js	0	2	2	0.5
-lib/preboot.less	1	3	4	0.5125
-js/externs/jQuery.js	0	3	3	0.6
-docs/getting-started/index.md	0	1	1	1.0
-js/min/bootstrap-popover.min.js	0	1	1	1.0
-examples/screenshots/navbar-static.jpg	0	2	2	0.833333333333
-docs/components/custom-forms.md	0	1	1	1.0
-examples/screenshots/sign-in.jpg	0	2	2	0.833333333333
-docs/examples/rtl/index.html	2	3	5	0.548387096774
-docs/_includes/header.html	13	3	16	0.553719008264
-docs/assets/flash/ZeroClipboard.swf	0	6	6	0.4
-docs/assets/ico/bootstrap-apple-57x57.png	0	3	3	0.5
-assets/ico/apple-touch-icon-144-precomposed.png	0	4	4	0.8125
-examples/screenshots/cover.jpg	0	1	1	1.0
-docs/assets/js/application.js	11	2	13	0.557471264368
-bootstrap/js/bootstrap.js	0	2	2	0.6
-less/mixins/grid-framework.less	0	6	6	0.615384615385
-docs/getting-started/customize.md	0	1	1	1.0
-assets/img/bs-docs-bootstrap-features.png	0	1	1	1.0
-docs/examples/album/album.css	0	2	2	0.75
-docs/assets/js/google-code-prettify/lang-lisp.js	0	2	2	0.666666666667
-scss/utilities/_text.scss	3	4	7	0.565217391304
-docs/assets/img/example-sites/example-kippt.jpg	0	1	1	1.0
-docs/assets/scss/_buttons.scss	0	3	3	0.777777777778
-docs/examples/hero.html	6	3	9	0.621621621622
-less/_jumbotron.less	0	1	1	1.0
-docs/_site/assets/img/examples/bootstrap-example-signin.png	0	2	2	0.5
-docs/assets/js/dropdown.js	0	2	2	0.833333333333
-js/tests/unit/bootstrap-button.js	0	6	6	0.388888888889
-documentation/js/tests/unit/bootstrap-dropdown.js	0	1	1	1.0
-docs/assets/js/jquery/chili/jquery.chili-2.2.js	0	2	2	0.666666666667
-documentation/assets/fonts/glyphiconshalflings-regular.eot	0	1	1	1.0
-assets/js/filesaver.js	0	2	2	0.666666666667
-less/button-groups.less	30	1	31	0.751072961373
-docs/assets/scss/_team.scss	0	4	4	0.7
-lib/responsive.less	1	2	3	0.733333333333
-documentation/customize/index.html	0	1	1	1.0
-_gh_pages/assets/js/bootstrap-button.js	0	1	1	1.0
-docs-assets/img/sass-less.png	0	1	1	1.0
-docs/assets/js/bootstrap-collapse.js	5	3	8	0.405797101449
-dist/css/bootstrap-theme.rtl.css	0	2	2	0.666666666667
-documentation/js/tests/unit/bootstrap-tooltip.js	0	1	1	1.0
-docs/assets/js/jszip-deflate.js	0	1	1	1.0
-lib/sidenav.less	0	2	2	0.75
-docs/content/code.md	0	3	3	0.666666666667
-docs/assets/js/google-code-prettify/lang-xq.js	0	2	2	0.666666666667
-docs/examples/equal-height-columns/index.html	0	7	7	0.368421052632
-nuget/bootstrap.nuspec	2	4	6	0.52380952381
-docs/assets/ico/apple-touch-icon-114-precomposed.png	0	2	2	0.833333333333
-screenshots/carousel.png	0	1	1	1.0
-docs/components/progress.md	3	4	7	0.702702702703
-bootstrap/bootstrap.css	0	1	1	1.0
-docs/assets/img/sass.png	0	6	6	0.333333333333
-docs/examples/navbar/index.html	13	4	17	0.428571428571
-scss/mixins/_background-variant.scss	0	5	5	0.55
-docs/examples/sticky-footer.html	5	2	7	0.774193548387
-docs/layout/scaffolding.md	0	3	3	0.777777777778
-documentation/fonts/glyphiconshalflings-regular.otf	0	1	1	1.0
-docs/layout/media-object.md	0	2	2	0.9
-assets/img/example-sites/example-jumpstart-ui.jpg	0	1	1	1.0
-js/min/bootstrap-scrollspy.min.js	0	1	1	1.0
-_gh_pages/assets/js/bootstrap-scrollspy.js	0	1	1	1.0
-dist/css/bootstrap-theme.min.css.map	0	4	4	0.428571428571
-docs/build/node_modules/hogan.js/test/spec/specs/delimiters.json	0	3	3	0.4
-assets/img/example-sites/example-synco.jpg	0	1	1	1.0
-js/bootstrap-twipsy.js	2	3	5	0.637931034483
-assets/fonts/glyphiconshalflings-regular.otf	0	1	1	1.0
-composer.json	15	2	17	0.649350649351
-_gh_pages/assets/ico/apple-touch-icon-144-precomposed.png	0	1	1	1.0
-lib/close.less	0	1	1	1.0
-hero.html	5	1	6	0.807692307692
-docs/assets/js/ie8-responsive-file-warning.js	0	4	4	0.625
-scss/utilities/_borders.scss	0	4	4	0.714285714286
-docs/components/forms.md	21	3	24	0.647058823529
-examples/blog/index.html	0	3	3	0.833333333333
-assets/img/example-sites/example-breakingnews.jpg	0	1	1	1.0
-docs/examples/justified-nav/justified-nav.css	6	3	9	0.6875
-documentation/assets/js/bootstrap-transition.js	0	1	1	1.0
-assets/fonts/glyphiconshalflings-regular.ttf	0	1	1	1.0
-README.md	66	3	69	0.513307984791
-dist/css/bootstrap-grid.css.map	0	3	3	0.897435897436
-docs/assets/bootstrap.zip	7	2	9	0.760076775432
-js/bootstrap-transition.js	9	3	12	0.397058823529
-docs/layout/media.md	0	2	2	0.9
-js/tests/README.md	0	5	5	0.545454545455
-docs/utilities/screenreaders.md	0	4	4	0.6
-Gemfile	5	6	11	0.396551724138
-docs/_site/assets/js/jquery.js	0	2	2	0.5
-docs/templates/pages/css-tests.mustache	0	1	1	1.0
-docs/assets/js/scrollspy.js	0	2	2	0.75
-.issue-guidelines.js	0	5	5	0.4
-less/tests/new-modal.html	0	1	1	1.0
-dist/css/bootstrap-flex.min.css.map	2	1	3	0.954545454545
-docs/components/scaffolding.md	0	1	1	1.0
-docs/components/list-group.md	10	2	12	0.706896551724
-docs/examples/forms.html	0	1	1	1.0
-dist/fonts/glyphicons-halflings-regular.ttf	0	2	2	0.846153846154
-assets/img/bs-docs-responsive-illustrations.png	0	1	1	1.0
-docs/components/tooltip.html	0	2	2	0.666666666667
-less/tests/forms.html	0	3	3	0.714285714286
-dist/fonts/glyphiconshalflings-regular.ttf	0	1	1	1.0
-docs/dist/css/bootstrap.rtl.css	0	2	2	0.666666666667
-docs/assets/js/blob.js	0	2	2	0.625
-assets/img/example-sites/example-codecademy.jpg	0	1	1	1.0
-ISSUE_TEMPLATE.md	0	4	4	0.6
-js/tests/unit/alert.js	11	5	16	0.43661971831
-docs/build/node_modules/hogan.js/test/html/list.html	0	3	3	0.4
-docs/components/tables.md	0	1	1	1.0
-lib/forms.less	5	2	7	0.682926829268
-assets/ico/favicon.ico	0	1	1	1.0
-js/tests/unit/affix.js	8	5	13	0.35593220339
-_gh_pages/gallery/index.html	0	1	1	1.0
-docs/_includes/nav-css.html	6	2	8	0.707317073171
-assets/js/application.js	0	3	3	0.666666666667
-docs/customizer-nav.jade	0	2	2	0.666666666667
-assets/img/bootstrap-docs-readme.png	0	1	1	1.0
-docs/assets/js/docs.min.js	7	3	10	0.509316770186
-docs/assets/fonts/glyphiconshalflings-regular.woff	0	2	2	0.888888888889
-_gh_pages/assets/ico/apple-touch-icon-72-precomposed.png	0	1	1	1.0
-assets/js/jquery.js	0	2	2	0.9
+filename	minor	major	total	ownership	size	churn
+docs/components/scrollspy.md	0	2	2	0.8571428571428571	163	15
+docs/components/modal.md	0	4	4	0.7692307692307693	498	47
+scss/_list-group.scss	0	2	2	0.8	125	24
+docs/examples/carousel/index.html	0	6	6	0.5714285714285714	186	56
+docs/examples/navbar-top-fixed/index.html	0	7	7	0.5625	53	46
+docs/examples/navbar-top/index.html	0	7	7	0.5625	51	50
+docs/examples/sticky-footer-navbar/index.html	0	7	7	0.5333333333333333	81	54
+docs/examples/sticky-footer/index.html	0	2	2	0.75	45	8
+docs/index.html	0	4	4	0.7333333333333333	112	68
+js/tests/visual/collapse.html	0	3	3	0.6666666666666666	69	120
+js/tests/visual/dropdown.html	0	2	2	0.75	107	24
+js/tests/visual/modal.html	0	3	3	0.6666666666666666	201	76
+docs/components/collapse.md	0	4	4	0.85	217	139
+js/src/collapse.js	0	3	3	0.75	381	26
+js/tests/unit/collapse.js	0	2	2	0.6666666666666666	470	87
+docs/getting-started/download.md	0	5	5	0.7	103	237
+js/src/tooltip.js	0	4	4	0.7272727272727273	651	39
+docs/assets/scss/_syntax.scss	0	2	2	0.5	66	6
+docs/getting-started/contents.md	0	2	2	0.8	45	11
+dist/js/bootstrap.js	0	4	4	0.8	3430	3797
+dist/js/bootstrap.min.js	1	3	4	0.7619047619047619	7	94
+docs/dist/js/bootstrap.js	0	4	4	0.8	3430	3797
+docs/dist/js/bootstrap.min.js	1	3	4	0.7619047619047619	7	94
+js/dist/collapse.js	0	2	2	0.8571428571428571	350	382
+js/dist/collapse.js.map	0	2	2	0.8571428571428571	1	0
+dist/css/bootstrap-flex.css	0	1	1	1.0	7381	22579
+dist/css/bootstrap-flex.css.map	0	1	1	1.0	1	0
+dist/css/bootstrap-flex.min.css	0	1	1	1.0	7	49
+dist/css/bootstrap-flex.min.css.map	0	1	1	1.0	1	0
+dist/css/bootstrap.css	2	1	3	0.9454545454545454	6686	4781
+dist/css/bootstrap.css.map	2	2	4	0.9152542372881356	1	0
+dist/css/bootstrap.min.css	2	1	3	0.9454545454545454	7	124
+dist/css/bootstrap.min.css.map	2	2	4	0.896551724137931	1	0
+docs/dist/css/bootstrap-flex.css	0	1	1	1.0	7381	22579
+docs/dist/css/bootstrap-flex.css.map	0	1	1	1.0	1	0
+docs/dist/css/bootstrap-flex.min.css	0	1	1	1.0	7	49
+docs/dist/css/bootstrap-flex.min.css.map	0	1	1	1.0	1	0
+docs/dist/css/bootstrap.css	3	1	4	0.9464285714285714	6686	4797
+docs/dist/css/bootstrap.css.map	3	1	4	0.9322033898305084	1	0
+docs/dist/css/bootstrap.min.css	3	1	4	0.9464285714285714	7	126
+docs/dist/css/bootstrap.min.css.map	4	1	5	0.8983050847457628	1	0
+js/dist/popover.js	0	2	2	0.8571428571428571	193	146
+js/dist/popover.js.map	0	2	2	0.8571428571428571	1	0
+js/dist/tooltip.js	0	2	2	0.9	591	678
+js/dist/tooltip.js.map	0	2	2	0.9	1	0
+scss/_tooltip.scss	0	1	1	1.0	90	37
+grunt/npm-shrinkwrap.json	2	3	5	0.5576923076923077	4175	36269
+docs/components/popovers.md	0	3	3	0.7777777777777778	346	49
+docs/components/tooltips.md	0	6	6	0.7058823529411765	322	108
+js/src/popover.js	0	3	3	0.7142857142857143	181	28
+scss/_popover.scss	0	1	1	1.0	171	142
+scss/_custom-forms.scss	0	6	6	0.6470588235294118	262	139
+scss/_forms.scss	1	2	3	0.9032258064516129	374	862
+docs/utilities/sizing-and-positioning.md	0	2	2	0.6666666666666666	34	66
+scss/utilities/_spacing.scss	0	3	3	0.7777777777777778	44	70
+dist/css/bootstrap-grid.min.css	0	1	1	1.0	2	16
+dist/css/bootstrap-grid.min.css.map	0	1	1	1.0	1	0
+docs/assets/js/docs.min.js	0	3	3	0.7272727272727273	26	88
+docs/dist/css/bootstrap-grid.min.css	0	1	1	1.0	2	16
+docs/dist/css/bootstrap-grid.min.css.map	0	1	1	1.0	1	0
+js/dist/alert.js	0	2	2	0.8333333333333334	179	195
+js/dist/alert.js.map	0	2	2	0.8333333333333334	1	0
+js/dist/button.js	0	2	2	0.875	167	149
+js/dist/button.js.map	0	2	2	0.875	1	0
+js/dist/carousel.js	0	3	3	0.7777777777777778	462	584
+js/dist/carousel.js.map	0	3	3	0.7777777777777778	1	0
+js/dist/dropdown.js	0	3	3	0.7777777777777778	285	370
+js/dist/dropdown.js.map	0	3	3	0.7777777777777778	1	0
+js/dist/modal.js	0	3	3	0.8333333333333334	509	664
+js/dist/modal.js.map	0	3	3	0.8333333333333334	1	0
+js/dist/scrollspy.js	0	3	3	0.7777777777777778	309	322
+js/dist/scrollspy.js.map	0	3	3	0.7777777777777778	1	0
+js/dist/tab.js	0	2	2	0.8333333333333334	253	270
+js/dist/tab.js.map	0	2	2	0.8333333333333334	1	0
+js/dist/util.js	0	3	3	0.7777777777777778	155	59
+js/dist/util.js.map	0	3	3	0.7777777777777778	1	0
+Gemfile	0	5	5	0.4	8	44
+Gemfile.lock	0	5	5	0.4166666666666667	56	274
+Gruntfile.js	1	4	5	0.45714285714285713	405	749
+_config.yml	3	3	6	0.6956521739130435	55	190
+bower.json	0	4	4	0.5	35	16
+docs/assets/js/vendor/anchor.min.js	0	2	2	0.75	6	24
+docs/assets/js/vendor/clipboard.min.js	0	2	2	0.75	7	16
+docs/assets/js/vendor/holder.min.js	0	2	2	0.75	13	26
+docs/assets/js/vendor/jekyll-search.min.js	0	2	2	0.75	1	8
+docs/assets/js/vendor/jquery.min.js	0	5	5	0.5	4	80
+docs/assets/js/vendor/tether.min.js	0	2	2	0.75	1	10
+js/.babelrc	0	2	2	0.5	14	28
+js/tests/vendor/jquery.min.js	0	5	5	0.5	4	80
+js/tests/vendor/qunit.css	0	2	2	0.5	415	340
+js/tests/vendor/qunit.js	0	2	2	0.5	4437	9582
+js/tests/vendor/tether.min.js	0	2	2	0.75	1	10
+package.json	3	3	6	0.5161290322580645	108	478
+scss/_tables.scss	0	3	3	0.75	196	74
+README.md	0	8	8	0.6	135	127
+docs/components/forms.md	3	1	4	0.90625	930	1408
+scss/_variables.scss	7	1	8	0.8235294117647058	857	578
+scss/mixins/_forms.scss	0	2	2	0.9285714285714286	81	85
+docs/utilities/colors.md	0	2	2	0.8571428571428571	49	147
+docs/components/navbar.md	2	1	3	0.9047619047619048	415	212
+.eslintignore	0	2	2	0.6666666666666666	3	9
+.hound.yml	0	4	4	0.6363636363636364	19	34
+CHANGELOG.md	0	2	2	0.6666666666666666	5	6
+CONTRIBUTING.md	0	5	5	0.5555555555555556	256	72
+ISSUE_TEMPLATE.md	0	4	4	0.6	22	176
+composer.json	0	2	2	0.6666666666666666	37	6
+dist/css/bootstrap-grid.css	0	1	1	1.0	996	3028
+dist/css/bootstrap-grid.css.map	0	1	1	1.0	1	0
+dist/css/bootstrap-reboot.css	0	1	1	1.0	453	1463
+dist/css/bootstrap-reboot.css.map	0	1	1	1.0	1	0
+dist/css/bootstrap-reboot.min.css	0	1	1	1.0	2	12
+dist/css/bootstrap-reboot.min.css.map	0	1	1	1.0	1	0
+docs/_data/nav.yml	0	3	3	0.8461538461538461	84	122
+docs/_data/showcase.yml	0	2	2	0.6666666666666666	19	24
+docs/_data/translations.yml	0	4	4	0.625	19	31
+docs/_includes/nav-docs.html	0	2	2	0.75	58	11
+docs/_includes/nav-home.html	0	2	2	0.9	59	37
+docs/about/brand.md	0	2	2	0.8	77	9
+docs/assets/css/docs-flexbox.min.css	0	2	2	0.9	1280	4994
+docs/assets/css/docs-flexbox.min.css.map	0	2	2	0.9	17	0
+docs/assets/css/docs.min.css	2	2	4	0.7727272727272727	1557	6337
+docs/assets/css/docs.min.css.map	2	3	5	0.72	63	0
+docs/assets/js/ie10-viewport-bug-workaround.js	0	3	3	0.6666666666666666	24	9
+docs/assets/js/src/application.js	0	5	5	0.5454545454545454	95	41
+docs/assets/scss/docs.scss	0	3	3	0.6666666666666666	65	9
+docs/browser-bugs.md	0	4	4	0.4166666666666667	70	129
+docs/components/alerts.md	0	1	1	1.0	131	19
+docs/components/card.md	0	2	2	0.9473684210526315	592	140
+docs/components/carousel.md	0	5	5	0.5555555555555556	248	39
+docs/components/dropdowns.md	0	3	3	0.8571428571428571	543	875
+docs/components/jumbotron.md	0	1	1	1.0	33	9
+docs/components/list-group.md	0	1	1	1.0	130	47
+docs/components/progress.md	0	2	2	0.9	88	125
+docs/content/figures.md	0	3	3	0.7142857142857143	26	27
+docs/content/images.md	0	5	5	0.7142857142857143	77	119
+docs/content/reboot.md	0	5	5	0.7368421052631579	338	79
+docs/content/tables.md	0	2	2	0.9230769230769231	851	590
+docs/content/typography.md	0	3	3	0.8571428571428571	293	110
+docs/dist/css/bootstrap-grid.css	0	1	1	1.0	996	3028
+docs/dist/css/bootstrap-grid.css.map	0	1	1	1.0	1	0
+docs/dist/css/bootstrap-reboot.css	0	1	1	1.0	453	1463
+docs/dist/css/bootstrap-reboot.css.map	0	1	1	1.0	1	0
+docs/dist/css/bootstrap-reboot.min.css	0	1	1	1.0	2	12
+docs/dist/css/bootstrap-reboot.min.css.map	0	1	1	1.0	1	0
+docs/examples/album/index.html	0	5	5	0.6666666666666666	129	42
+docs/examples/blog/index.html	0	5	5	0.5454545454545454	168	26
+docs/examples/cover/index.html	0	5	5	0.5454545454545454	70	26
+docs/examples/dashboard/index.html	0	5	5	0.6666666666666666	231	64
+docs/examples/grid/index.html	0	3	3	0.75	177	30
+docs/examples/index.md	0	3	3	0.5	165	42
+docs/examples/narrow-jumbotron/index.html	0	1	1	1.0	84	6
+docs/examples/navbar/index.html	0	6	6	0.625	72	48
+docs/examples/offcanvas/index.html	0	4	4	0.6363636363636364	115	26
+docs/examples/tooltip-viewport/index.html	0	4	4	0.6363636363636364	51	32
+docs/extend/icon-fonts.md	0	2	2	0.75	6	4
+docs/getting-started/accessibility.md	0	5	5	0.5555555555555556	56	21
+docs/getting-started/browsers-devices.md	0	4	4	0.6666666666666666	261	66
+docs/getting-started/build-tools.md	0	4	4	0.7272727272727273	70	32
+docs/getting-started/flexbox.md	0	4	4	0.6	52	19
+docs/getting-started/introduction.md	0	2	2	0.8333333333333334	131	29
+docs/layout/flexbox-grid.md	0	4	4	0.7692307692307693	246	136
+docs/layout/grid.md	5	1	6	0.8076923076923077	519	701
+docs/layout/media-object.md	0	1	1	1.0	174	63
+docs/migration.md	10	1	11	0.7209302325581395	257	241
+docs/utilities/borders.md	0	1	1	1.0	29	87
+docs/utilities/clearfix.md	0	2	2	0.8	39	90
+docs/utilities/display-property.md	0	3	3	0.6	29	64
+docs/utilities/responsive-helpers.md	0	2	2	0.8	70	206
+docs/utilities/screenreaders.md	0	3	3	0.6	23	52
+docs/utilities/spacing.md	0	2	2	0.8	69	186
+grunt/postcss.js	0	4	4	0.5	42	132
+js/tests/README.md	0	2	2	0.6666666666666666	61	18
+js/tests/visual/carousel.html	0	2	2	0.8	57	26
+nuget/bootstrap.nuspec	0	5	5	0.5	27	88
+nuget/bootstrap.sass.nuspec	0	5	5	0.5	27	82
+package.js	0	3	3	0.75	19	16
+scss/.scss-lint.yml	0	5	5	0.7333333333333333	543	50
+scss/_animation.scss	0	2	2	0.6666666666666666	36	45
+scss/_images.scss	0	4	4	0.7	43	53
+scss/_mixins.scss	0	2	2	0.8333333333333334	54	11
+scss/_modal.scss	0	3	3	0.7142857142857143	134	52
+scss/_normalize.scss	0	2	2	0.875	422	1732
+scss/_print.scss	0	2	2	0.7	122	236
+scss/_reboot.scss	2	1	3	0.9130434782608695	388	208
+scss/_type.scss	0	1	1	1.0	150	18
+scss/_utilities.scss	0	2	2	0.8571428571428571	11	18
+scss/bootstrap.scss	0	4	4	0.7857142857142857	54	24
+scss/mixins/_background-variant.scss	0	1	1	1.0	12	3
+scss/mixins/{_pulls.scss => _float.scss}	0	1	1	1.0	0	12
+scss/mixins/_grid-framework.scss	0	5	5	0.7894736842105263	69	249
+scss/mixins/_grid.scss	0	5	5	0.7777777777777778	107	233
+scss/mixins/_hover.scss	0	4	4	0.5	60	63
+scss/mixins/_image.scss	0	1	1	1.0	36	30
+scss/mixins/_screen-reader.scss	0	4	4	0.625	32	16
+scss/utilities/_borders.scss	0	1	1	1.0	30	90
+scss/utilities/_float.scss	0	1	1	1.0	13	39
+scss/utilities/_pulls.scss	0	1	1	1.0	0	39
+scss/utilities/_text.scss	0	2	2	0.8333333333333334	59	24
+docs/_data/browser-bugs.yml	2	3	5	0.6842105263157895	451	1234
+docs/_data/browser-features.yml	0	3	3	0.5384615384615384	149	556
+docs/_includes/header.html	0	2	2	0.9	39	47
+docs/_includes/social.html	0	1	1	1.0	31	93
+docs/about/history.md	0	1	1	1.0	13	3
+docs/about/license.md	0	1	1	1.0	34	3
+docs/about/team.md	0	1	1	1.0	22	3
+docs/about/translations.md	0	1	1	1.0	18	3
+docs/assets/brand/bootstrap-social-logo.png	0	1	1	1.0	267	0
+docs/assets/brand/bootstrap-social.png	0	1	1	1.0	2534	0
+docs/assets/scss/_component-examples.scss	0	3	3	0.75	346	34
+docs/assets/scss/_featurettes.scss	0	2	2	0.75	97	16
+docs/assets/scss/_masthead.scss	0	2	2	0.75	92	8
+docs/assets/scss/_page-header.scss	0	2	2	0.75	60	8
+docs/components/breadcrumb.md	0	1	1	1.0	34	3
+docs/components/button-group.md	0	1	1	1.0	158	3
+docs/components/buttons.md	0	1	1	1.0	188	23
+docs/components/input-group.md	0	2	2	0.8571428571428571	243	54
+docs/components/navs.md	0	1	1	1.0	403	3
+docs/components/pagination.md	0	2	2	0.7142857142857143	148	67
+docs/components/tag.md	0	1	1	1.0	50	101
+docs/content/code.md	0	1	1	1.0	56	3
+docs/getting-started/best-practices.md	0	1	1	1.0	18	3
+docs/getting-started/javascript.md	0	1	1	1.0	107	3
+docs/getting-started/options.md	0	2	2	0.8888888888888888	41	49
+docs/layout/overview.md	0	4	4	0.6363636363636364	157	181
+docs/layout/responsive-utilities.md	0	2	2	0.8333333333333334	240	60
+js/tests/unit/tooltip.js	0	2	2	0.6666666666666666	808	6
+scss/_button-group.scss	0	1	1	1.0	235	59
+scss/_card.scss	3	1	4	0.8571428571428571	322	180
+scss/_dropdown.scss	0	1	1	1.0	180	36
+scss/_navbar.scss	4	1	5	0.8333333333333334	315	379
+scss/mixins/_buttons.scss	0	2	2	0.6666666666666666	113	60
+.travis.yml	0	4	4	0.5	45	35
+docs/_includes/ads.html	0	1	1	1.0	1	4
+docs/_includes/page-headers.html	0	2	2	0.5	46	10
+docs/assets/scss/_ads.scss	0	1	1	1.0	50	187
+docs/assets/scss/_nav.scss	0	2	2	0.8571428571428571	40	22
+docs/assets/scss/flex-grid.scss	0	2	2	0.8571428571428571	33	160
+docs/components/utilities.md	0	4	4	0.5	0	881
+docs/utilities/close-icon.md	0	2	2	0.5	13	26
+docs/utilities/image-replacement.md	0	2	2	0.5	18	36
+docs/utilities/invisible-content.md	0	2	2	0.5	23	46
+docs/utilities/typography.md	0	2	2	0.5	58	116
+grunt/bs-sass-compile/libsass.js	0	2	2	0.8	35	15
+grunt/bs-sass-compile/sass.js	0	2	2	0.8	39	15
+js/src/alert.js	0	2	2	0.8	193	20
+js/src/button.js	0	2	2	0.8571428571428571	176	26
+js/src/carousel.js	0	4	4	0.5833333333333334	485	95
+js/src/dropdown.js	0	3	3	0.6666666666666666	301	139
+js/src/modal.js	0	7	7	0.4444444444444444	532	88
+js/src/scrollspy.js	0	3	3	0.6666666666666666	326	25
+js/src/tab.js	0	3	3	0.6666666666666666	278	30
+js/src/util.js	0	3	3	0.5833333333333334	165	39
+scss/_alert.scss	0	1	1	1.0	56	18
+scss/_input-group.scss	0	2	2	0.8333333333333334	188	80
+scss/_media.scss	0	1	1	1.0	81	24
+scss/_progress.scss	0	3	3	0.5	145	80
+scss/bootstrap-grid.scss	0	2	2	0.8	23	220
+scss/mixins/_text-emphasis.scss	0	1	1	1.0	12	6
+scss/utilities/_background.scss	0	4	4	0.42857142857142855	19	39
+scss/utilities/_visibility.scss	0	2	2	0.75	55	8
+docs/assets/scss/_content.scss	0	1	1	1.0	86	20
+docs/assets/scss/_sidebar.scss	0	1	1	1.0	107	34
+docs/_layouts/docs.html	0	1	1	1.0	36	8
+docs/assets/scss/_anchor.scss	0	1	1	1.0	20	4
+js/tests/unit/tab.js	0	1	1	1.0	228	16
+js/tests/unit/modal.js	0	3	3	0.5	406	73
+_visibility.scss	0	1	1	1.0	0	5
+.gitignore	0	3	3	0.3333333333333333	52	12
+dist/js/npm.js	0	3	3	0.5	0	48
+dist/js/umd/alert.js	0	3	3	0.5	0	844
+dist/js/umd/button.js	0	3	3	0.6666666666666666	0	760
+dist/js/umd/carousel.js	0	3	3	0.4	0	2004
+dist/js/umd/collapse.js	0	3	3	0.5	0	1532
+dist/js/umd/dropdown.js	0	3	3	0.4	0	1266
+dist/js/umd/modal.js	0	3	3	0.625	0	2230
+dist/js/umd/popover.js	0	3	3	0.5	0	880
+dist/js/umd/scrollspy.js	0	3	3	0.4	0	1358
+dist/js/umd/tab.js	0	3	3	0.5	0	1128
+dist/js/umd/tooltip.js	0	3	3	0.5	0	2552
+dist/js/umd/util.js	0	3	3	0.4	0	704
+docs/.htmlhintrc	0	3	3	0.3333333333333333	15	45
+docs/_plugins/bugify.rb	0	3	3	0.5	26	15
+docs/_plugins/highlight_alt.rb	0	3	3	0.5	85	18
+docs/assets/img/bs-themes.png	0	3	3	0.3333333333333333	1446	0
+docs/assets/img/components.png	0	3	3	0.3333333333333333	26	0
+docs/assets/img/devices.png	0	3	3	0.3333333333333333	25	0
+docs/assets/img/sass.png	0	3	3	0.3333333333333333	95	0
+docs/assets/scss/_clipboard-js.scss	0	3	3	0.5	38	8
+docs/assets/scss/_responsive-tests.scss	0	2	2	0.6666666666666666	95	3
+docs/dist/js/npm.js	0	3	3	0.5	0	48
+docs/dist/js/umd/alert.js	0	3	3	0.5	0	844
+docs/dist/js/umd/button.js	0	3	3	0.6666666666666666	0	760
+docs/dist/js/umd/carousel.js	0	3	3	0.4	0	2004
+docs/dist/js/umd/collapse.js	0	3	3	0.5	0	1532
+docs/dist/js/umd/dropdown.js	0	3	3	0.4	0	1266
+docs/dist/js/umd/modal.js	0	3	3	0.625	0	2230
+docs/dist/js/umd/popover.js	0	3	3	0.5	0	880
+docs/dist/js/umd/scrollspy.js	0	3	3	0.4	0	1358
+docs/dist/js/umd/tab.js	0	3	3	0.5	0	1128
+docs/dist/js/umd/tooltip.js	0	3	3	0.5	0	2552
+docs/dist/js/umd/util.js	0	3	3	0.4	0	704
+docs/examples/jumbotron/index.html	0	4	4	0.5	85	20
+docs/examples/starter-template/index.html	0	4	4	0.5	58	20
+grunt/autoprefixer-settings.js	0	3	3	0.3333333333333333	0	93
+grunt/bs-commonjs-generator.js	0	3	3	0.5	0	121
+grunt/configBridge.json	0	3	3	0.3333333333333333	10	24
+grunt/gcp-key.json.enc	0	3	3	0.3333333333333333	17	0
+grunt/upload-preview.sh	0	3	3	0.3333333333333333	28	84
+js/.eslintrc	0	3	3	0.6666666666666666	0	372
+js/.eslintrc.json	0	3	3	0.75	206	1126
+js/.jscsrc	0	3	3	0.5	42	8
+js/tests/unit/scrollspy.js	0	4	4	0.375	418	254
+nuget/MyGet.ps1	0	3	3	0.3333333333333333	18	48
+scss/mixins/_tab-focus.scss	0	3	3	0.3333333333333333	9	18
+scss/utilities/_flex.scss	0	3	3	0.6666666666666666	37	7
+LICENSE	0	2	2	0.6666666666666666	22	3
+docs/assets/js/ie-emulation-modes-warning.js	0	2	2	0.6666666666666666	52	3
+grunt/change-version.js	0	2	2	0.6666666666666666	106	3
+scss/mixins/_breakpoints.scss	0	1	1	1.0	86	20
+js/{.eslintrc => .eslintrc.json}	0	2	2	0.6666666666666666	0	14
+scss/mixins/_cards.scss	0	1	1	1.0	44	30
+docs/components/button-dropdown.md	0	1	1	1.0	0	752
+scss/_functions.scss	0	1	1	1.0	0	17
+docs/_includes/callout-warning-color-assistive-technologies.md	0	1	1	1.0	5	10
+docs/_includes/footer.html	0	1	1	1.0	58	16
+docs/components/label.md	0	1	1	1.0	0	92
+docs/examples/dashboard/dashboard.css	0	1	1	1.0	102	6
+grunt/sauce_browsers.yml	0	1	1	1.0	84	88
+js/tests/index.html	0	1	1	1.0	168	10
+js/tests/visual/alert.html	0	1	1	1.0	39	8
+js/tests/visual/button.html	0	1	1	1.0	66	18
+js/tests/visual/popover.html	0	1	1	1.0	47	8
+js/tests/visual/scrollspy.html	0	1	1	1.0	90	4
+js/tests/visual/tab.html	0	1	1	1.0	162	8
+js/tests/visual/tooltip.html	0	1	1	1.0	42	8
+scss/.csscomb.json	0	1	1	1.0	0	608
+scss/_buttons.scss	0	1	1	1.0	176	7
+scss/_carousel.scss	0	1	1	1.0	253	100
+scss/_code.scss	0	1	1	1.0	57	22
+scss/_labels.scss	0	1	1	1.0	0	158
+scss/_nav.scss	0	2	2	0.6666666666666666	157	6
+scss/_tags.scss	0	1	1	1.0	77	154
+scss/mixins/{_label.scss => _tag.scss}	0	1	1	1.0	0	8
+scss/utilities/_display.scss	0	2	2	0.6666666666666666	13	39
