@@ -12,26 +12,34 @@ import statsmodels.formula.api as sm
 from sklearn.cross_validation import train_test_split
 from sklearn.metrics import mean_squared_error
 from contributors import *
-
-
-#Data preprocessing 
+from sklearn.preprocessing import StandardScaler
 
 
 def split(X, y):
+    #Split the dataset into a training dataset and a test dataset
     #return : X_train, X_test, y_train, y_test
     return train_test_split(X, y, test_size=0.2, random_state=6)
 
 def regression(X, y):
+    #This function returns a linear regressor based on X and y
     
-    
-    #verifying that the first column is only composed of ones
+    #Verifying that the first column is only composed of ones
     one = True
     for i in range (len(X)):
         if X[i, 0] != 1:
-            one = False    
+            one = False   
+            
+    #Features scaling and adding the ones column
+    sc_X = StandardScaler()
     if not one :
+        X = sc_X.fit_transform(X)
         X = np.append(arr= np.ones((len(X), 1)).astype(int), values=X, axis=1)
         print('Ones column added for the regression')
+    else:
+        X[:, 1:] = sc_X.fit_transform(X[:, 1:])
+    sc_y = StandardScaler()
+    y = y.reshape(-1, 1)
+    y = sc_y.fit_transform(y)
     regressor_OLS = sm.OLS(endog = y, exog = X).fit()
     return(regressor_OLS)
     
@@ -39,9 +47,11 @@ def regression(X, y):
 
     
 def models(X, y):
+    #Returns R-squared, MSE_train and MSE_test for each model
     
-    #Data preprpcessing
+    #Data preprocessing
     X = np.append(arr= np.ones((len(X), 1)).astype(int), values=X, axis=1)
+    #We had a ones column in order to add a constant to the regression
     
     #Splitting the dataset
     X_train, X_test, y_train, y_test = split(X,y)
@@ -50,6 +60,7 @@ def models(X, y):
     MSE_train = []
     MSE_test = []
     
+    #index used for the differents models
     index = [[0,1], [0,1,4], [0, 1, 2], [0, 1, 2, 3], [0, 1, 2, 3, 4]]
     
     for i in range (0,5):
