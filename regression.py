@@ -8,11 +8,7 @@ Created on Thu Mar 22 10:48:02 2018
 #Linear regression
 
 import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-from sklearn.linear_model import LinearRegression
 import statsmodels.formula.api as sm
-from sklearn.preprocessing import StandardScaler
 from sklearn.cross_validation import train_test_split
 from sklearn.metrics import mean_squared_error
 from contributors import *
