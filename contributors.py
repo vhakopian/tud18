@@ -8,25 +8,31 @@ import pickle
 
 
 def get_dico(repo_path, branch, last_release_commit_id):
+    """
+    arg: repo_path -> path to the git repository
+         branch -> name of the branch to be analysed
+         last_release_commit_id -> last commit of the release to be alaysed
+    return: dictionary where the key is a filename and the value is another dictionary of the type:
+                {"size":size, "churn": churn,"minor":minor, "major":major, "total":total , "ownership":ownership}
+    """
     repo = Repo(repo_path)
-
     commits  = repo.iter_commits()
     dico = {}
     dico_sizechurn = {}
-    
+
     for commit in repo.iter_commits(branch):
-        
+
         if not (between_beginning_2016_RL(commit)): continue
-            
-        
+
+
         contributor_name = commit.author.name
         changes = commit.stats.files
-        
+
         for file in changes:
-            
+
             file_name = str(file)
             churn = changes[file]['deletions']+changes[file]['insertions']
-            
+
             if file_name in dico:
                 if contributor_name in dico[file_name]:
                     dico[file_name][contributor_name] += 1
@@ -34,36 +40,41 @@ def get_dico(repo_path, branch, last_release_commit_id):
                     dico[file_name][contributor_name] = 1
             else:
                 dico[file_name] = {contributor_name: 1}
-            
+
             if file_name in dico_sizechurn:
                 dico_sizechurn[file_name]["churn"] += churn
             else :
                 dico_sizechurn[file_name] = {"churn" : churn, "size" : 0}
-     
-    deletedFiles = [] 
-  
+
+    deletedFiles = []
+
     for filename in dico_sizechurn:
-        
+
         try:
             size = 0
             for commit, lines in repo.blame(last_release_commit_id, filename):
                 size += len(lines)
             dico_sizechurn[filename]["size"]=size
-            
-            
+
+
         except :
             #the file named filename doesn't exist in the last release of 2016
             deletedFiles.append(filename)
-            pass 
-            
+            pass
+
     for file in deletedFiles:
             del dico[file]
             del dico_sizechurn[file]
-            
+
     return(dico, dico_sizechurn)
 
 
 def metrics(dico):
+    """
+    arg: dico ->dictionary where the keys are file names and the values are dictionaries with authors as keys and number of contributions as values
+
+    return: dictionary that contains the metrics major, minor, total, ownership for each file
+    """
     output= {}
     for file in dico:
         contributions=0
@@ -97,25 +108,25 @@ def write_results(X,y,dict):
         i+=1
 
     file.close()
-    
+
 
 def vectorization(dict, dict_sizechurn, dict_bugs):
     X = []
     y = []
-    
+
     for filename in dict:
         d = dict[filename]
         d_sizechurn = dict_sizechurn[filename]
-        
+
         if filename in dict_bugs :
             bugs = dict_bugs[filename]
         else :
             bugs = 0
-        
+
         X.append( [d_sizechurn["size"],d_sizechurn["churn"],d["minor"],d["major"],d["total"],d["ownership"]])
-        
+
         y.append(bugs)
-        
+
     return (array(X), array(y))
 
 
@@ -136,10 +147,10 @@ def main():
 
     (X, y) = vectorization(dict_metrics, dict_sizechurn, dict_bugs)
     write_results(X,y, dict_contributors)
-    
+
     save_data(X,y,"/home/guillaume/Documents/Athens TUD18/save_bootstrap.pkl")
-    
-    
+
+
 
 if __name__ == "__main__":
     main()

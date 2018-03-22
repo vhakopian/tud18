@@ -1,4 +1,5 @@
 from date import *
+from git import *
 
 EMPTY_TREE_SHA   = "4b825dc642cb6eb9a060e54bf8d69288fbee4904"
 
@@ -9,19 +10,28 @@ def get_bug_dict(repo, branch):
     return : dictionary where the key is the file name and the value is the number of errors
     """
     bug_dict = {}
-    c = 0
-    print(c)
+    commits_one_year = 0
+    commits_six_months = 0
+    bugs_found = 0
+    commits_avant = 0
     for commit in repo.iter_commits(branch):
-        c += 1
-        print(c)
         #check if the commit was made after less that 12 months after the release
+        if( one_year(commit)):
+            commits_one_year+=1
+        if(six_months(commit)):
+            commits_six_months+=1
+        if(between_beginning_2016_RL(commit)):
+            commits_avant += 1
         if( not one_year(commit)):
+
             continue
         #check whether the commit was a bug fix or not
         if( not is_bug_fix(commit)):
             continue
+        bugs_found+=1
         #adds the bugs fixed by the commit to the dictionary
-        valid_bugs(bug_dict,commit,repo)
+    #    valid_bugs(bug_dict,commit,repo)
+    print("one year:" + str(commits_one_year) + " six months: " + str(commits_six_months) + " bugs found: " + str(bugs_found) + " commits avant : " + str(commits_avant))
     return bug_dict
 
 
@@ -97,9 +107,9 @@ def is_bug_fix(commit):
     main function to test the module
 """
 def main():
-    path = "/Users/danielmendonca/git/pygame"
+    path = "/Users/danielmendonca/git/bootstrap"
     repo = Repo(path)
-    bug_dict = get_bug_dict(repo)
+    bug_dict = get_bug_dict(repo, 'master')
     print(bug_dict)
     print("hello" )
 
