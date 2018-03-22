@@ -129,15 +129,14 @@ def load_data(path):
 
 
 def main():
-    path = "/home/guillaume/Documents/Athens TUD18/bootstrap"
+    path = "/Users/vahagn/bootstrap"
     dict_contributors, dict_sizechurn = get_dico(path, 'v4-dev', 'b5890e0608ad2262cde4a38e90afa19f1cb5d852')
     dict_metrics = metrics(dict_contributors)
     dict_bugs = get_bug_dict(Repo(path), 'v4-dev')
-    print(dict_contributors)
-    print(dict_metrics)
+
     (X, y) = vectorization(dict_metrics, dict_sizechurn, dict_bugs)
-    print(X)
     write_results(X,y, dict_contributors)
+    
     save_data(X,y,"/home/guillaume/Documents/Athens TUD18/save_bootstrap.pkl")
     
     
