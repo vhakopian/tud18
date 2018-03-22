@@ -1,10 +1,10 @@
 # Discussion
 
-## Bootstrap data
+## [Bootstrap][BoSt] data
 
 ![N|Solid](https://github.com/vahagnh/tud18/blob/master/numberofbugs.png)
 
-## Pygame data
+## [Pygame][PyGa] data
 
 ![N|Solid](numberofbugspygame.png)
 
@@ -17,3 +17,7 @@
 | BASE + MINOR | 0 | 0 | 0 | 0 | 0 | 0 |
 | BASE + MINOR + MAJOR | 0 | 0 | 0 | 0 | 0 | 0 |
 | BASE + MINOR + MAJOR + OWNERSHIP | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+[BoSt]: <https://github.com/twbs/bootstrap>
+[PyGa]: <https://github.com/pygame/>
