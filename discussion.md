@@ -10,10 +10,10 @@
 
 ## Analysis
 
-| METRIC | CORRELATION Bootstrap | CORRELATION Pygame |
-| ------ | ------ | ------ |
-| BASE | 0 | 0 |
-| BASE + TOTAL | 0 | 0 |
-| BASE + MINOR | 0 | 0 |
-| BASE + MINOR + MAJOR | 0 | 0 |
-| BASE + MINOR + MAJOR + OWNERSHIP | 0 | 0 |
+| METRIC | CORRELATION Bootstrap | CORRELATION Pygame | MSE TRAIN Bootstrap | MSE TRAIN Pygame | MSE TEST Bootstrap | MSE TEST Pygame |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| BASE | 0 | 0 | 0 | 0 | 0 | 0 |
+| BASE + TOTAL | 0 | 0 | 0 | 0 | 0 | 0 |
+| BASE + MINOR | 0 | 0 | 0 | 0 | 0 | 0 |
+| BASE + MINOR + MAJOR | 0 | 0 | 0 | 0 | 0 | 0 |
+| BASE + MINOR + MAJOR + OWNERSHIP | 0 | 0 | 0 | 0 | 0 | 0 |
