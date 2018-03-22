@@ -1,19 +1,20 @@
 from git import *
 from date import *
 from numpy import *
+from bug_finder import get_bug_dict
 import datetime
+import pickle
 
 
 
-
-def get_dico(repo_path):
+def get_dico(repo_path, branch, last_release_commit_id):
     repo = Repo(repo_path)
 
     commits  = repo.iter_commits()
     dico = {}
     dico_sizechurn = {}
     
-    for commit in repo.iter_commits('v4-dev'):
+    for commit in repo.iter_commits(branch):
         
         if not (between_beginning_2016_RL(commit)): continue
             
@@ -45,7 +46,7 @@ def get_dico(repo_path):
         
         try:
             size = 0
-            for commit, lines in repo.blame('b5890e0608ad2262cde4a38e90afa19f1cb5d852', filename):
+            for commit, lines in repo.blame(last_release_commit_id, filename):
                 size += len(lines)
             dico_sizechurn[filename]["size"]=size
             
@@ -85,12 +86,16 @@ def metrics(dico):
 
 
 
-def write_results(X,y):
+def write_results(X,y,dict):
 
     file  = open("results.tsv", "w")
     file.write("filename\tsize\tchurn\tminor\tmajor\ttotal\townership\tbugs\n")
+    i = 0
 
-    file.write(filename+"\t"+X[i,0]+"\t"+X[i,1]+"\t"+X[i,2]+"\t"+X[i,3]+"\t"+X[i,4]+"\t"+X[i,5]+"\t"+y[i]+"\n")
+    for filename in dict:
+        file.write(filename+"\t"+str(X[i,0])+"\t"+str(X[i,1])+"\t"+str(X[i,2])+"\t"+str(X[i,3])+"\t"+str(X[i,4])+"\t"+str(X[i,5])+"\t"+str(y[i])+"\n")
+        i+=1
+
     file.close()
     
 
@@ -113,12 +118,27 @@ def vectorization(dict, dict_sizechurn, dict_bugs):
         
     return (array(X), array(y))
 
+
+def save_data(X, y, path):
+    pickle.dump([X,y], open(path, "wb"))
+
+
+def load_data(path):
+    data = pickle.load(open(path, "rb"))
+    return data[0], data[1]
+
+
 def main():
-    path = "/Users/vahagn/bootstrap"
-    dict_contributors, dict_sizechurn = get_dico(path)
+    path = "/home/guillaume/Documents/Athens TUD18/bootstrap"
+    dict_contributors, dict_sizechurn = get_dico(path, 'v4-dev', 'b5890e0608ad2262cde4a38e90afa19f1cb5d852')
     dict_metrics = metrics(dict_contributors)
+    dict_bugs = get_bug_dict(Repo(path), 'v4-dev')
+    print(dict_contributors)
+    print(dict_metrics)
     (X, y) = vectorization(dict_metrics, dict_sizechurn, dict_bugs)
-    write_results(X,y)
+    print(X)
+    write_results(X,y, dict_contributors)
+    save_data(X,y,"/home/guillaume/Documents/Athens TUD18/save_bootstrap.pkl")
     
     
 

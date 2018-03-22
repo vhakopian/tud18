@@ -1,4 +1,4 @@
-from contributors import *
+from date import *
 
 EMPTY_TREE_SHA   = "4b825dc642cb6eb9a060e54bf8d69288fbee4904"
 
@@ -8,17 +8,18 @@ def is_bug_fix(commit):
             return True
     return False
 
-def get_bug_dict(repo):
+def get_bug_dict(repo, branch):
     bug_dict = {}
     c = 0
     print(c)
-    for commit in repo.iter_commits('master'):
+    for commit in repo.iter_commits(branch):
         c += 1
         print(c)
         if( not one_year(commit)):
             continue
         if( not is_bug_fix(commit)):
             continue
+
         valid_bugs(bug_dict,commit,repo)
     return bug_dict
 
@@ -26,24 +27,20 @@ def get_bug_dict(repo):
 def valid_bugs(bug_dict, commit,repo) :
     parent = commit.parents[0] if commit.parents else EMPTY_TREE_SHA
     for item in commit.diff(parent):
-        print(item.a_path)
         breaker = False
         try:
             for commit_blamed, lines in repo.blame(parent,item.a_path):
-                print("commit sha:" + str(commit_blamed))
                 nline = 0
                 if(not six_months(commit_blamed)):
                     continue
                 for line in lines:
                     nline +=1
-                    print("file:" + item.a_path + "verifying line:" + str(nline))
                     if(was_deleted(commit,line,commit_blamed,item.a_path,repo)):
                         if item.a_path in bug_dict:
                             bug_dict[item.a_path] += 1
                         else:
                             bug_dict[item.a_path] = 1
                         breaker = True
-                #        print("aa")
                         break
                 if breaker:
                     break
