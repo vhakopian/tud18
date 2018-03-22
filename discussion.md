@@ -18,6 +18,10 @@
 | BASE + MINOR + MAJOR | 0.22584710883972514 | 0.0013935621067346915 | 0.733229760832356 | 0.02361353852520891 | 1.0510042954307408 | 0.007183619186462648 |
 | BASE + MINOR + MAJOR + OWNERSHIP | 0.25218226758090667 | 0.0016777322605541212 | 0.7082867264966736 | 0.0236068188981163 | 1.0435597763348212 | 0.0072510773054636135 |
 
+Correlation factors are pretty low. Usually we need values greater than 60% to conclude that there is a correlation.
+We think that the quality of our data is not good enough :
+* Pygame repo: not enough errors detected (bad time window, not many line deletions) and not so many contributors for the same file
+* Bootstrap repo: many errors detected but not so sure about the quality of the detection
 
 [BoSt]: <https://github.com/twbs/bootstrap>
 [PyGa]: <https://github.com/pygame/>
