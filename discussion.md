@@ -2,9 +2,17 @@
 
 ## [Bootstrap][BoSt] data
 
+| # contributors | # commits between beginning of 2016 and last release | # bugs detected after the release |
+| ------ | ------ | ------ |
+| 995 | 1272 | 168 |
+
 ![N|Solid](https://github.com/vahagnh/tud18/blob/master/numberofbugs.png)
 
 ## [Pygame][PyGa] data
+
+| # contributors | # commits between beginning of 2016 and last release | # bugs detected after the release |
+| ------ | ------ | ------ |
+| 37 | 122 | 11 |
 
 ![N|Solid](numberofbugspygame.png)
 
