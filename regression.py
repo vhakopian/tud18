@@ -12,6 +12,8 @@ import statsmodels.formula.api as sm
 from sklearn.cross_validation import train_test_split
 from sklearn.metrics import mean_squared_error
 from contributors import *
+from plotting import *
+
 
 
 #Data preprocessing 
@@ -131,30 +133,16 @@ def models(X, y):
     return R, MSE_train, MSE_test
     
 def main():
-    X, y = load_data('save_bootstrap.pkl')
+    X, y = load_data("save_bootstrap.pkl")
     regressor = regression(X, y)
+    
     print(models(X, y))
     
+    
+    plot_regression(X,y,regressor)
     
     
 
 if __name__ == "__main__":
     main()
     
-"""
-
-#Splitting the dataset
-from sklearn.cross_validation import train_test_split
-#X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state= 0 )
-
-
-#Plotting the graphs
-from sklearn.linear_model import LinearRegression
-regressor = LinearRegression()
-#regressor.fit(X_train, y_train)
-
-
-for i in range (0, np.size(X, 1)):
-    #plt.plot(X_train[:, i], y)
-   # plt.show()
-"""
