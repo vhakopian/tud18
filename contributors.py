@@ -1,5 +1,6 @@
 from git import *
 from date import *
+from numpy import *
 import datetime
 
 
@@ -84,24 +85,42 @@ def metrics(dico):
 
 
 
-def write_results(dict, dict_sizechurn):
+def write_results(X,y):
 
     file  = open("results.tsv", "w")
-    file.write("filename\tminor\tmajor\ttotal\townership\tsize\tchurn\n")
+    file.write("filename\tsize\tchurn\tminor\tmajor\ttotal\townership\tbugs\n")
+
+    file.write(filename+"\t"+X[i,0]+"\t"+X[i,1]+"\t"+X[i,2]+"\t"+X[i,3]+"\t"+X[i,4]+"\t"+X[i,5]+"\t"+y[i]+"\n")
+    file.close()
+    
+
+def vectorization(dict, dict_sizechurn, dict_bugs):
+    X = []
+    y = []
+    
     for filename in dict:
         d = dict[filename]
         d_sizechurn = dict_sizechurn[filename]
-
-        file.write(filename + "\t" + str(d['minor'])+"\t"+str(d['major'])+"\t"+str(d['total'])+"\t"+str(d['ownership'])+"\t"+str(d_sizechurn['size'])+"\t"+str(d_sizechurn['churn'])+ "\n")
-
-    file.close()
+        
+        if filename in dict_bugs :
+            bugs = dict_bugs[filename]
+        else :
+            bugs = 0
+        
+        X.append( [d_sizechurn["size"],d_sizechurn["churn"],d["minor"],d["major"],d["total"],d["ownership"]])
+        
+        y.append(bugs)
+        
+    return (array(X), array(y))
 
 def main():
     path = "/Users/vahagn/bootstrap"
-    dico, dico_sizechurn = get_dico(path)
-    m = metrics(dico)
-    write_results(m, dico_sizechurn)
-
+    dict_contributors, dict_sizechurn = get_dico(path)
+    dict_metrics = metrics(dict_contributors)
+    (X, y) = vectorization(dict_metrics, dict_sizechurn, dict_bugs)
+    write_results(X,y)
+    
+    
 
 if __name__ == "__main__":
     main()
