@@ -48,11 +48,13 @@ def regression(X, y):
     
 def models(X, y):
     #Returns R-squared, MSE_train and MSE_test for each model
-    
+    print('size')
+    print(str(size(X, axis=1)))
     #Data preprocessing
     X = np.append(arr= np.ones((len(X), 1)).astype(int), values=X, axis=1)
     #We had a ones column in order to add a constant to the regression
-    
+    print('size')
+    print(str(size(X, axis=1)))
     #Splitting the dataset
     X_train, X_test, y_train, y_test = split(X,y)
         
@@ -61,7 +63,7 @@ def models(X, y):
     MSE_test = []
     
     #index used for the differents models
-    index = [[0,1,2], [0,1,2,5], [0,1, 2, 3], [0,1, 2, 3, 4], [0,1, 2, 3, 4, 5]]
+    index = [[0,1,2], [0,1,2,5], [0,1, 2, 3], [0,1, 2, 3, 4], [0,1, 2, 3, 4, 6]]
     #index = [[0,1], [0,1,4], [0, 1, 2], [0, 1, 2, 3], [0, 1, 2, 3, 4]]
     
     for i in range (0,5):
@@ -90,11 +92,8 @@ def models(X, y):
 def main():
     
     X, y = load_data('save_bootstrap.pkl')
-    regressor = regression(X, y)
-    print('P-values')
-    print(regression(X,y).pvalues)
     print(models(X, y))
-    
+    print(regression(X,y).summary())
   
 
 if __name__ == "__main__":
