@@ -15,6 +15,10 @@ Our results are in the file results.tsv. The source code is divided between cont
 
 We modified the source code of the assignement 1 to adapt to the new instructions.
 
+## Assignement 3
+
+We finished building the data pipeline and analyzed the results.
+
 ## Built With
 
 * Python
