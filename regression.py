@@ -61,15 +61,27 @@ def models(X, y):
     MSE_test = []
     
     #index used for the differents models
-    index = [[0,1], [0,1,4], [0, 1, 2], [0, 1, 2, 3], [0, 1, 2, 3, 4]]
+    index = [[0,1,2], [0,1,2,5], [0,1, 2, 3], [0,1, 2, 3, 4], [0,1, 2, 3, 4, 5]]
+    #index = [[0,1], [0,1,4], [0, 1, 2], [0, 1, 2, 3], [0, 1, 2, 3, 4]]
     
     for i in range (0,5):
+        print('model ' + str(i))
         current_Xtrain = X_train[:, index[i]]
         current_Xtest = X_test[:, index[i]]
         regressor = regression(current_Xtrain, y_train)
-        R.append(regressor.rsquared)        
+        
+        sc_X = StandardScaler()
+        current_Xtest[:, 1:] = sc_X.fit_transform(current_Xtest[:, 1:])
+        
+        sc_y = StandardScaler()
+        y_test = y_test.reshape(-1, 1)
+        y_test = sc_y.fit_transform(y_test)
+        
+        
         y_trainpred = regressor.predict(current_Xtrain)
         y_testpred = regressor.predict(current_Xtest)
+        
+        R.append(regressor.rsquared) 
         MSE_train.append(mean_squared_error(y_train, y_trainpred))
         MSE_test.append(mean_squared_error(y_test, y_testpred))
     
@@ -79,11 +91,11 @@ def main():
     
     X, y = load_data('save_bootstrap.pkl')
     regressor = regression(X, y)
+    print('P-values')
+    print(regression(X,y).pvalues)
     print(models(X, y))
     
-    
-    
-    
+  
 
 if __name__ == "__main__":
     main()
