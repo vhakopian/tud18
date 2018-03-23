@@ -1,7 +1,12 @@
 # tud18
 
 Git repository of our project for the course TUD18 during Athens week.
+## Members 
 
+Daniel Mendonça Morais do Amaral
+Guillaume Le Moing
+Théo Bodrito
+Vahagn Hakopian
 
 ## Repository
 
